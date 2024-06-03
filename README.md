@@ -148,6 +148,15 @@ Once you've completed these steps, you're ready to translate the database to you
 python3 llm_translator.py
 ```
 
+### Gif builder
+
+Adapt the configuration part of the script `gif_builder.py` to use your favorite gif timing.
+
+The script will combine jpg images into one animated gif.
+```sh
+python3 gif_builder.py
+```
+
 ### TODO
 
 #### Incomplete fields
