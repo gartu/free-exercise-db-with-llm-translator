@@ -128,6 +128,26 @@ npm run test:e2e
 npm run lint
 ```
 
+### Translation guide
+
+This database can be translated using the `llm_translator.py` script. To get started, follow these steps:
+
+#### Install ollama and choose your model
+
+Visit the ollama website (https://ollama.com/) and install it. Download the desired model. Currently, the `aya 35b` model is provide high-quality translations in french.
+
+Adjust the model size or quantization degree according to your system configuration. For reference, it took around 30 hours to complete on a system with an Nvidia 3070, 40GB RAM, and an i7-11700 processor, utilizing 66% of the CPU and 34% of the GPU, as reported by `ollama ps`.
+
+#### Configure the Script and run it
+
+In the `llm_translator.py` script, update the configuration section to match your desired translation language.
+
+Once you've completed these steps, you're ready to translate the database to your favorite language using following command :
+
+```sh
+python3 llm_translator.py
+```
+
 ### TODO
 
 #### Incomplete fields
