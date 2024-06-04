@@ -148,14 +148,48 @@ Once you've completed these steps, you're ready to translate the database to you
 python3 llm_translator.py
 ```
 
-### Gif builder
+### WEBP and GIF builder
 
-Adapt the configuration part of the script `gif_builder.py` to use your favorite gif timing.
+Adapt the configuration part of the script `animated_img_builder.py` to use your favorite timing.
 
-The script will combine jpg images into one animated gif.
+The script will combine jpg images into one animated one.
 ```sh
-python3 gif_builder.py
+python3 animated_img_builder.py
 ```
+
+### SQL insert generator for wger app
+
+#### Wger Exercise Database Builder
+The script `wger_insert_builder.py`, was created to generate SQL insertions for the Wger project, a comprehensive exercise management system.
+
+#### Configuration
+Before running the script, please update the configuration at the top of the file to match your specific use case.
+
+#### Multilingual Support
+If you plan to insert exercises in multiple languages, note that the current script will keep the same main name in English and only change the instructions. However, you could easily adapt `llm_translator.py` and `wger_insert_builder.py` to translate both the exercise names and instructions.
+
+#### Database Preparation
+To use this script, you'll need to provide the current maximum IDs for the relevant tables. To do this, run a `SELECT MAX(id) from my_table` query on each table. However, be aware that history table PK is history_key.
+
+Before running the script, you could clear the database by running the `clear_exercises.sql` script to remove any existing data, ensuring a clean state for the import.
+
+
+### Special help for Java devs
+Just kidding, I'm one of them :)
+```sh
+python3 wger_insert_builder.py
+```
+
+#### Image Management
+During script execution, dynamic WebP images will be dispatched in the /media/exercise_images/ directory. Make sure to move the entire folder to the location used by your application. If you're using Wger's Docker Compose setup, this refers to the volume referenced as media.
+
+#### Acknowledgments
+Huge thanks to the Wger project and the Free Exercise DB project, along with their amazing contributors, for creating such powerful tools for exercise management and providing a comprehensive database of exercises ! 
+&hearts;
+&hearts;
+&hearts;
+
+I hope my utility scripts can be helpful to others as well! :)
 
 ### TODO
 
