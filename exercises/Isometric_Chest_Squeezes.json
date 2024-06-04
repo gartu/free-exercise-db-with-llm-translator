@@ -23,5 +23,12 @@
     "Isometric_Chest_Squeezes/0.jpg",
     "Isometric_Chest_Squeezes/1.jpg"
   ],
-  "id": "Isometric_Chest_Squeezes"
+  "id": "Isometric_Chest_Squeezes",
+  "instructions_fr": [
+    "Assis ou debout, pliez les bras à un angle de 90 degrés et placez les paumes de vos mains ensemble devant votre poitrine. Astuce : Vos mains doivent être ouvertes avec les paumes jointes et les doigts tournés vers l'avant (perpendiculairement à votre tronc).",
+    "Poussez les deux mains l'une contre l'autre en contractant votre poitrine. Commencez lentement et augmentez progressivement la tension. Continuez à respirer normalement pendant que vous exécutez cette contraction.",
+    "Maintenez la position pendant le nombre de secondes recommandé.",
+    "Libérez maintenant lentement la tension.",
+    "Reposez-vous pendant le temps recommandé et répétez l'opération."
+  ]
 }

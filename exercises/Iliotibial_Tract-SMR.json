@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lay on your side, with the bottom leg placed onto a foam roller between the hip and the knee. The other leg can be crossed in front of you.",
     "Place as much of your weight as is tolerable onto your bottom leg; there is no need to keep your bottom leg in contact with the ground. Be sure to relax the muscles of the leg you are stretching.",
@@ -20,5 +18,10 @@
     "Iliotibial_Tract-SMR/0.jpg",
     "Iliotibial_Tract-SMR/1.jpg"
   ],
-  "id": "Iliotibial_Tract-SMR"
+  "id": "Iliotibial_Tract-SMR",
+  "instructions_fr": [
+    "Allongez-vous sur le côté, en plaçant la jambe du fond sur un rouleau en mousse entre le bassin et le genou. L'autre jambe peut être croisée devant vous.",
+    "Placez autant de votre poids que possible sur votre jambe inférieure ; il n'est pas nécessaire de garder votre jambe inférieure en contact avec le sol. Assurez-vous de détendre les muscles de la jambe que vous étirez.",
+    "Enroulez votre jambe sur la mousse de votre hanche jusqu'au genou, en faisant une pause de 10 à 30 secondes aux points de tension. Répétez avec l'autre jambe."
+  ]
 }

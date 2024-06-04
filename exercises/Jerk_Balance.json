@@ -23,5 +23,10 @@
     "Jerk_Balance/0.jpg",
     "Jerk_Balance/1.jpg"
   ],
-  "id": "Jerk_Balance"
+  "id": "Jerk_Balance",
+  "instructions_fr": [
+    "Cet exercice vous aide à apprendre à vous baisser suffisamment lors du jet et à corriger ceux qui reculent pendant le mouvement. Commencez avec la barre placée dans la position de jet, les épaules en avant, le torse droit et les pieds légèrement écartés.",
+    "Commencez le mouvement comme vous feriez un lancer normal, en fléchissant les genoux tout en gardant votre tronc vertical, puis en remontant rapidement, en utilisant la dynamique et non vos bras pour soulever le poids.",
+    "Gardez le pied arrière en place, utilisez-le pour propulser votre corps vers l'avant en grand écart lorsque vous jetez le poids. Remontrez en vous levant avec le poids au-dessus de la tête."
+  ]
 }

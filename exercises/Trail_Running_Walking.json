@@ -21,5 +21,9 @@
     "Trail_Running_Walking/0.jpg",
     "Trail_Running_Walking/1.jpg"
   ],
-  "id": "Trail_Running_Walking"
+  "id": "Trail_Running_Walking",
+  "instructions_fr": [
+    "La course à pied ou la randonnée en montagne fait monter immédiatement le flux sanguin et les battements cardiaques. Assurez-vous d'avoir de bonnes chaussures. Alors que vous utilisez les muscles de vos mollets et de vos fessiers pour tirer sur une colline, les genoux, les articulations et les chevilles absorbent la plus grande partie des chocs lors de la descente. Prenez des pas plus petits lorsque vous marchez en descente, gardez les genoux pliés pour réduire l'impact et ralentissez pour éviter de tomber.",
+    "Une personne de 150 livres peut brûler plus de 200 calories en marchant sur une pente pendant 30 minutes, par rapport à 175 sur une surface plane. Si vous courez sur le sentier, une personne de 150 livres peut brûler plus de 500 calories en 30 minutes."
+  ]
 }

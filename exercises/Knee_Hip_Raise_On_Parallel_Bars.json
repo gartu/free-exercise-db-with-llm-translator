@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position your body on the vertical leg raise bench so that your forearms are resting on the pads next to the torso and holding on to the handles. Your arms will be bent at a 90 degree angle.",
     "The torso should be straight with the lower back pressed against the pad of the machine and the legs extended pointing towards the floor. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Knee_Hip_Raise_On_Parallel_Bars/0.jpg",
     "Knee_Hip_Raise_On_Parallel_Bars/1.jpg"
   ],
-  "id": "Knee_Hip_Raise_On_Parallel_Bars"
+  "id": "Knee_Hip_Raise_On_Parallel_Bars",
+  "instructions_fr": [
+    "Placez votre corps sur le banc de relevés de jambes verticaux de sorte que vos avant-bras reposent sur les coussinets à côté du torse et que vous tenez les poignées. Vos bras seront pliés à un angle de 90 degrés.",
+    "Le torse doit être droit, le bas du dos appuyé contre la coque de la machine et les jambes étendues en direction du sol. \tCeci sera votre position de départ.",
+    "Maintenant, respirant, soulevez vos jambes en les gardant étendues. Continuez ce mouvement jusqu'à ce que vos jambes soient à peu près parallèles au sol, puis maintenez le contraction pendant une seconde. Astuce : N'utilisez pas d'élan ou de balancement lors de l'exécution de cet exercice.",
+    "Revenez lentement à la position de départ en respirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

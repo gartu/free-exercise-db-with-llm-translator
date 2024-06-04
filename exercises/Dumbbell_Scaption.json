@@ -20,5 +20,10 @@
     "Dumbbell_Scaption/0.jpg",
     "Dumbbell_Scaption/1.jpg"
   ],
-  "id": "Dumbbell_Scaption"
+  "id": "Dumbbell_Scaption",
+  "instructions_fr": [
+    "Cet exercice correctif renforce les muscles qui stabilisent votre omoplate. Tenez un poids léger dans chaque main, pendantes à vos côtés. Vos pouces devraient pointer vers le haut.",
+    "Commencez le mouvement en soulevant vos bras devant vous, à environ 30 degrés du centre. Vos bras doivent être complètement tendus pendant que vous exécutez le mouvement.",
+    "Continuez jusqu'à ce que vos bras soient parallèles au sol, puis revenez à la position de départ."
+  ]
 }

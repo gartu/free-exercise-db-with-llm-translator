@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "neck"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie face down with your whole body straight on a flat bench while holding a weight plate behind your head. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the upper chest, neck and face to be off the bench. This will be your starting position.",
     "While keeping the plate secure on the back of your head slowly lower your head (as in saying \"yes\") as you breathe in.",
@@ -21,5 +19,11 @@
     "Lying_Face_Down_Plate_Neck_Resistance/0.jpg",
     "Lying_Face_Down_Plate_Neck_Resistance/1.jpg"
   ],
-  "id": "Lying_Face_Down_Plate_Neck_Resistance"
+  "id": "Lying_Face_Down_Plate_Neck_Resistance",
+  "instructions_fr": [
+    "Allongez-vous le visage vers le bas avec tout votre corps droit sur un banc plat tout en tenant une plaque de poids derrière votre tête. Astuce : vous devrez vous positionner de sorte que vos épaules se trouvent légèrement au-dessus de l'extrémité d'un banc plat afin que la poitrine supérieure, le cou et le visage ne touchent pas le banc. Telle sera votre position de départ.",
+    "Tout en gardant la plaque bien fixée sur l'arrière de votre tête, baissez lentement la tête (comme pour dire « oui ») en inspirant.",
+    "Levez la tête en revenant à la position de départ selon un mouvement semi-circulaire pendant que vous expirez. Maintenez la contraction pendant une seconde.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

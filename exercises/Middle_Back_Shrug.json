@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "middle back"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie facedown on an incline bench while holding a dumbbell in each hand. Your arms should be fully extended hanging down and pointing towards the floor. The palms of your hands should be facing each other. This will be your starting position.",
     "As you exhale, squeeze your shoulder blades together and hold the contraction for a full second. Tip: This movement is just like the reverse action of a hug, or trying to perform rear laterals as if you had no arms.",
@@ -21,5 +19,11 @@
     "Middle_Back_Shrug/0.jpg",
     "Middle_Back_Shrug/1.jpg"
   ],
-  "id": "Middle_Back_Shrug"
+  "id": "Middle_Back_Shrug",
+  "instructions_fr": [
+    "Allongez-vous le visage vers le bas sur un banc incliné tout en tenant un haltère dans chaque main. Vos bras doivent être complètement tendus, pendants et pointant vers le sol. Les paumes de vos mains doivent se faire face. Telle sera votre position de départ.",
+    "En expirant, contractez vos omoplates et maintenez la contraction pendant une seconde complète. Conseils : Ce mouvement est similaire à l'action inverse d'une étreinte ou en essayant d'effectuer des latérales arrière comme si vous n'aviez pas de bras.",
+    "En inspirant, revenez à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

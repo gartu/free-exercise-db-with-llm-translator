@@ -23,5 +23,13 @@
     "Bradford_Rocky_Presses/0.jpg",
     "Bradford_Rocky_Presses/1.jpg"
   ],
-  "id": "Bradford_Rocky_Presses"
+  "id": "Bradford_Rocky_Presses",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc de presse militaire avec une barre au niveau des épaules, en prenant une poignée en pronation (les paumes vers l'avant). Conseils : Votre prise doit être plus large que la largeur des épaules et elle doit créer un angle de 90 degrés entre le avant-bras et le bras supérieur lorsque la barre descend. C'est votre position de départ.",
+    "Une fois que vous avez saisi la barre avec la prise correcte, soulevez la barre au-dessus de votre tête en verrouillant vos bras.",
+    "Maintenant, abaissez lentement la barre jusqu'à l'arrière de la tête en inspirant.",
+    "Remontez la barre jusqu'à la position de départ en expirant.",
+    "Abaissez la barre jusqu'à la position de départ lentement en inspirant. Cela constitue une répétition.",
+    "Alternez de cette manière jusqu'à ce que vous ayez effectué le nombre de répétitions recommandé."
+  ]
 }

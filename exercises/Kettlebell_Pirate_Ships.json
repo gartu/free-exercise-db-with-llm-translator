@@ -21,5 +21,11 @@
     "Kettlebell_Pirate_Ships/0.jpg",
     "Kettlebell_Pirate_Ships/1.jpg"
   ],
-  "id": "Kettlebell_Pirate_Ships"
+  "id": "Kettlebell_Pirate_Ships",
+  "instructions_fr": [
+    "En position large, tenez une kettlebell avec les deux mains. Laissez-la pendre au niveau de la taille avec les bras tendus. Cette position sera votre point de départ.",
+    "Initiée le mouvement en vous tournant vers un côté, en balançant la kettlebell jusqu'à la hauteur de votre tête. Faites une courte pause en haut du mouvement.",
+    "Laissez la cloche tomber lorsque vous tournez vers le côté opposé, en soulevant à nouveau la kettlebell jusqu'à la hauteur de votre tête.",
+    "Répétez pour le nombre de répétitions souhaité."
+  ]
 }

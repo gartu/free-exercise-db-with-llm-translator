@@ -20,5 +20,10 @@
     "Elbows_Back/0.jpg",
     "Elbows_Back/1.jpg"
   ],
-  "id": "Elbows_Back"
+  "id": "Elbows_Back",
+  "instructions_fr": [
+    "Tenez-vous droit.",
+    "Placez les deux mains sur votre dos inférieur, les doigts pointant vers le bas et les coudes vers l'extérieur.",
+    "Ensuite, ramenez doucement les coudes vers l'arrière en essayant de les toucher."
+  ]
 }

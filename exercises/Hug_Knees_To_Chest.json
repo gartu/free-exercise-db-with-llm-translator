@@ -20,5 +20,10 @@
     "Hug_Knees_To_Chest/0.jpg",
     "Hug_Knees_To_Chest/1.jpg"
   ],
-  "id": "Hug_Knees_To_Chest"
+  "id": "Hug_Knees_To_Chest",
+  "instructions_fr": [
+    "Allongez-vous sur le dos et ramenez les deux genoux vers votre poitrine.",
+    "Tenez vos bras sous les genoux, pas au-dessus (cela exercerait trop de pression sur vos articulations de genou).",
+    "Approchez lentement les genoux de vos épaules. Cela étire également les muscles de vos fesses."
+  ]
 }

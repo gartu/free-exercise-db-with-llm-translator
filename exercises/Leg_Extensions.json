@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "For this exercise you will need to use a leg extension machine. First choose your weight and sit on the machine with your legs under the pad (feet pointed forward) and the hands holding the side bars. This will be your starting position. Tip: You will need to adjust the pad so that it falls on top of your lower leg (just above your feet). Also, make sure that your legs form a 90-degree angle between the lower and upper leg. If the angle is less than 90-degrees then that means the knee is over the toes which in turn creates undue stress at the knee joint. If the machine is designed that way, either look for another machine or just make sure that when you start executing the exercise you stop going down once you hit the 90-degree angle.",
     "Using your quadriceps, extend your legs to the maximum as you exhale. Ensure that the rest of the body remains stationary on the seat. Pause a second on the contracted position.",
@@ -21,5 +19,11 @@
     "Leg_Extensions/0.jpg",
     "Leg_Extensions/1.jpg"
   ],
-  "id": "Leg_Extensions"
+  "id": "Leg_Extensions",
+  "instructions_fr": [
+    "Pour cet exercice, vous devez utiliser une machine à extension de jambes. Choisissez d'abord votre poids et asseyez-vous sur la machine avec vos jambes sous le tampon (les pieds pointés vers l'avant) et les mains tenant les barres latérales.  Cela sera votre position de départ. Conseil : vous devrez ajuster le tampon afin qu'il tombe au-dessus de votre jambe inférieure (juste au-dessus des pieds). Assurez-vous également que vos jambes forment un angle de 90 degrés entre la jambe inférieure et la jambe supérieure. Si l'angle est inférieur à 90 degrés, cela signifie que le genou se trouve devant les orteils, ce qui crée une tension excessive au niveau du genou. Si la machine est conçue de cette manière, recherchez une autre machine ou assurez-vous simplement que lorsque vous commencez à exécuter l'exercice, vous arrêtez de descendre une fois que vous avez atteint l'angle de 90 degrés.",
+    "En utilisant vos quadriceps, étendez vos jambes au maximum en expirant. Assurez-vous que le reste du corps reste immobile sur le siège. Faites une pause d'une seconde dans la position contractée.",
+    "Ramenez lentement la charge dans sa position initiale en inspirant, en veillant à ne pas dépasser l'angle de 90 degrés.",
+    "Répétez le nombre de fois recommandé."
+  ]
 }

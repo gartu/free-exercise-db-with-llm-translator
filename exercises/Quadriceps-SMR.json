@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lay facedown on the floor with your weight supported by your hands or forearms. Place a foam roll underneath one leg on the quadriceps, and keep the foot off of the ground. Make sure to relax the leg as much as possible. This will be your starting position.",
     "Shifting as much weight onto the leg to be stretched as is tolerable, roll over the foam from above the knee to below the hip, holding points of tension for 10-30 seconds. Switch sides."
@@ -19,5 +17,9 @@
     "Quadriceps-SMR/0.jpg",
     "Quadriceps-SMR/1.jpg"
   ],
-  "id": "Quadriceps-SMR"
+  "id": "Quadriceps-SMR",
+  "instructions_fr": [
+    "Allongez-vous sur le dos au sol en appui sur vos mains ou avant-bras. Placez un rouleau en mousse sous une jambe sur les quadriceps, et gardez le pied en l'air. Assurez-vous de détendre la jambe autant que possible. Cette position sera votre point de départ.",
+    "En déplaçant autant de poids sur la jambe à étirer que ce qui est tolérable, enroulez le mousse de dessus le genou jusqu'en dessous de la hanche, en maintenant des points de tension pendant 10 à 30 secondes. Passez à l'autre côté."
+  ]
 }

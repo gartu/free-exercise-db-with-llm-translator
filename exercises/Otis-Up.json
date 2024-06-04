@@ -23,5 +23,11 @@
     "Otis-Up/0.jpg",
     "Otis-Up/1.jpg"
   ],
-  "id": "Otis-Up"
+  "id": "Otis-Up",
+  "instructions_fr": [
+    "Sécurisez vos pieds et étendez-vous sur le sol. Vos genoux doivent être pliés. Tenez un poids avec les deux mains contre votre poitrine. Ce sera votre position de départ.",
+    "Initiez le mouvement en fléchissant les hanches et la colonne vertébrale pour soulever votre torse du sol.",
+    "Alors que vous montez, pressez le poids vers le haut afin qu'il soit au-dessus de votre tête en haut du mouvement.",
+    "Ramenez le poids vers votre poitrine en inversant le mouvement du gainage, en veillant à ne pas retoucher le sol."
+  ]
 }

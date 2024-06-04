@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "For this exercise you will need access to a donkey calf raise machine. Start by positioning your lower back and hips under the padded lever provided. The tailbone area should be the one making contact with the pad.",
     "Place both of your arms on the side handles and place the balls of your feet on the calf block with the heels extending off. Align the toes forward, inward or outward, depending on the area you wish to target, and straighten the knees without locking them. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Donkey_Calf_Raises/0.jpg",
     "Donkey_Calf_Raises/1.jpg"
   ],
-  "id": "Donkey_Calf_Raises"
+  "id": "Donkey_Calf_Raises",
+  "instructions_fr": [
+    "Pour cet exercice, vous aurez besoin d'avoir accès à une machine de levée de jarrets de âne. Commencez par positionner votre dos et vos hanches sous le levier rembourré fourni. La zone de la queue devrait être celle qui est en contact avec le rembourrage.",
+    "Placez vos deux bras le long des poignées latérales et posez les boules de vos pieds sur l'appui mollet, en laissant les talons s'étirer vers l'arrière. Alignez les orteils vers l'avant, vers l'intérieur ou vers l'extérieur selon la zone que vous souhaitez cibler, puis fléchissez les genoux sans les bloquer. Cette position sera votre position de départ.",
+    "Levez vos talons en expirant en étendant vos chevilles autant que possible et en contractant votre mollet. Assurez-vous que le genou reste immobile en tout temps. Il ne devrait pas y avoir de fléchissement à quelque moment que ce soit. Tenez la position contractée pendant une seconde avant de commencer à redescendre.",
+    "Revenez lentement à la position de départ en inspirant et en descendant les talons tout en fléchissant les chevilles jusqu'à ce que les mollets soient étirés.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

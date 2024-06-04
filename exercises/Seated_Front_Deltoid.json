@@ -20,5 +20,10 @@
     "Seated_Front_Deltoid/0.jpg",
     "Seated_Front_Deltoid/1.jpg"
   ],
-  "id": "Seated_Front_Deltoid"
+  "id": "Seated_Front_Deltoid",
+  "instructions_fr": [
+    "Asseyez-vous droit sur le sol avec les jambes pliées, votre partenaire debout derrière vous. Étirez les bras vers l'extérieur, à angle droit, les paumes face au sol. Essayez de les déplacer aussi loin que possible vers l'arrière, tandis que votre assistant tient vos poignets. Telle sera votre position de départ.",
+    "En gardant vos coudes droits, essayez de déplacer vos bras vers l'avant, tandis que votre partenaire vous retient doucement pour empêcher tout mouvement réel pendant 10 à 20 secondes.",
+    "Maintenant, détendez vos muscles et laissez votre partenaire augmenter doucement l'étirement sur les épaules et la poitrine. Maintenez la position pendant 10 à 20 secondes."
+  ]
 }

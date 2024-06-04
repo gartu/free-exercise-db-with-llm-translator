@@ -23,5 +23,11 @@
     "Dumbbell_Seated_Box_Jump/0.jpg",
     "Dumbbell_Seated_Box_Jump/1.jpg"
   ],
-  "id": "Dumbbell_Seated_Box_Jump"
+  "id": "Dumbbell_Seated_Box_Jump",
+  "instructions_fr": [
+    "Placez une boîte à quelques pieds du côté d'un banc. Tenez un haltère contre votre poitrine avec les deux mains et asseyez-vous sur le banc face à la boîte. Cette position sera votre position de départ.",
+    "Plantez vos pieds fermement sur le sol en vous penchant vers l'avant, en étendant les hanches et les genoux pour sauter et avancer.",
+    "Posez sur la boîte avec les deux pieds, en absorbant l'impact en laissant les hanches et les genoux fléchis.",
+    "Descendez en position de départ."
+  ]
 }

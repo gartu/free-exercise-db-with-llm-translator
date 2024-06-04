@@ -21,5 +21,11 @@
     "Thigh_Abductor/0.jpg",
     "Thigh_Abductor/1.jpg"
   ],
-  "id": "Thigh_Abductor"
+  "id": "Thigh_Abductor",
+  "instructions_fr": [
+    "Pour commencer, asseyez-vous sur la machine d'abduction et choisissez un poids qui vous convient. Une fois que vos jambes sont correctement placées, saisissez les poignées de chaque côté. Votre corps supérieur (du bassin jusqu'en haut) doit rester immobile. C'est la position de départ.",
+    "Appuyez lentement sur la machine avec vos jambes pour les éloigner l'une de l'autre en expirant.",
+    "Respirant, ramenez vos jambes vers la position initiale en contractant vos abdominaux. \n\nNote : N'oubliez pas de maintenir votre corps supérieur immobile pour éviter toute blessure potentielle.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

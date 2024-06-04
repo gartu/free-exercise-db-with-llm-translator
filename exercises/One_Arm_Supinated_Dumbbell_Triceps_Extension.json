@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on a bench while holding a dumbbell at arms length. Your arm should be perpendicular to your body. The palm of your hand should be facing towards your face as a supinated grip is required to perform this exercise.",
     "Place your non lifting hand on your bicep for support.",
@@ -24,5 +22,14 @@
     "One_Arm_Supinated_Dumbbell_Triceps_Extension/0.jpg",
     "One_Arm_Supinated_Dumbbell_Triceps_Extension/1.jpg"
   ],
-  "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension"
+  "id": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
+  "instructions_fr": [
+    "Allongez-vous sur un banc en tenant un haltère à la longueur du bras. Votre bras devrait être perpendiculaire à votre corps. La paume de votre main doit être tournée vers votre visage, car une poignée prononcée est requise pour effectuer cet exercice.",
+    "Placez votre main qui ne soulève pas sur votre biceps pour vous soutenir.",
+    "Commencez lentement à baisser l'haltère vers le bas pendant que vous respirez.",
+    "Ensuite, commencez à soulever l'haltère vers le haut en contractant les triceps. N'oubliez pas de respirer pendant la phase concentrique (la partie de l'exercice où vous soulevez le poids).",
+    "Répétez jusqu'à ce que vous ayez effectué vos répétitions de série.",
+    "Changez de bras et répétez le mouvement.",
+    "Changez de bras et répétez le mouvement."
+  ]
 }

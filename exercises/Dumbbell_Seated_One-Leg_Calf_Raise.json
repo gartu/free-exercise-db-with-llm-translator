@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a block on the floor about 12 inches from a flat bench.",
     "Sit on a flat bench and place a dumbbell on your upper left thigh about 3 inches above your knee.",
@@ -23,5 +21,13 @@
     "Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
     "Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
   ],
-  "id": "Dumbbell_Seated_One-Leg_Calf_Raise"
+  "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
+  "instructions_fr": [
+    "Placez un bloc sur le sol à environ 12 pouces d'un banc plat.",
+    "Asseyez-vous sur un banc plat et placez une haltère sur votre cuisse gauche supérieure, à environ 7 cm au-dessus de votre genou.",
+    "Placez maintenant la pointe de votre pied gauche sur le bloc. \tCeci sera votre position de départ.",
+    "Levez vos orteils aussi haut que possible en expirant et en contractant votre mollet. Maintenez la contraction pendant une seconde.",
+    "Revenez lentement à la position de départ en étirant le plus bas possible.",
+    "Répétez pour le nombre de répétitions prescrit, puis répétez avec la jambe droite."
+  ]
 }

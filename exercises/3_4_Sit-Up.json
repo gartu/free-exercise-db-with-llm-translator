@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor and secure your feet. Your legs should be bent at the knees.",
     "Place your hands behind or to the side of your head. You will begin with your back on the ground. This will be your starting position.",
@@ -22,5 +20,12 @@
     "3_4_Sit-Up/0.jpg",
     "3_4_Sit-Up/1.jpg"
   ],
-  "id": "3_4_Sit-Up"
+  "id": "3_4_Sit-Up",
+  "instructions_fr": [
+    "Allongez-vous par terre et fixez vos pieds. Vos jambes doivent être fléchies au niveau des genoux.",
+    "Placez vos mains derrière ou sur les côtés de votre tête. Vous commencerez avec le dos à terre. Ce sera votre position de départ.",
+    "Fléchissez vos hanches et votre colonne vertébrale pour soulever votre torse vers vos genoux.",
+    "Au sommet de la contraction, votre torse devrait être perpendiculaire au sol. Inversez le mouvement, en n'allant qu'à ¾ du chemin vers le bas.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

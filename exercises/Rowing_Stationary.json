@@ -25,5 +25,10 @@
     "Rowing_Stationary/0.jpg",
     "Rowing_Stationary/1.jpg"
   ],
-  "id": "Rowing_Stationary"
+  "id": "Rowing_Stationary",
+  "instructions_fr": [
+    "Pour commencer, asseyez-vous sur le rameur. Assurez-vous que vos talons reposent confortablement contre la base des pédales et que les sangles sont bien fixées. Sélectionnez le programme que vous souhaitez utiliser, le cas échéant. Asseyez-vous droit et fléchissez votre tronc vers l'avant au niveau des hanches.",
+    "Il y a trois phases de mouvement lorsque vous utilisez un rameur. La première phase est lorsque vous venez vers l'avant sur le rameur. Vos genoux sont pliés et appuyés contre votre poitrine. Votre corps supérieur est légèrement penché en avant tout en maintenant une bonne posture. Ensuite, poussez contre les pédales de pied et étendez vos jambes tout en amenant vos mains vers votre zone abdominale supérieure, en serrant vos épaules lorsque vous le faites. Pour éviter de solliciter trop votre dos, utilisez principalement vos muscles des jambes et des hanches.",
+    "La phase de récupération consiste simplement à redresser les bras, à plier les genoux et à ramener le corps en avant lors du retour à la première phase."
+  ]
 }

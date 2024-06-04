@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand up with your torso upright and a dumbbell on each hand being held at arms length. The elbows should be close to the torso.",
     "The palms of the hands should be facing your torso. Your feet should be about shoulder width apart. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Power_Partials/0.jpg",
     "Power_Partials/1.jpg"
   ],
-  "id": "Power_Partials"
+  "id": "Power_Partials",
+  "instructions_fr": [
+    "Debout, le torse droit et un haltère dans chaque main, maintenus à l'écart des bras. Les coudes doivent être proches du corps.",
+    "Les paumes des mains doivent être tournées vers votre torse. Vos pieds doivent être à peu près à la largeur des épaules. Cette position sera votre position de départ.",
+    "En gardant les bras droits et la partie supérieure du corps immobile, soulevez les poids sur les côtés jusqu'à ce qu'ils atteignent environ la hauteur de l'épaule tout en expirant.",
+    "Sentez la contraction pendant une seconde et commencez à baisser les poids jusqu'à la position de départ en inspirant. Astuce : Gardez les paumes tournées vers le bas avec le petit doigt légèrement surélevé lors de la levée et de l'abaissement des poids, car cela concentrera la pression sur vos épaules principalement.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

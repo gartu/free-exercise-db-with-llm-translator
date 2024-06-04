@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a block about 12 inches in front of a flat bench.",
     "Sit on the bench and place the ball of your feet on the block.",
@@ -23,5 +21,13 @@
     "Barbell_Seated_Calf_Raise/0.jpg",
     "Barbell_Seated_Calf_Raise/1.jpg"
   ],
-  "id": "Barbell_Seated_Calf_Raise"
+  "id": "Barbell_Seated_Calf_Raise",
+  "instructions_fr": [
+    "Placez un bloc à environ 12 pouces devant un banc plat.",
+    "Asseyez-vous sur le banc et placez la balle de vos pieds sur le bloc.",
+    "Demandez à quelqu'un de placer une barre sur vos cuisses supérieures à environ 7,5 cm au-dessus de vos genoux et de la maintenir dans cette position. Ce sera votre position de départ.",
+    "Montez sur la pointe des pieds en soulevant les mollets le plus haut possible en contractant les muscles et en expirant.",
+    "Après une seconde contraction, revenez lentement à la position de départ. Conseils : pour obtenir un maximum d'avantages, étirez vos mollets le plus possible.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

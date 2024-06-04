@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand up straight while holding an EZ curl bar at the wide outer handle. The palms of your hands should be facing forward and slightly tilted inward due to the shape of the bar. Keep your elbows close to your torso. This will be your starting position.",
     "Now, while keeping your upper arms stationary, exhale and curl the weights forward while contracting the biceps. Focus on only moving your forearms.",
@@ -22,5 +20,12 @@
     "EZ-Bar_Curl/0.jpg",
     "EZ-Bar_Curl/1.jpg"
   ],
-  "id": "EZ-Bar_Curl"
+  "id": "EZ-Bar_Curl",
+  "instructions_fr": [
+    "Tenez-vous droit en tenant une barre de curl EZ par les poignées extérieures larges. Les paumes de vos mains doivent être tournées vers l'avant et légèrement inclinées vers l'intérieur en raison de la forme de la barre. Gardez vos coudes près de votre corps. C'est votre position de départ.",
+    "Maintenant, tout en gardant vos bras supérieurs immobiles, expirez et faites des curls avec les poids vers l'avant tout en contractant les biceps. Concentrez-vous sur le mouvement de vos avant-bras uniquement.",
+    "Continuez à soulever le poids jusqu'à ce que vos biceps soient complètement contractés et que la barre soit au niveau des épaules. Maintenez la position de contraction pendant un instant et contractez vos biceps.",
+    "Ensuite, inspirez et abaissez lentement la barre jusqu'à sa position initiale.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

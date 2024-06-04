@@ -22,5 +22,11 @@
     "Single-Arm_Push-Up/0.jpg",
     "Single-Arm_Push-Up/1.jpg"
   ],
-  "id": "Single-Arm_Push-Up"
+  "id": "Single-Arm_Push-Up",
+  "instructions_fr": [
+    "Commencez en vous couchant sur le ventre à terre. Déplacez-vous dans une position soutenant votre poids sur les orteils et un bras. Votre bras de travail devrait être placé directement sous l'épaule, complètement tendu. Vos jambes doivent être tendues, et pour ce mouvement, vous aurez peut-être besoin d'une base plus large, en écartant vos pieds davantage que dans une position de pompage normale.",
+    "Maintenez une bonne posture et placez votre main libre dans votre dos. Cette position sera votre point de départ.",
+    "Baissez-vous en fléchissant le coude jusqu'à toucher le sol.",
+    "Descendez lentement et inversez la direction en étendant le bras pour revenir à la position de départ."
+  ]
 }

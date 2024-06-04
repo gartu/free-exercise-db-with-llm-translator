@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the barbell on the smith machine to fit your height and align a raised platform right under the bar.",
     "Stand on the platform with the heels of your feet secured on top of it with the balls of your feet extending off it. Position your toes facing forward with a shoulder width stance.",
@@ -23,5 +21,13 @@
     "Smith_Machine_Reverse_Calf_Raises/0.jpg",
     "Smith_Machine_Reverse_Calf_Raises/1.jpg"
   ],
-  "id": "Smith_Machine_Reverse_Calf_Raises"
+  "id": "Smith_Machine_Reverse_Calf_Raises",
+  "instructions_fr": [
+    "Ajustez la barre de l'appareil Smith à votre taille et alignez une plateforme surélevée juste sous la barre.",
+    "Debout sur la plateforme, placez les talons de vos pieds sur celle-ci en plaçant les orteils en saillie, en gardant une posture large et naturelle. Vos orteils doivent être orientés vers l'avant.",
+    "Maintenant, placez vos épaules sous la barre tout en maintenant la position du pied décrite et poussez la barre vers le haut en étendant les hanches et les genoux jusqu'à ce que votre torse soit debout. Les genoux doivent être légèrement fléchis ; jamais verrouillés. Ce sera votre position de départ. Astuce : La barre sur votre dos sert uniquement à des fins d'équilibre.",
+    "Levez les orteils en expirant en les étendant le plus possible et en contractant votre mollet. Assurez-vous que votre genou reste immobile en tout temps. Il ne devrait pas y avoir de flexion à tout moment. Maintenez la position contractée pendant une seconde avant de commencer à redescendre.",
+    "Revenez lentement à la position de départ en respirant en baissant les orteils et les pointes de vos pieds.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

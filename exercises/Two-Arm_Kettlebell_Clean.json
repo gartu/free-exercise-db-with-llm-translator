@@ -24,5 +24,10 @@
     "Two-Arm_Kettlebell_Clean/0.jpg",
     "Two-Arm_Kettlebell_Clean/1.jpg"
   ],
-  "id": "Two-Arm_Kettlebell_Clean"
+  "id": "Two-Arm_Kettlebell_Clean",
+  "instructions_fr": [
+    "Placez deux kettlebells entre vos pieds. Pour prendre la position de départ, poussez vos fesses en arrière et regardez droit devant vous.",
+    "Monter les kettlebells jusqu'à vos épaules en étendant les jambes et les hanches tout en relevant les kettlebells vers vos épaules. Faites tourner vos poignets au fur et à mesure que vous le faites.",
+    "Abaissez les kettlebells en position de départ et répétez l'exercice."
+  ]
 }

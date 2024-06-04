@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Kneel below a high pulley that contains a rope attachment.",
     "Grasp cable rope attachment and lower the rope until your hands are placed next to your face.",
@@ -23,5 +21,13 @@
     "Cable_Crunch/0.jpg",
     "Cable_Crunch/1.jpg"
   ],
-  "id": "Cable_Crunch"
+  "id": "Cable_Crunch",
+  "instructions_fr": [
+    "À genoux sous un poulie haut qui contient une attache en corde.",
+    "Prenez la poignée de l'accessoire de câble et abaissez le câble jusqu'à ce que vos mains soient placées à côté de votre visage.",
+    "Fléchissez légèrement vos hanches et laissez le poids hyper-étendre le bas du dos. Cette position sera votre point de départ.",
+    "En gardant les hanches stationnaires, fléchissez la taille en contractant les abdominaux de sorte que les coudes se dirigent vers le milieu des cuisses. Exhalez pendant cette partie du mouvement et maintenez la contraction pendant une seconde.",
+    "Retournez lentement à la position de départ en inspirant. Astuce : Assurez-vous d'avoir une tension constante sur les abdominaux tout au long du mouvement. De plus, ne choisissez pas un poids trop lourd qui ferait que le bas du dos effectue la majeure partie du travail.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

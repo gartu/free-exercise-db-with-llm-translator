@@ -23,5 +23,11 @@
     "Barbell_Side_Split_Squat/0.jpg",
     "Barbell_Side_Split_Squat/1.jpg"
   ],
-  "id": "Barbell_Side_Split_Squat"
+  "id": "Barbell_Side_Split_Squat",
+  "instructions_fr": [
+    "Tenez-vous droit en tenant une barre placée sur les épaules (légèrement sous le cou). Vos pieds doivent être écartés et le pied de la jambe de devant doit être incliné vers l'extérieur. Cette position sera votre point de départ.",
+    "Abaissez votre corps vers le côté de votre pied incliné en fléchissant le genou et l'hip de votre jambe d'attaque, tout en gardant la jambe opposée légèrement pliée. Inspirez pendant que vous abaissez votre corps.",
+    "Revenez à la position de départ en étendant l'hanche et le genou de la jambe de devant. Respirez en effectuant ce mouvement.",
+    "Après avoir effectué le nombre de répétitions recommandé, répétez le mouvement avec la jambe opposée."
+  ]
 }

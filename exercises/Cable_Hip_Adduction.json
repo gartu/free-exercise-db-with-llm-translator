@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand in front of a low pulley facing forward with one leg next to the pulley and the other one away.",
     "Attach the ankle cuff to the cable and also to the ankle of the leg that is next to the pulley.",
@@ -24,5 +22,14 @@
     "Cable_Hip_Adduction/0.jpg",
     "Cable_Hip_Adduction/1.jpg"
   ],
-  "id": "Cable_Hip_Adduction"
+  "id": "Cable_Hip_Adduction",
+  "instructions_fr": [
+    "Debout devant un poulie bas, face à la machine, placez une jambe à côté du poulie et l'autre en arrière.",
+    "Attachez la cheville à la corde et également à la cheville de la jambe qui se trouve à côté du poulie.",
+    "Maintenant, avancez et éloignez-vous de la pile avec une large posture et saisissez la barre du système à poulie.",
+    "Debout sur le pied qui ne possède pas la cheville de cuffe (le pied éloigné) et permettez à la jambe avec la cuffe d'être tirée vers le bas de la poulie. Ce sera votre position de départ.",
+    "Exécutez maintenant le mouvement en déplaçant la jambe avec le mollet devant la jambe éloignée en utilisant les faces internes des cuisses pour écarter l'hip. Respirez pendant cette partie du mouvement.",
+    "Retournez lentement à la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé, puis répétez le même mouvement avec la jambe opposée."
+  ]
 }

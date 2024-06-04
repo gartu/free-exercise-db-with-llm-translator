@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach dual handles to a sled using a chain or rope. Load the sled to an appropriate load.",
     "Facing away from the sled, step away until there is tension in the line. Raise your hands above your head, keeping them together, palms facing each other. Your elbows should be pointed upward with the elbows flexed. This will be your starting position.",
@@ -21,5 +19,11 @@
     "Sled_Overhead_Triceps_Extension/0.jpg",
     "Sled_Overhead_Triceps_Extension/1.jpg"
   ],
-  "id": "Sled_Overhead_Triceps_Extension"
+  "id": "Sled_Overhead_Triceps_Extension",
+  "instructions_fr": [
+    "Attachez les poignées doubles à une luge à l'aide d'une chaîne ou d'une corde. Chargez la luge avec une charge appropriée.",
+    "Dos au traîneau, éloignez-vous jusqu'à ce qu'il y ait de la tension dans la ligne. Levez les mains au-dessus de votre tête, en gardant les paumes face à face. Vos coudes doivent être pointés vers le haut, avec des coudes fléchis. Cette position sera votre position de départ.",
+    "Étirez le coude pour redresser le bras. Assurez-vous que votre bras supérieur reste en place pour isoler les triceps.",
+    "Lors de l'extension complète, avancez pour tendre la ligne. Vous pouvez garder les pieds décalés pour plus de stabilité."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To perform this movement you will need a preacher bench and an E-Z bar. Grab the E-Z curl bar at the close inner handle (either have someone hand you the bar which is preferable or grab the bar from the front bar rest provided by most preacher benches). The palm of your hands should be facing forward and they should be slightly tilted inwards due to the shape of the bar.",
     "With the upper arms positioned against the preacher bench pad and the chest against it, hold the E-Z Curl Bar at shoulder length. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Preacher_Curl/0.jpg",
     "Preacher_Curl/1.jpg"
   ],
-  "id": "Preacher_Curl"
+  "id": "Preacher_Curl",
+  "instructions_fr": [
+    "Pour effectuer ce mouvement, vous aurez besoin d'un banc à prêcheur et d'une barre E-Z. Attrapez la barre de curl E-Z à la poignée intérieure étroite (soit demandez à quelqu'un de vous passer la barre, ce qui est préférable, soit attrapez la barre depuis le repose-barre avant fourni par la plupart des bancs à prêcheur). La paume de vos mains doit être orientée vers l'avant et doivent être légèrement inclinées vers l'intérieur en raison de la forme de la barre.",
+    "Avec les bras supérieurs positionnés contre le rembourrage du banc de prédication et la poitrine contre celui-ci, tenez la barre E-Z Curl à la largeur des épaules. Ce sera votre position de départ.",
+    "En inspirant, baissez lentement la barre jusqu'à ce que votre bras soit tendu vers le haut et que votre biceps soit complètement étiré.",
+    "En expirant, utilisez les biceps pour soulever le poids jusqu'à ce que vos biceps soient complètement contractés et que la barre soit à la hauteur de vos épaules. Contractez fermement les biceps et maintenez cette position pendant une seconde.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

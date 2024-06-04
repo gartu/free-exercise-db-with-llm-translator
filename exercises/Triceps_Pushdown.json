@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a straight or angled bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
     "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. This is your starting position.",
@@ -22,5 +20,12 @@
     "Triceps_Pushdown/0.jpg",
     "Triceps_Pushdown/1.jpg"
   ],
-  "id": "Triceps_Pushdown"
+  "id": "Triceps_Pushdown",
+  "instructions_fr": [
+    "Fixez une barre droite ou inclinée à un poulie haute et saisissez-la avec une poignée en prise inverse (paumes vers le bas) à la largeur des épaules.",
+    "Debout, la tête et le torse droits, avec une légère inclinaison vers l'avant, approchez les bras supérieurs de votre corps et les maintenez perpendiculaires au sol. Les avant-bras doivent être dirigés vers le haut en tenant la barre, ce qui constitue votre position de départ.",
+    "En utilisant les triceps, ramenez la barre jusqu'à ce qu'elle touche l'avant de vos cuisses et que vos bras soient complètement tendus perpendiculaires au sol. Les bras doivent toujours rester stationnaires à côté de votre torse et seuls les avant-bras devraient bouger. Expirez en exécutant ce mouvement.",
+    "Après une seconde de maintien à la position contractée, ramenez lentement la barre jusqu'à la position de départ. Inhalez pendant que vous exécutez cette étape.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -25,5 +25,11 @@
     "Hurdle_Hops/0.jpg",
     "Hurdle_Hops/1.jpg"
   ],
-  "id": "Hurdle_Hops"
+  "id": "Hurdle_Hops",
+  "instructions_fr": [
+    "Installez une rangée d'obstacles ou d'autres petits obstacles, en les espaçant de quelques pieds.",
+    "Debout devant le premier obstacle, placez vos pieds à la largeur des épaules. C'est votre position de départ.",
+    "Commencez par sauter avec les deux pieds au-dessus du premier obstacle, en balançant les deux bras pendant que vous sautez.",
+    "Absorbez l'impact de l'atterrissage en fléchissant les genoux et rebondissez après le premier saut en franchissant l'obstacle suivant. Continuez jusqu'à ce que vous ayez franchi tous les obstacles."
+  ]
 }

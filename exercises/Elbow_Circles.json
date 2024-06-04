@@ -20,5 +20,10 @@
     "Elbow_Circles/0.jpg",
     "Elbow_Circles/1.jpg"
   ],
-  "id": "Elbow_Circles"
+  "id": "Elbow_Circles",
+  "instructions_fr": [
+    "Asseyez-vous ou tenez-vous avec les pieds légèrement espacés.",
+    "Placez vos mains sur vos épaules, coudés à l'水平 de vos épaules et pointant vers l'extérieur.",
+    "Effectuez lentement un cercle avec vos coudes. Respirez lorsque vous commencez le cercle et inspirez lorsque vous avez terminé le cercle."
+  ]
 }

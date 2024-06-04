@@ -26,5 +26,10 @@
     "Yoke_Walk/0.jpg",
     "Yoke_Walk/1.jpg"
   ],
-  "id": "Yoke_Walk"
+  "id": "Yoke_Walk",
+  "instructions_fr": [
+    "Le \"yoke\" se fait généralement avec un appareil de yoke, mais on le voit parfois avec des réfrigérateurs ou d'autres objets lourds.",
+    "Commencez par ranger l'appareil sur la nuque. La tête en avant et le dos arqué, soulevez le yok en appuyant sur les talons.",
+    "Commencez à marcher le plus rapidement possible en utilisant des pas courts et rapides. Vous pouvez tenir les montants latéraux de la barre pour l'aider à la stabiliser et la maintenir en place. Continuez sur la distance donnée aussi rapidement que possible, généralement de 75 à 100 pieds."
+  ]
 }

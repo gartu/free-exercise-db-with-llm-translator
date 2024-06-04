@@ -20,5 +20,10 @@
     "One-Arm_Kettlebell_Floor_Press/0.jpg",
     "One-Arm_Kettlebell_Floor_Press/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Floor_Press"
+  "id": "One-Arm_Kettlebell_Floor_Press",
+  "instructions_fr": [
+    "Allongez-vous sur le sol en tenant une kettlebell d'une seule main, votre bras supérieur étant soutenu par le sol. La paume de la main doit être tournée vers l'intérieur.",
+    "Presse la kettlebell directement vers le plafond en faisant pivoter votre poignet.",
+    "Abaissez la kettlebell en position de départ et répétez l'exercice."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie face down with one leg on a foam roll.",
     "Rotate the leg so that the foam roll contacts against your inner thigh. Shift as much weight onto the foam roll as can be tolerated.",
@@ -20,5 +18,10 @@
     "Adductor/0.jpg",
     "Adductor/1.jpg"
   ],
-  "id": "Adductor"
+  "id": "Adductor",
+  "instructions_fr": [
+    "Allongez-vous face contre terre avec une jambe sur un rouleau en mousse.",
+    "Faites pivoter la jambe de sorte que le rouleau en mousse entre en contact avec votre cuisse intérieure. Transférez votre poids sur le rouleau en mousse autant que possible.",
+    "En essayant de détendre les muscles de l'intérieur de la cuisse, roulez sur la mousse entre votre hanche et votre genou, en maintenant des points de tension pendant 10 à 30 secondes. Répétez avec l'autre jambe."
+  ]
 }

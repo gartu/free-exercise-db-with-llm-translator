@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on an exercise mat or a flat bench with your legs off the end.",
     "Place your hands either under your glutes with your palms down or by the sides holding on to the bench (or with palms down by the side on an exercise mat). Also extend your legs straight out. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Flat_Bench_Leg_Pull-In/0.jpg",
     "Flat_Bench_Leg_Pull-In/1.jpg"
   ],
-  "id": "Flat_Bench_Leg_Pull-In"
+  "id": "Flat_Bench_Leg_Pull-In",
+  "instructions_fr": [
+    "Allongez-vous sur un tapis d'exercice ou sur un banc plat avec les jambes sur le bout.",
+    "Placez vos mains sous vos fesses, paumes vers le bas, ou de chaque côté en tenant le banc (ou les paumes vers le bas sur un tapis d'exercice). De plus, étendez vos jambes directement. Cette position sera votre position de départ.",
+    "Pliez les genoux et ramenez vos cuisses supérieures vers votre milieu en expirant. Continuez ce mouvement jusqu'à ce que vos genoux se trouvent près de votre poitrine. Maintenez la position contractée pendant une seconde.",
+    "En inspirant, revenez lentement à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

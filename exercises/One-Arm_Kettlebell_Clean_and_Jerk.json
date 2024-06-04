@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold a kettlebell by the handle.",
     "Clean the kettlebell to your shoulder by extending through the legs and hips as you pull the kettlebell towards your shoulder. Rotate your wrist as you do so, so that the palm faces forward.",
@@ -23,5 +21,13 @@
     "One-Arm_Kettlebell_Clean_and_Jerk/0.jpg",
     "One-Arm_Kettlebell_Clean_and_Jerk/1.jpg"
   ],
-  "id": "One-Arm_Kettlebell_Clean_and_Jerk"
+  "id": "One-Arm_Kettlebell_Clean_and_Jerk",
+  "instructions_fr": [
+    "Tenez une kettlebell par la poignée.",
+    "Monter la kettlebell jusqu'à votre épaule en étendant les jambes et les hanches tout en tirant la kettlebell vers votre épaule. Tournez votre poignet au fur et à mesure pour que la paume face vers l'avant.",
+    "Pliez votre corps en fléchissant les genoux tout en gardant le torse droit.",
+    "Inversez immédiatement la direction, en poussant sur les talons, en sautant pour créer de l'élan. Alors que vous le faites, appuyez sur la kettlebell au-dessus du verrouillage en étendant les bras, en utilisant l'élan du corps pour déplacer le poids.",
+    "Recevez le poids au-dessus de votre tête en revenant à une position de squat sous le poids.",
+    "En gardant le poids au-dessus, revenez à la position debout. Descendez le poids par terre pour exécuter la répétition suivante."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Pick a dumbbell and place it in one of your hands. Your non lifting hand should be used to grab something steady such as an incline bench press. Lean towards your lifting arm and away from the hand that is gripping the incline bench as this will allow you to keep your balance.",
     "Stand with a straight torso and have the dumbbell by your side at arm's length with the palm of the hand facing you. This will be your starting position.",
@@ -23,5 +21,13 @@
     "One-Arm_Side_Laterals/0.jpg",
     "One-Arm_Side_Laterals/1.jpg"
   ],
-  "id": "One-Arm_Side_Laterals"
+  "id": "One-Arm_Side_Laterals",
+  "instructions_fr": [
+    "Prenez un haltère et placez-le dans l'une de vos mains. Votre main qui ne soulève pas doit être utilisée pour tenir quelque chose de stable, comme une presse à banc incliné. Penchez-vous vers votre bras de levage et éloignez-vous de la main qui serre la presse à banc incliné, car cela vous permettra de maintenir votre équilibre.",
+    "Tenez-vous droit et tenez l'haltère à côté de vous, le bras tendu vers l'avant, la paume de la main tournée vers vous. Cette position sera votre point de départ.",
+    "En gardant le torse immobile (sans oscillation), soulevez l'haltère sur votre côté en pliant légèrement le coude et en inclinant légèrement la main vers l'avant, comme si vous versiez de l'eau dans un verre. Continuez à monter jusqu'à ce que votre bras soit parallèle au sol. Exhalez pendant que vous exécutez ce mouvement et faites une pause d'une seconde en haut.",
+    "Abaissez lentement l'haltère en inspirant jusqu'à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé.",
+    "Changez de bras et répétez l'exercice."
+  ]
 }

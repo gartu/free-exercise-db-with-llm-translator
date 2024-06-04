@@ -25,5 +25,10 @@
     "Snatch_Deadlift/0.jpg",
     "Snatch_Deadlift/1.jpg"
   ],
-  "id": "Snatch_Deadlift"
+  "id": "Snatch_Deadlift",
+  "instructions_fr": [
+    "Le deadlift d'arraché renforce le premier tir de l'arraché. Commencez avec une large prise à l'arraché avec la barre placée sur la plateforme. Les pieds doivent être directement sous les hanches, avec les pieds tournés vers l'extérieur. Faites un squat sur la barre, en gardant le dos en extension absolue avec la tête tournée vers l'avant.",
+    "Commencez le mouvement en poussant sur les talons, en levant les hanches. L'angle du dos doit rester le même jusqu'à ce que la barre passe au-dessus des genoux.",
+    "À ce stade, poussez les hanches à travers la barre lorsque vous vous allongez. Ramenez la barre sur la plateforme en inversant le mouvement."
+  ]
 }

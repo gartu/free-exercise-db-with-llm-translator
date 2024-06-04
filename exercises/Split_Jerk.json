@@ -24,5 +24,11 @@
     "Split_Jerk/0.jpg",
     "Split_Jerk/1.jpg"
   ],
-  "id": "Split_Jerk"
+  "id": "Split_Jerk",
+  "instructions_fr": [
+    "Debout avec le poids sur les épaules, commencez avec la flexion. Les pieds directement sous les hanches, fléchissez les genoux sans déplacer les hanches vers l'arrière.",
+    "Descendez légèrement, puis inversez la direction le plus puissamment possible. Déplacez-vous à travers les talons pour créer de la vitesse et de la force, et assurez-vous de déplacer votre tête lorsque la barre quitte les épaules. À ce moment-là, alors que les pieds quittent le sol, placez rapidement les pieds dans la position de réception.",
+    "Au cours du bref instant où les pieds ne poussent pas activement contre la plateforme, l'effort de l'athlète à pousser la barre vers le haut l'entraînera vers le bas. Les pieds doivent être placés en position écarquée, un pied en avant et l'autre en arrière, avec les genoux légèrement fléchis. Relevez la barre jusqu'aux bras tendus au-dessus de votre corps.",
+    "Revenez à la position debout en rapprochant les pieds."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Secure one end of the band to the lower portion of a post and attach the other to one ankle.",
     "Face away from the attachment point of the band.",
@@ -21,5 +19,11 @@
     "Hip_Flexion_with_Band/0.jpg",
     "Hip_Flexion_with_Band/1.jpg"
   ],
-  "id": "Hip_Flexion_with_Band"
+  "id": "Hip_Flexion_with_Band",
+  "instructions_fr": [
+    "Sécurisez une extrémité de la bande à la partie inférieure d'un poteau et attachez l'autre à une cheville.",
+    "Faites face à l'extrémité attachée de la bande.",
+    "En gardant la tête et la poitrine relevées, montez le genou à 90 degrés puis maintenez cette position.",
+    "Ramenez la jambe en position de départ."
+  ]
 }

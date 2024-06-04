@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Secure your legs at the end of the decline bench and lie down.",
     "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.",
@@ -23,5 +21,13 @@
     "Decline_Crunch/0.jpg",
     "Decline_Crunch/1.jpg"
   ],
-  "id": "Decline_Crunch"
+  "id": "Decline_Crunch",
+  "instructions_fr": [
+    "Sécurisez vos jambes à l'extrémité du banc incliné et allongez-vous.",
+    "Placez maintenant vos mains légèrement de chaque côté de votre tête en gardant vos coudes rentrés. Astuce : ne verrouillez pas les doigts derrière votre tête.",
+    "En poussant le bas de votre dos sur le banc pour mieux isoler vos abdominaux, commencez à décoller vos épaules.",
+    "Continuez à pousser aussi fort que possible avec votre bas du dos lorsque vous contractez vos abdominaux et exhalez. Vos épaules ne devraient s'élever qu'à environ quatre pouces au-dessus du banc, et votre bas du dos devrait rester sur le banc. En haut du mouvement, contractez fortement vos abdominaux et maintenez la contraction pendant une seconde. Astuce : concentrez-vous sur un mouvement lent et contrôlé - ne vous trompez pas en utilisant de la dynamique.",
+    "Après la contraction d'une seconde, commencez à redescendre lentement à la position de départ en inspirant.",
+    "Répétez le mouvement pour le nombre de répétitions recommandé."
+  ]
 }

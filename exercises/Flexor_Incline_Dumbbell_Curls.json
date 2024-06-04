@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold the dumbbell towards the side farther from you so that you have more weight on the side closest to you. (This can be done for a good effect on all bicep dumbbell exercises). Now do a normal incline dumbbell curl, but keep your wrists as far back as possible so as to neutralize any stress that is placed on them.",
     "Sit on an incline bench that is angled at 45-degrees while holding a dumbbell on each hand.",
@@ -23,5 +21,13 @@
     "Flexor_Incline_Dumbbell_Curls/0.jpg",
     "Flexor_Incline_Dumbbell_Curls/1.jpg"
   ],
-  "id": "Flexor_Incline_Dumbbell_Curls"
+  "id": "Flexor_Incline_Dumbbell_Curls",
+  "instructions_fr": [
+    "Tenez l'haltère vers le côté le plus éloigné de vous afin d'avoir plus de poids sur le côté le plus proche de vous. (Cela peut être fait pour un bon effet sur tous les exercices de biceps à l'haltère). Faites maintenant un curl d'inclinaison normal à l'haltère, mais gardez vos poignets aussi loin que possible pour neutraliser toute tension qui pourrait être exercée sur eux.",
+    "Asseyez-vous sur un banc incliné incliné à 45 degrés tout en tenant un haltère dans chaque main.",
+    "Laissez vos bras pendre le long de votre corps, les coudes rentrés et tournez les paumes de vos mains vers l'avant, avec les pouces pointant vers l'extérieur du corps. Astuce : Vous garderez cette position des mains tout au long du mouvement car il ne devrait pas y avoir de rotation des mains lorsqu'elles montent. Ce sera votre position de départ.",
+    "Curl les deux haltères simultanément jusqu'à ce que vos biceps soient complètement contractés, puis expirez. Conseils : N'oscillez pas avec les bras ou n'utilisez pas d'élan. Gardez un mouvement contrôlé en tout temps. Maintenez la position contractée pendant une seconde au sommet.",
+    "En inspirant, revenez lentement à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

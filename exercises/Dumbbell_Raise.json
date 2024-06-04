@@ -21,5 +21,11 @@
     "Dumbbell_Raise/0.jpg",
     "Dumbbell_Raise/1.jpg"
   ],
-  "id": "Dumbbell_Raise"
+  "id": "Dumbbell_Raise",
+  "instructions_fr": [
+    "Prenez un haltère dans chaque bras et tenez-vous droit avec les bras tendus le long de votre corps, légèrement fléchis aux coudes, et le dos bien droit. C'est votre position de départ. Conseil : L'haltère doit se trouver à côté des cuisses, la paume de vos mains tournant vers l'arrière.",
+    "Utilisez vos épaules latérales pour soulever les haltères pendant que vous expirez. Les haltères doivent être sur le côté du corps lorsque vous les soulevez. Continuez à les soulever jusqu'à ce qu'ils soient presque alignés avec votre menton. Astuce : Ce sont vos coudés qui devraient diriger le mouvement. Lorsque vous soulevez l'haltère, votre coude devrait toujours être plus haut que votre avant-bras. De plus, gardez votre torse immobile et faites une pause pendant une seconde au sommet du mouvement.",
+    "Abaissez lentement les haltères en revenant à la position de départ. Inhalez pendant que vous exécutez cette partie du mouvement.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

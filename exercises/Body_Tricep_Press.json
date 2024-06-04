@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position a bar in a rack at chest height.",
     "Standing, take a shoulder width grip on the bar and step a yard or two back, feet together and arms extended so that you are leaning on the bar. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Body_Tricep_Press/0.jpg",
     "Body_Tricep_Press/1.jpg"
   ],
-  "id": "Body_Tricep_Press"
+  "id": "Body_Tricep_Press",
+  "instructions_fr": [
+    "Placez une barre dans un rack à la hauteur de la poitrine.",
+    "Debout, saisissez la barre avec une prise à la largeur des épaules et reculez d'un à deux pas, les pieds rapprochés et les bras tendus de sorte que vous vous appuyiez sur la barre. Cette position sera votre position de départ.",
+    "Commencez par plier le coude, en vous abaissant vers la barre.",
+    "Pausez, puis inversez le mouvement en étendant les coudes.",
+    "Progressez à partir du poids corporel en ajoutant des chaînes sur vos épaules."
+  ]
 }

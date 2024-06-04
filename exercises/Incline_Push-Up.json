@@ -21,5 +21,10 @@
     "Incline_Push-Up/0.jpg",
     "Incline_Push-Up/1.jpg"
   ],
-  "id": "Incline_Push-Up"
+  "id": "Incline_Push-Up",
+  "instructions_fr": [
+    "Debout face à un banc ou une plateforme surélevée solide. Placez les mains sur le bord du banc ou de la plateforme, légèrement plus larges que la largeur des épaules.",
+    "Placez le pied antérieur en retrait par rapport au banc ou à la plateforme, les bras et le corps bien droits. Les bras doivent être perpendiculaires au corps. En gardant le corps droit, descendez la poitrine jusqu'à l'edge de la boîte ou de la plateforme en pliant les bras.",
+    "Poussez votre corps jusqu'à ce que vos bras soient tendus. Répétez l'exercice."
+  ]
 }

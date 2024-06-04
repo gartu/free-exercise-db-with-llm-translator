@@ -24,5 +24,12 @@
     "Speed_Box_Squat/0.jpg",
     "Speed_Box_Squat/1.jpg"
   ],
-  "id": "Speed_Box_Squat"
+  "id": "Speed_Box_Squat",
+  "instructions_fr": [
+    "Fixez les élastiques à la barre qui est solidement ancrée près du sol. Vous devrez peut-être serrer les élastiques pour obtenir une tension adéquate.",
+    "Utilisez une boîte d'une hauteur appropriée pour cet exercice. Chargez la barre avec un poids qui nécessite toujours des efforts, mais qui n'est pas trop lourd pour que la vitesse soit compromise. En général, cela représentera entre 50 et 70 % de votre maximum en une répétition.",
+    "Placez la barre sur votre dos supérieur, les omoplates rentrées, le dos arqué et tout bien tendu de la tête aux pieds. Cette position sera la position de départ.",
+    "Dégagez la barre et positionnez-vous face à la boîte. Asseyez-vous en faisant pencher vos hanches vers l'avant jusqu'à ce que vous soyez assis sur la boîte, en veillant à contrôler votre descente et à ne pas heurter la surface.",
+    "Faites une courte pause, puis détachez-vous rapidement de la boîte, en étendant les hanches et les genoux."
+  ]
 }

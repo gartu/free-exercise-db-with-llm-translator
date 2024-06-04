@@ -22,5 +22,12 @@
     "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/0.jpg",
     "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise/1.jpg"
   ],
-  "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise"
+  "id": "Dumbbell_Lying_One-Arm_Rear_Lateral_Raise",
+  "instructions_fr": [
+    "En tenant une haltère dans une main, allongez-vous le torse vers le bas sur un banc incliné (environ 15 degrés par rapport au sol) réglable. L'autre main peut se fixer à la jambe du banc pour plus de stabilité.",
+    "Positionnez la paume de la main qui tient l'haltère de manière neutre (les paumes face à votre torse) en gardant le bras tendu et le coude légèrement fléchi.  Cela sera votre position de départ.",
+    "Maintenant, soulevez le bras tenant l'haltère sur le côté jusqu'à ce que votre coude atteigne la hauteur de vos épaules et que votre bras soit à peu près parallèle au sol en expirant. Astuce : Maintenez votre bras perpendiculairement à votre corps tout en gardant votre bras tendu tout au long du mouvement. De plus, maintenez la contraction pendant une seconde au sommet.",
+    "Abaissez lentement l'haltère jusqu'à la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

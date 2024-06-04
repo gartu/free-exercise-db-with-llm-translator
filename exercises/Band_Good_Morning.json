@@ -21,5 +21,10 @@
     "Band_Good_Morning/0.jpg",
     "Band_Good_Morning/1.jpg"
   ],
-  "id": "Band_Good_Morning"
+  "id": "Band_Good_Morning",
+  "instructions_fr": [
+    "En utilisant une bande de 41 pouces, placez-vous sur une extrémité, en écartant légèrement les pieds. Pliez les hanches pour passer l'extrémité de la bande derrière votre cou. Cette position sera votre point de départ.",
+    "En gardant les jambes tendues, étendez-vous par les hanches pour atteindre une position verticale quasi droite.",
+    "Assurez-vous de ne pas arrondir votre dos en revenant à la position de départ."
+  ]
 }

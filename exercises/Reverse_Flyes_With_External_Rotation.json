@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on an incline bench set at a 30-degree angle with the chest and stomach pressing against the incline.",
     "Have the dumbbells in each hand with the palms facing down to the floor. Your arms should be in front of you so that they are perpendicular to the angle of the bench. Tip: Your elbows should have a slight bend. The legs should be stationary while applying pressure with the ball of your toes (your heels should not be touching the floor). This is the starting position.",
@@ -24,5 +22,14 @@
     "Reverse_Flyes_With_External_Rotation/0.jpg",
     "Reverse_Flyes_With_External_Rotation/1.jpg"
   ],
-  "id": "Reverse_Flyes_With_External_Rotation"
+  "id": "Reverse_Flyes_With_External_Rotation",
+  "instructions_fr": [
+    "Pour commencer, allongez-vous sur un banc incliné réglé à un angle de 30 degrés, en appuyant la poitrine et l'estomac contre l'inclinaison.",
+    "Ayez les haltères dans chaque main, les paumes face au sol. Vos bras doivent être devant vous de manière à former un angle perpendiculaire avec le banc. Astuce : vos coudes doivent être légèrement fléchis. Les jambes doivent rester immobiles tout en appliquant la pression avec la plante des pieds (les talons ne doivent pas toucher le sol). Il s'agit de la position de départ.",
+    "En maintenant la légère flexion des coudes, déplacez les poids vers l'extérieur et loin l'un de l'autre en mouvement d'arc tout en expirant.",
+    "Lorsque vous soulevez le poids, votre poignet doit tourner de 90 degrés vers l'extérieur, passant ainsi d'une position paume vers le bas (pronation) à une position paumes face à face (neutre). Astuce : Essayez de rapprocher vos omoplates pour optimiser les résultats de cet exercice.",
+    "Les bras doivent être relevés jusqu'au niveau de la tête.",
+    "Sentez la contraction et ramenez lentement les poids à la position de départ tout en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -22,5 +22,12 @@
     "Smith_Machine_Behind_the_Back_Shrug/0.jpg",
     "Smith_Machine_Behind_the_Back_Shrug/1.jpg"
   ],
-  "id": "Smith_Machine_Behind_the_Back_Shrug"
+  "id": "Smith_Machine_Behind_the_Back_Shrug",
+  "instructions_fr": [
+    "Avec la barre au niveau de la cuisse, chargez un poids approprié.",
+    "Debout, avec la barre derrière vous, prenez une poignée prononcée à la largeur des épaules et détachez le poids. Vous devez être debout, la tête et la poitrine relevées, les bras tendus. Cette position sera votre point de départ.",
+    "Initiée le mouvement en haussant les épaules droit devant. Ne pliez pas les bras ou le poignet pendant le mouvement.",
+    "Après une courte pause, ramenez le poids à la position de départ.",
+    "Répétez le nombre de répétitions souhaité avant d'utiliser les crochets pour ranger la charge."
+  ]
 }

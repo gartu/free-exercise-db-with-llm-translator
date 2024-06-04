@@ -20,5 +20,10 @@
     "Standing_Pelvic_Tilt/0.jpg",
     "Standing_Pelvic_Tilt/1.jpg"
   ],
-  "id": "Standing_Pelvic_Tilt"
+  "id": "Standing_Pelvic_Tilt",
+  "instructions_fr": [
+    "Commencez en plaçant vos pieds à la largeur des hanches.",
+    "Pliez légèrement les genoux pour garder les jambes souples et toniques.",
+    "Vous voudrez peut-être déplacer votre bassin vers l'avant et l'arrière et retour quelques fois avant de maintenir le bord du bec vers l'avant dans cette étirement."
+  ]
 }

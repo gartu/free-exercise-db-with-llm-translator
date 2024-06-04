@@ -25,5 +25,13 @@
     "Straight-Arm_Dumbbell_Pullover/0.jpg",
     "Straight-Arm_Dumbbell_Pullover/1.jpg"
   ],
-  "id": "Straight-Arm_Dumbbell_Pullover"
+  "id": "Straight-Arm_Dumbbell_Pullover",
+  "instructions_fr": [
+    "Placez un haltère debout sur un banc plat.",
+    "En vous assurant que l'haltère reste bien placé au sommet du banc, allongez-vous perpendiculairement au banc (le torse posé sur celui-ci en formant une croix) avec uniquement vos épaules posées sur la surface. Les hanches doivent être sous le banc et les jambes fléchies avec les pieds fermement à plat sur le sol. La tête doit également être hors du banc.",
+    "Prenez l'haltère avec les deux mains et tenez-le droit sur votre poitrine à la longueur des bras. Les paumes devraient être appuyées contre le dessous d'un côté de l'haltère. \nAttention : Assurez-vous toujours que l'haltère utilisé pour cet exercice soit bien fixé. L'utilisation d'un haltère avec des plaques lâches peut entraîner la chute de l'haltère et un risque de blessure.",
+    "En gardant vos bras droits, abaissez lentement le poids dans une arc derrière votre tête en respirant jusqu'à ce que vous ressentiez une étirement sur la poitrine.",
+    "À ce stade, ramenez l'haltère à la position de départ en utilisant l'arc à travers lequel le poids a été abaissé et expirez pendant que vous exécutez ce mouvement.",
+    "Maintenez le poids dans la position initiale pendant une seconde, puis répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

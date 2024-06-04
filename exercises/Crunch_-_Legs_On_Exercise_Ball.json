@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back with your feet resting on an exercise ball and your knees bent at a 90 degree angle.",
     "Place your feet three to four inches apart and point your toes inward so they touch.",
@@ -24,5 +22,14 @@
     "Crunch_-_Legs_On_Exercise_Ball/0.jpg",
     "Crunch_-_Legs_On_Exercise_Ball/1.jpg"
   ],
-  "id": "Crunch_-_Legs_On_Exercise_Ball"
+  "id": "Crunch_-_Legs_On_Exercise_Ball",
+  "instructions_fr": [
+    "Allongez-vous plat sur le dos, les pieds reposant sur un ballon d'exercice et les genoux pliés à un angle de 90 degrés.",
+    "Placez vos pieds à trois ou quatre pouces l'un de l'autre et pointez vos orteils vers l'intérieur de sorte qu'ils se touchent.",
+    "Placez vos mains légèrement de chaque côté de votre tête en gardant les coudes rentrés. Astuce : ne verrouillez pas vos doigts derrière votre tête.",
+    "Appuyez le bas de votre dos sur le sol afin d'isoler mieux vos abdominaux. Cette position sera votre position de départ.",
+    "Commencez à rouler vos épaules hors du sol et continuez à pousser aussi fort que vous le pouvez avec votre bas du dos. Vos épaules ne devraient sortir du sol qu'à environ quatre pouces, et votre bas du dos devrait rester au contact du sol. Expirez pendant que vous exécutez cette partie du mouvement. Contractez vos abdominaux le plus fort possible au sommet de la contraction et maintenez-la pendant une seconde. Conseils : concentrez-vous sur un mouvement lent et contrôlé. Évitez d'utiliser de l'élan à tout moment.",
+    "Revenez lentement à la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

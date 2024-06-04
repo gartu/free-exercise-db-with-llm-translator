@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hang from a chin-up bar with your legs and feet together using an overhand grip (palms facing away from you) that is slightly wider than shoulder width. Tip: You may use wrist wraps in order to facilitate holding on to the bar.",
     "Now bend your knees at a 90 degree angle and bring the upper legs forward so that the calves are perpendicular to the floor while the thighs remain parallel to it. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Hanging_Pike/0.jpg",
     "Hanging_Pike/1.jpg"
   ],
-  "id": "Hanging_Pike"
+  "id": "Hanging_Pike",
+  "instructions_fr": [
+    "Saisissez une barre de traction avec les jambes et les pieds groupés, en utilisant une poignée de prise inverse (paumes tournées vers vous) légèrement plus large que la largeur des épaules. Astuce : vous pouvez utiliser des poignets pour faciliter la tenue de la barre.",
+    "Maintenant, pliez les genoux à un angle de 90 degrés et amenez les cuisses vers l'avant de sorte que les mollets soient perpendiculaires au sol tandis que les cuisses restent parallèles à celui-ci. Cette position sera votre point de départ.",
+    "Remontez vos jambes en expirant jusqu'à ce que vous touchiez presque vos chaussettes avec la barre au-dessus de vous. Astuce : Essayez d'écarter le plus possible vos jambes lorsque vous êtes en haut.",
+    "Abaissez lentement vos jambes jusqu'à la position de départ. Conseils : Évitez les mouvements de balançoire et utilisez une dynamique à tout moment.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

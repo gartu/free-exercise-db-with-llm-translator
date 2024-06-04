@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down with your back pressed against the floor or on an exercise mat (optional). Your arms should be fully extended to the sides with your palms facing down. Note: The arms should be stationary the entire time.",
     "With a slight bend at the knees, lift your legs up so that your heels are about 6 inches off the ground. This is the starting position.",
@@ -22,5 +20,12 @@
     "Scissor_Kick/0.jpg",
     "Scissor_Kick/1.jpg"
   ],
-  "id": "Scissor_Kick"
+  "id": "Scissor_Kick",
+  "instructions_fr": [
+    "Pour commencer, allongez-vous sur le dos en appuyant votre dos contre le sol ou sur un tapis de gym (facultatif). Vos bras doivent être complètement tendus vers les côtés, avec les paumes de la main tournées vers le bas. Notez : Les bras doivent rester immobiles tout au long de l'exercice.",
+    "En fléchissant légèrement les genoux, levez les jambes de sorte que vos talons se trouvent à environ 15 cm du sol. Cette position constitue le point de départ de l'exercice.",
+    "Maintenant, soulevez votre jambe gauche à un angle d'environ 45 degrés tandis que votre jambe droite est abaissée jusqu'au talon qui se trouve à environ 2-3 pouces du sol.",
+    "Alternez les mouvements en levant la jambe droite et en abaissant la jambe gauche. N'oubliez pas de respirer pendant l'exécution de cet exercice.",
+    "Répétez le mouvement pour le nombre de répétitions recommandé."
+  ]
 }

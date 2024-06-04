@@ -23,5 +23,11 @@
     "Barbell_Walking_Lunge/0.jpg",
     "Barbell_Walking_Lunge/1.jpg"
   ],
-  "id": "Barbell_Walking_Lunge"
+  "id": "Barbell_Walking_Lunge",
+  "instructions_fr": [
+    "Commencez debout, les pieds à la largeur des épaules, avec une barre sur votre dos supérieur.",
+    "Avancez un pied en avant, fléchissez les genoux pour baisser les hanches. Descendez jusqu'à ce que votre genou arrière frôle le sol. Votre posture doit rester droite, et votre genou avant doit rester au-dessus de votre pied avant.",
+    "Faites pivoter votre corps vers l'avant en appuyant sur le talon de votre pied d'appui et en étendant les deux genoux pour vous relever.",
+    "Avancez avec le pied arrière, en répétant la fente sur la jambe opposée."
+  ]
 }

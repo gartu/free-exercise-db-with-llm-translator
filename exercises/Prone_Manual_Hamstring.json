@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "You will need a partner for this exercise. Lay face down with your legs straight. Your assistant will place their hand on your heel.",
     "To begin, flex the knee to curl your leg up. Your partner should provide resistance, starting light and increasing the pressure as the movement is completed. Communicate with your partner to monitor appropriate resistance levels.",
@@ -20,5 +18,10 @@
     "Prone_Manual_Hamstring/0.jpg",
     "Prone_Manual_Hamstring/1.jpg"
   ],
-  "id": "Prone_Manual_Hamstring"
+  "id": "Prone_Manual_Hamstring",
+  "instructions_fr": [
+    "Vous aurez besoin d'un partenaire pour cet exercice. Allongez-vous sur le ventre avec les jambes tendues. Votre assistant posera sa main sur votre talon.",
+    "Commencez par fléchir le genou pour remonter la jambe. Votre partenaire doit fournir une résistance, en commençant doucement et en augmentant la pression lorsque le mouvement est terminé. Communiquez avec votre partenaire pour surveiller les niveaux de résistance appropriés.",
+    "Pausez en haut, en ramenant la jambe à la position de départ pendant que votre partenaire fournit une résistance dans l'autre sens."
+  ]
 }

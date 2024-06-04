@@ -24,5 +24,10 @@
     "Prowler_Sprint/0.jpg",
     "Prowler_Sprint/1.jpg"
   ],
-  "id": "Prowler_Sprint"
+  "id": "Prowler_Sprint",
+  "instructions_fr": [
+    "Placez votre traîneau sur une surface appropriée, chargé à un poids approprié. Le traîneau doit offrir une résistance suffisante pour nécessiter un effort, mais pas trop lourd pour ralentir considérablement.",
+    "Vous pouvez utiliser les poignées verticales ou basses pour cet exercice. Placez vos mains sur les poignées avec vos bras tendus, en vous appuyant sur l'outil.",
+    "En maintenant une bonne posture, propulsez-vous au sol à l'aide de pas alternés et courts. Déplacez-vous aussi rapidement que possible sur une courte distance."
+  ]
 }

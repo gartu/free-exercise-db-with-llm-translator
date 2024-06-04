@@ -22,5 +22,11 @@
     "Scissors_Jump/0.jpg",
     "Scissors_Jump/1.jpg"
   ],
-  "id": "Scissors_Jump"
+  "id": "Scissors_Jump",
+  "instructions_fr": [
+    "Prenez une position en fente, un pied en avant avec le genou fléchi, et le genou arrière frôlant presque le sol.",
+    "Assurez-vous que le genou avant est au-dessus de la ligne médiane du pied. Étendez les deux jambes, sautez aussi haut que possible en balançant les bras pour obtenir une hauteur maximale.",
+    "Lorsque vous sautez aussi haut que vous le pouvez, changez la position de vos jambes, en déplaçant votre jambe avant vers l'arrière et votre jambe arrière vers l'avant.",
+    "À l'atterrissage, absorbez l'impact par les jambes en prenant une posture de lunge, et répétez l'action."
+  ]
 }

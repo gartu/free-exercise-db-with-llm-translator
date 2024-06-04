@@ -21,5 +21,11 @@
     "Cable_Shoulder_Press/0.jpg",
     "Cable_Shoulder_Press/1.jpg"
   ],
-  "id": "Cable_Shoulder_Press"
+  "id": "Cable_Shoulder_Press",
+  "instructions_fr": [
+    "Déplacez les câbles vers le bas des tours et sélectionnez un poids approprié.",
+    "Debout entre les montants verticaux. Prenez les câbles et tenez-les à la hauteur des épaules, les paumes tournées vers l'avant. Cette position sera votre position de départ.",
+    "Gardez la tête et la poitrine levées, étendez le coude pour presser les poignées directement au-dessus de la tête.",
+    "Après une pause au sommet, revenez à la position de départ et répétez."
+  ]
 }

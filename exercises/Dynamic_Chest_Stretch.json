@@ -19,5 +19,9 @@
     "Dynamic_Chest_Stretch/0.jpg",
     "Dynamic_Chest_Stretch/1.jpg"
   ],
-  "id": "Dynamic_Chest_Stretch"
+  "id": "Dynamic_Chest_Stretch",
+  "instructions_fr": [
+    "Debout, les mains jointes, les bras tendus devant vous. C'est votre position de départ.",
+    "En gardant vos bras droits, déplacez rapidement vos bras vers l'arrière le plus loin possible, puis revenez à votre position initiale, de manière exagérée comme si vous applaudissiez. Répétez cet exercice 5 à 10 fois en augmentant la vitesse au fur et à mesure."
+  ]
 }

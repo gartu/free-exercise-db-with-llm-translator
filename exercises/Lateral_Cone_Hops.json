@@ -25,5 +25,11 @@
     "Lateral_Cone_Hops/0.jpg",
     "Lateral_Cone_Hops/1.jpg"
   ],
-  "id": "Lateral_Cone_Hops"
+  "id": "Lateral_Cone_Hops",
+  "instructions_fr": [
+    "Placez plusieurs cônes en ligne à quelques pieds de distance les uns des autres.",
+    "Debout à côté de l'extrémité des cônes, face à la direction de déplacement à 90 degrés. Cette position sera votre position de départ.",
+    "Commencez le saut en fléchissant les genoux pour initier un réflexe d'étirement, puis inversez immédiatement la direction pour appuyer sur le sol et sauter vers le haut et de côté au-dessus du cône.",
+    "Utilisez vos jambes pour absorber l'impact à l'atterrissage et rebondissez dans le prochain saut, en continuant vers la rangée de cônes."
+  ]
 }

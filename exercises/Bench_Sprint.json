@@ -23,5 +23,11 @@
     "Bench_Sprint/0.jpg",
     "Bench_Sprint/1.jpg"
   ],
-  "id": "Bench_Sprint"
+  "id": "Bench_Sprint",
+  "instructions_fr": [
+    "Debout sur le sol, posez un pied sur une banc ou une boîte, le talon près du bord.",
+    "Poussez avec le pied posé sur la banc, en étendant la hanche et le genou.",
+    "Atterrissez avec le pied opposé sur la boîte, en ramenant l'autre pied en position de départ.",
+    "Continuez à alterner d'un pied à l'autre pour terminer la série."
+  ]
 }

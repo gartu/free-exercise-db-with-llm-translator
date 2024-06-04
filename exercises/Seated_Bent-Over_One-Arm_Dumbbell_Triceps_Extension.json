@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit down at the end of a flat bench with a dumbbell in one arm using a neutral grip (palms of the hand facing you).",
     "Bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up.",
@@ -24,5 +22,14 @@
     "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
     "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
   ],
-  "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"
+  "id": "Seated_Bent-Over_One-Arm_Dumbbell_Triceps_Extension",
+  "instructions_fr": [
+    "Asseyez-vous à l'extrémité d'un banc plat avec une haltère dans une main, utilisant une poignée neutre (les paumes de la main vous faisant face).",
+    "Pliez légèrement les genoux et penchez le torse en avant, en vous courbant au niveau de la taille, tout en gardant le dos droit jusqu'à ce qu'il soit presque parallèle au sol. Assurez-vous de garder la tête levée.",
+    "Le bras supérieur avec l'haltère doit être proche du corps et aligné avec celui-ci (levant jusqu'à ce qu'il soit parallèle au sol tandis que les avant-bras pointent vers le sol alors que les mains tiennent les poids). Astuce : Il devrait y avoir un angle de 90 degrés entre les avant-bras et le bras supérieur. C'est votre position de départ.",
+    "En gardant le bras supérieur immobile, utilisez les triceps pour soulever la charge en expirant jusqu'à ce que le avant-bras soit parallèle au sol et que tout le bras soit tendu. Comme de nombreux autres exercices de bras, seul le avant-bras bouge.",
+    "Après une seconde contraction en haut, abaissez lentement l'haltère vers la position de départ pendant que vous inspirez.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit.",
+    "Changez de bras et répétez l'exercice."
+  ]
 }

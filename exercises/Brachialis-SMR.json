@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on your side, with your upper arm against the foam roller. The upper arm should be more or less aligned with your body, with the outside of the bicep pressed against the foam roller.",
     "Raise your hips off of the floor, supporting your weight on your arm and on your feet. Hold for 10-30 seconds, and then switch sides."
@@ -19,5 +17,9 @@
     "Brachialis-SMR/0.jpg",
     "Brachialis-SMR/1.jpg"
   ],
-  "id": "Brachialis-SMR"
+  "id": "Brachialis-SMR",
+  "instructions_fr": [
+    "Allongez-vous sur le côté, en appuyant votre bras supérieur contre le rouleau en mousse. Le bras supérieur doit être plus ou moins aligné avec votre corps, l'extérieur du biceps pressé contre le rouleau en mousse.",
+    "Soulevez vos hanches du sol, en soutenant votre poids sur votre bras et sur vos pieds. Tenez pendant 10 à 30 secondes, puis changez de côté."
+  ]
 }

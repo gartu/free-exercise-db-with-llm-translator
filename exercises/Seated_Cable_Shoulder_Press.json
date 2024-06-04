@@ -21,5 +21,11 @@
     "Seated_Cable_Shoulder_Press/0.jpg",
     "Seated_Cable_Shoulder_Press/1.jpg"
   ],
-  "id": "Seated_Cable_Shoulder_Press"
+  "id": "Seated_Cable_Shoulder_Press",
+  "instructions_fr": [
+    "Ajustez le poids à une quantité appropriée et asseyez-vous, en saisissant les poignées. Vos bras supérieurs devraient former un angle d'environ 90 degrés avec votre corps, la tête et la poitrine levées. Les coudes doivent également être fléchis d'environ 90 degrés. Telle sera votre position de départ.",
+    "Commencez par étendre au niveau du coude, en appuyant sur les poignées ensemble au-dessus de votre tête.",
+    "Après une pause au sommet, ramenez les poignées à la position de départ. Assurez-vous de maintenir la tension sur les câbles.",
+    "Vous pouvez également exécuter ce mouvement avec le dos sur le coussin et en alternant les mains."
+  ]
 }

@@ -21,5 +21,11 @@
     "90_90_Hamstring/0.jpg",
     "90_90_Hamstring/1.jpg"
   ],
-  "id": "90_90_Hamstring"
+  "id": "90_90_Hamstring",
+  "instructions_fr": [
+    "Allongez-vous sur le dos, une jambe tendue en avant.",
+    "Avec l'autre jambe, fléchissez la hanche et le genou à 90 degrés. Vous pouvez vous appuyer sur votre main si nécessaire. Ce sera votre position de départ.",
+    "Étendez la jambe droite dans les airs, en faisant une courte pause au sommet. Ramenez la jambe à la position de départ.",
+    "Répétez pour 10 à 20 répétitions, puis passez à l'autre jambe."
+  ]
 }

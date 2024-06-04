@@ -22,5 +22,11 @@
     "Cable_Chest_Press/0.jpg",
     "Cable_Chest_Press/1.jpg"
   ],
-  "id": "Cable_Chest_Press"
+  "id": "Cable_Chest_Press",
+  "instructions_fr": [
+    "Ajustez le poids à une quantité appropriée et asseyez-vous, en saisissant les poignées. Vos bras supérieurs devraient former un angle d'environ 45 degrés avec votre corps, la tête et la poitrine levées. Les coudes doivent être fléchis d'environ 90 degrés. Telle sera votre position de départ.",
+    "Commencez par étendre le coude, en pressant les poignées ensemble devant vous. Maintenez vos omoplates rentrées pendant que vous exécutez le mouvement.",
+    "Après une pause en extension complète, retournez à la position de départ, en gardant la tension sur les câbles.",
+    "Vous pouvez également exécuter ce mouvement dos à l'aide d'une plaque, en pente ou en déclin, ou en alternant les mains."
+  ]
 }

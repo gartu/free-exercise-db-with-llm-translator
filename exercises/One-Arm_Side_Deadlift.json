@@ -28,5 +28,13 @@
     "One-Arm_Side_Deadlift/0.jpg",
     "One-Arm_Side_Deadlift/1.jpg"
   ],
-  "id": "One-Arm_Side_Deadlift"
+  "id": "One-Arm_Side_Deadlift",
+  "instructions_fr": [
+    "Debout sur le côté d'une barre, à côté de son centre. Fléchissez les genoux et inclinez votre corps jusqu'à ce que vous puissiez atteindre la barre.",
+    "Prenez la barre comme si vous teniez un mallette (les paumes face à vous, car la barre est de côté). Vous aurez peut-être besoin d'un manchon de poignet si vous utilisez une charge importante. C'est votre position de départ.",
+    "Utilisez vos jambes pour aider à soulever la barre tout en expirant. Vos bras devraient être complètement étendus lorsque vous soulevez la barre jusqu'à ce que vous soyez debout.",
+    "Ramenez lentement la barre vers l'arrière en inspirant. Astuce : Assurez-vous de plier les genoux lorsque vous abaissez le poids pour éviter toute blessure.",
+    "Répétez pour le nombre de répétitions recommandé.",
+    "Changez de bras et répétez le mouvement."
+  ]
 }

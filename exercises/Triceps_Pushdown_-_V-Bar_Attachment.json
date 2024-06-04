@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a V-Bar to a high pulley and grab with an overhand grip (palms facing down) at shoulder width.",
     "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the bar. The thumbs should be higher than the small finger. This is your starting position.",
@@ -22,5 +20,12 @@
     "Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
     "Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
   ],
-  "id": "Triceps_Pushdown_-_V-Bar_Attachment"
+  "id": "Triceps_Pushdown_-_V-Bar_Attachment",
+  "instructions_fr": [
+    "Attachez une barre en V à un poulie haute et saisissez-la avec une poignée en prise inversée (paumes vers le bas) à la largeur des épaules.",
+    "Debout, le torse droit et légèrement incliné vers l'avant, rapprochez les bras supérieurs de votre corps et placez-les perpendiculairement au sol. Les avant-bras doivent être tournés vers le haut en direction de la poulie et tenir la barre ; le pouce doit se trouver au-dessus du petit doigt.  C'est votre position de départ.",
+    "En utilisant les triceps, amène la barre jusqu'à ce qu'elle touche l'avant de vos cuisses et que les bras soient complètement étendus perpendiculaires au sol. Les bras supérieurs devraient toujours rester stationnaires à côté de votre torse et seuls les avant-bras devraient bouger. Expirez pendant que vous exécutez ce mouvement.",
+    "Après une seconde de contraction, ramenez lentement la barre en V jusqu'à la position de départ. Inspirez pendant que vous effectuez cette étape.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

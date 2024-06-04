@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab a dumbbell and either sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs or stand up straight.",
     "Clean the dumbbell up to bring it to shoulder height and then extend the arm over your head so that the whole arm is perpendicular to the floor and next to your head. The dumbbell should be on top of you. The other hand can be kept fully extended to the side, by the waist, supporting the upper arm that has the dumbbell or grabbing a fixed surface.",
@@ -23,5 +21,13 @@
     "Dumbbell_One-Arm_Triceps_Extension/0.jpg",
     "Dumbbell_One-Arm_Triceps_Extension/1.jpg"
   ],
-  "id": "Dumbbell_One-Arm_Triceps_Extension"
+  "id": "Dumbbell_One-Arm_Triceps_Extension",
+  "instructions_fr": [
+    "Prenez un haltère et asseyez-vous sur un banc de presse militaire ou un banc polyvalent avec un dossier, puis placez les haltères à la verticale sur vos cuisses ou tenez-les droit devant vous.",
+    "Monter l'haltère jusqu'à la hauteur de l'épaule puis étendez le bras au-dessus de votre tête de sorte que tout le bras soit perpendiculaire au sol et à côté de votre tête. L'haltère doit se trouver au-dessus de vous. L'autre main peut être complètement tendue sur le côté, au niveau de la taille, en soutenant l'omoplate qui tient l'haltère ou en saisissant une surface fixe.",
+    "Faites pivoter le poignet afin que la paume de votre main soit orientée vers l'avant et que votre petit doigt soit tourné vers le plafond. Cette position sera votre point de départ.",
+    "Abaissez lentement l'haltère derrière votre tête tout en gardant le bras supérieur immobile. Inhalez pendant que vous exécutez ce mouvement et faites une pause lorsque vos triceps sont complètement étirés.",
+    "Retournez à la position de départ en contractant vos triceps pendant que vous expirez. Astuce : Il est impératif que seul l'avant-bras bouge. L'épaule supérieure doit rester stationnaire près de votre tête en tout temps.",
+    "Répétez pour le nombre de répétitions recommandé et changez de bras."
+  ]
 }

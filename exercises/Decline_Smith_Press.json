@@ -23,5 +23,12 @@
     "Decline_Smith_Press/0.jpg",
     "Decline_Smith_Press/1.jpg"
   ],
-  "id": "Decline_Smith_Press"
+  "id": "Decline_Smith_Press",
+  "instructions_fr": [
+    "Placez un banc incliné sous la machine Smith. Maintenant, placez la barre à une hauteur que vous pouvez atteindre lorsque vous êtes allongé et que vos bras sont presque complètement tendus. En prenant une poignée prononnée plus large que la largeur des épaules, déverrouillez la barre du support et tenez-la droite au-dessus de vous avec les bras tendus. Telle sera votre position de départ.",
+    "En inspirant, abaissez la barre en contrôlant le mouvement en fléchissant les coudes, en touchant légèrement le torse.",
+    "Après une courte pause, ramenez la barre à la position de départ en étendant les coudes, en expirant pendant le mouvement.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit.",
+    "Une fois la série terminée, verrouillez la barre à nouveau dans le porte-barre."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit on the machine and place your toes on the lower portion of the platform provided with the heels extending off. Choose the toe positioning of your choice (forward, in, or out) as per the beginning of this chapter.",
     "Place your lower thighs under the lever pad, which will need to be adjusted according to the height of your thighs. Now place your hands on top of the lever pad in order to prevent it from slipping forward.",
@@ -23,5 +21,13 @@
     "Seated_Calf_Raise/0.jpg",
     "Seated_Calf_Raise/1.jpg"
   ],
-  "id": "Seated_Calf_Raise"
+  "id": "Seated_Calf_Raise",
+  "instructions_fr": [
+    "Asseyez-vous sur la machine et placez vos orteils sur la partie inférieure de la plateforme fournie avec les talons qui s'étendent vers l'extérieur. Choisissez la position des orteils de votre choix (en avant, vers l'intérieur ou vers l'extérieur) comme au début de ce chapitre.",
+    "Placez vos cuisses inférieures sous le support de levier, qui devra être réglé en fonction de la hauteur de vos cuisses. Placez maintenant vos mains sur le dessus du support de levier pour éviter qu'il ne glisse vers l'avant.",
+    "Soulevez légèrement le levier en poussant vos talons vers le haut et relâchez la barre de sécurité. Cette position sera votre position de départ.",
+    "Abaissez lentement vos talons en fléchissant les chevilles jusqu'à ce que vos mollets soient complètement étirés. Inhalez pendant que vous exécutez ce mouvement.",
+    "Élevez les talons en étendant les chevilles aussi haut que possible tout en contractant les mollets et en expirant. Maintenez la position de contraction pendant une seconde.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

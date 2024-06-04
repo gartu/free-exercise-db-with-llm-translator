@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by placing a flat bench in front of a low pulley cable that has a straight bar attachment.",
     "Use your arms to grab the cable bar with a narrow to shoulder width supinated grip (palms up) and bring them up so that your forearms are resting against the top of your thighs. Your wrists should be hanging just beyond your knees.",
@@ -23,5 +21,13 @@
     "Cable_Wrist_Curl/0.jpg",
     "Cable_Wrist_Curl/1.jpg"
   ],
-  "id": "Cable_Wrist_Curl"
+  "id": "Cable_Wrist_Curl",
+  "instructions_fr": [
+    "Commencez par placer un banc plat devant un câble à poulie basse qui a une poignée en barre droite.",
+    "Utilisez vos bras pour attraper la barre de câble avec une poignée étroite à la largeur des épaules en position prononcée (paumes vers le haut) et amenez-les vers le haut jusqu'à ce que vos avant-bras reposent contre le dessus de vos cuisses. Vos poignets devraient être inclinés juste au-delà de vos genoux.",
+    "Commencez par plier votre poignet vers le haut et expirez. Maintenez la contraction pendant une seconde.",
+    "Abaissez lentement vos poignets jusqu'à la position de départ tout en inspirant.",
+    "Votre avant-bras doit rester immobile, seul votre poignet doit bouger pour exécuter cet exercice.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

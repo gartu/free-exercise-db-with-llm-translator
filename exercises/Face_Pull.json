@@ -18,5 +18,8 @@
     "Face_Pull/0.jpg",
     "Face_Pull/1.jpg"
   ],
-  "id": "Face_Pull"
+  "id": "Face_Pull",
+  "instructions_fr": [
+    "Face à un poulie haut avec une corde ou des poignées doubles attachées, tirez le poids directement vers votre visage, en écartant vos mains pendant que vous le faites. Gardez vos bras supérieurs parallèles au sol."
+  ]
 }

@@ -22,5 +22,10 @@
     "Olympic_Squat/0.jpg",
     "Olympic_Squat/1.jpg"
   ],
-  "id": "Olympic_Squat"
+  "id": "Olympic_Squat",
+  "instructions_fr": [
+    "Commencez avec une barre soutenue sur les trapèzes. Le poitrine doit être relevée et la tête tournée vers l'avant. Adoptez une posture en position large avec les pieds tournés vers l'extérieur selon vos besoins.",
+    "Descendez en fléchissant les genoux, en évitant de trop reculer les hanches. Les genoux doivent se déplacer vers l'avant, restez alignés avec les pieds. Le but est de garder le tronc le plus vertical possible. Descendez complètement, en gardant le poids sur l'avant des talons.",
+    "Au moment où les cuisses supérieures entrent en contact avec les inférieures, inverser le mouvement, en faisant remonter le poids."
+  ]
 }

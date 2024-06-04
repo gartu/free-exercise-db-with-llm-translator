@@ -25,5 +25,10 @@
     "Clean_Deadlift/0.jpg",
     "Clean_Deadlift/1.jpg"
   ],
-  "id": "Clean_Deadlift"
+  "id": "Clean_Deadlift",
+  "instructions_fr": [
+    "Commencez debout avec une barre close à vos mollets. Vos pieds doivent être directement sous vos hanches, légèrement tournés vers l'extérieur. Attrapez la barre avec une poignée en double sur-main ou en crochet, à environ la largeur des épaules. Faites un squat jusqu'à la barre. Votre colonne vertébrale doit être en extension complète, avec un angle du dos qui place vos épaules devant la barre et votre dos aussi vertical que possible.",
+    "Commencez en poussant à travers le sol à l'avant de vos talons. Alors que la barre se déplace vers le haut, maintenez un angle constant du dos. Écartez les genoux vers l'extérieur pour aider à les garder hors de la trajectoire de la barre.",
+    "Après que la barre ait franchi les genoux, terminez le mouvement en poussant les hanches vers la barre jusqu'à ce que vos hanches et vos genoux soient tendus."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "This exercise stretches the fascia of the muscles in the feet. Start off seated with your shoes removed. Using a foot roller or a similar object, such as a small section of pvc pipe, place your foot against the roller across the arch of your foot. This will be your starting position.",
     "Press down firmly, rolling across the arch of your foot. Hold for 10-30 seconds, and then switch feet."
@@ -19,5 +17,9 @@
     "Foot-SMR/0.jpg",
     "Foot-SMR/1.jpg"
   ],
-  "id": "Foot-SMR"
+  "id": "Foot-SMR",
+  "instructions_fr": [
+    "Cet exercice étire la fascia des muscles au niveau des pieds. Commencez assis, sans chaussures. À l'aide d'un rouleau pour les pieds ou d'un objet similaire, tel qu'une petite section de tuyau en PVC, placez votre pied contre le rouleau à l'arche de votre pied. Cette position sera votre point de départ.",
+    "Appuyez fermement vers le bas, en roulant sur l'arc de votre pied. Maintenez la position pendant 10 à 30 secondes, puis changez de pied."
+  ]
 }

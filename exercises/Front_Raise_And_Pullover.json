@@ -24,5 +24,12 @@
     "Front_Raise_And_Pullover/0.jpg",
     "Front_Raise_And_Pullover/1.jpg"
   ],
-  "id": "Front_Raise_And_Pullover"
+  "id": "Front_Raise_And_Pullover",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat tout en tenant une barre avec une prise en paume vers le bas, espacée d'environ 15 pouces.",
+    "Placez la barre sur vos cuisses supérieures, étendez vos bras et verrouillez-les tout en gardant un léger angle au niveau des coudes. Cette position sera votre position de départ.",
+    "Maintenant, soulevez le poids à l'aide d'un mouvement semi-circulaire tout en gardant vos bras droits pendant que vous inspirez. Continuez le même mouvement jusqu'à ce que la barre soit de l'autre côté au-dessus de votre tête. (Astuce : la barre va parcourir environ 180 degrés). À ce stade, vos bras devraient être parallèles au sol avec les paumes de vos mains tournées vers le plafond.",
+    "Ramenez maintenant la barre vers la position de départ en inversant le mouvement pendant que vous expirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on an incline bench with the chest and stomach pressing against the incline. Have the dumbbells in each hand with the palms facing each other (neutral grip).",
     "Extend the arms in front of you so that they are perpendicular to the angle of the bench. The legs should be stationary while applying pressure with the ball of your toes. This is the starting position.",
@@ -23,5 +21,13 @@
     "Reverse_Flyes/0.jpg",
     "Reverse_Flyes/1.jpg"
   ],
-  "id": "Reverse_Flyes"
+  "id": "Reverse_Flyes",
+  "instructions_fr": [
+    "Pour commencer, allongez-vous sur un banc incliné en pressant la poitrine et l'estomac contre l'inclinaison. Tenez les haltères dans chaque main, les paumes face à face (prise neutre).",
+    "Étendez les bras devant vous de sorte qu'ils soient perpendiculaires à l'angle du banc. Les jambes doivent rester stationnaires tout en appliquant une pression avec la pointes des orteils. C'est la position de départ.",
+    "En maintenant la légère flexion des coudes, déplacez les poids vers l'extérieur et loin l'un de l'autre (sur le côté) en un mouvement d'arc tout en expirant. Astuce : Essayez de rapprocher vos omoplates pour optimiser les résultats de cet exercice.",
+    "Les bras doivent être soulevés jusqu'à ce qu'ils soient parallèles au sol.",
+    "Respirant, ressentez la contraction et ramenez lentement les poids à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -24,5 +24,12 @@
     "Split_Jump/0.jpg",
     "Split_Jump/1.jpg"
   ],
-  "id": "Split_Jump"
+  "id": "Split_Jump",
+  "instructions_fr": [
+    "Prenez une position en fente, un pied en avant avec le genou fléchi, et le genou arrière frôlant presque le sol.",
+    "Assurez-vous que le genou avant est au-dessus de la ligne médiane du pied.",
+    "En vous étirant sur les deux jambes, sautez aussi haut que possible, en balançant vos bras pour gagner en hauteur.",
+    "Lors du saut, rapprochez vos pieds l'un de l'autre et ramenez-les à leur position initiale lors de la réception.",
+    "Absorbez l'impact en revenant à la position de départ."
+  ]
 }

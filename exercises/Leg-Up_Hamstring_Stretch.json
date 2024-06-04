@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back, bend one knee, and put that foot flat on the floor to stabilize your spine.",
     "Extend the other leg in the air. If you're tight, you wont be able to straighten it. That's okay. Extend the knee so that the sole of the lifted foot faces the ceiling (or as close as you can get it).",
@@ -20,5 +18,10 @@
     "Leg-Up_Hamstring_Stretch/0.jpg",
     "Leg-Up_Hamstring_Stretch/1.jpg"
   ],
-  "id": "Leg-Up_Hamstring_Stretch"
+  "id": "Leg-Up_Hamstring_Stretch",
+  "instructions_fr": [
+    "Allongez-vous à plat sur le dos, pliez un genou et posez ce pied à plat sur le sol pour stabiliser votre colonne vertébrale.",
+    "Étirez l'autre jambe dans les airs. Si vous êtes tendu, vous ne pourrez pas la tendre complètement. C'est bon. Écartez le genou de sorte que la plante du pied levé fasse face au plafond (ou aussi près que possible).",
+    "Droits lentement les jambes autant que possible, puis tirez la jambe vers votre nez. Alternez les côtés."
+  ]
 }

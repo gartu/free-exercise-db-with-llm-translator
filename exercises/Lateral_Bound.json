@@ -26,5 +26,12 @@
     "Lateral_Bound/0.jpg",
     "Lateral_Bound/1.jpg"
   ],
-  "id": "Lateral_Bound"
+  "id": "Lateral_Bound",
+  "instructions_fr": [
+    "Prenez une position accroupie à moitié, face à 90 degrés de votre direction de déplacement. Cette position sera votre position de départ.",
+    "Laissez votre jambe d'appui effectuer un contre-mouvement vers l'intérieur lorsque vous transférez votre poids sur la jambe extérieure.",
+    "Poussez-vous immédiatement et étendez-vous, en essayant de vous propulser le plus loin possible sur les côtés.",
+    "Dès l'atterrissage, propulsez-vous immédiatement dans la direction opposée et revenez à votre position de départ initiale.",
+    "Continuez de manière alternée pendant plusieurs répétitions."
+  ]
 }

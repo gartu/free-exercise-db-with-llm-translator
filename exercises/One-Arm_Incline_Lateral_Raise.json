@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down sideways on an incline bench press with a dumbbell in the hand. Make sure the shoulder is pressing against the incline bench and the arm is lying across your body with the palm around your navel.",
     "Hold a dumbbell in your uppermost arm while keeping it extended in front of you parallel to the floor. This is your starting position.",
@@ -23,5 +21,13 @@
     "One-Arm_Incline_Lateral_Raise/0.jpg",
     "One-Arm_Incline_Lateral_Raise/1.jpg"
   ],
-  "id": "One-Arm_Incline_Lateral_Raise"
+  "id": "One-Arm_Incline_Lateral_Raise",
+  "instructions_fr": [
+    "Allongez-vous sur le côté sur un banc incliné avec un haltère dans la main. Assurez-vous que l'épaule est bien appuyée contre le banc incliné et que le bras est étendu à travers votre corps, la paume vers votre nombril.",
+    "Tenez un haltère dans votre bras le plus élevé tout en le gardant étendu devant vous parallèle au sol. C'est votre position de départ.",
+    "En gardant l'haltère parallèle au sol en tout temps, effectuez une élévation latérale. Votre bras devrait remonter jusqu'à pointer vers le plafond. Astuce : Exhalez pendant que vous effectuez ce mouvement. Maintenez l'haltère dans cette position et ressentez la contraction des épaules pendant une seconde.",
+    "En inspirant, abaissez le poids à travers votre corps en revenant à la position de départ.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit.",
+    "Changez de bras et répétez le mouvement."
+  ]
 }

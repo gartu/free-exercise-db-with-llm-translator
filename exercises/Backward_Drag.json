@@ -23,5 +23,9 @@
     "Backward_Drag/0.jpg",
     "Backward_Drag/1.jpg"
   ],
-  "id": "Backward_Drag"
+  "id": "Backward_Drag",
+  "instructions_fr": [
+    "Chargez un traîneau avec le poids souhaité, en attachant une corde ou des sangles au traîneau que vous pouvez tenir.",
+    "Commencez l'exercice en reculant sur une certaine distance. Penchez-vous en arrière et étendez vos jambes pour faire de petits pas afin de vous déplacer aussi rapidement que possible."
+  ]
 }

@@ -20,5 +20,10 @@
     "Kettlebell_Arnold_Press/0.jpg",
     "Kettlebell_Arnold_Press/1.jpg"
   ],
-  "id": "Kettlebell_Arnold_Press"
+  "id": "Kettlebell_Arnold_Press",
+  "instructions_fr": [
+    "Monter une kettlebell jusqu'à votre épaule. Monter la kettlebell jusqu'à votre épaule en vous étendant par les jambes et les hanches tout en soulevant la kettlebell vers votre épaule. La paume devrait être tournée vers l'intérieur.",
+    "En regardant droit devant vous, pressez la kettlebell vers l'extérieur et au-dessus de votre tête, en faisant tourner votre poignet de sorte que votre paume face vers l'avant au sommet du mouvement.",
+    "Ramenez la kettlebell à la position de départ, la paume vers l'intérieur."
+  ]
 }

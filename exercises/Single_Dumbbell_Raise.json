@@ -21,5 +21,10 @@
     "Single_Dumbbell_Raise/0.jpg",
     "Single_Dumbbell_Raise/1.jpg"
   ],
-  "id": "Single_Dumbbell_Raise"
+  "id": "Single_Dumbbell_Raise",
+  "instructions_fr": [
+    "En prenant une large posture, tenez un haltère avec les deux mains, en saisissant la tête de l'haltère plutôt que la poignée. Vos bras doivent être étendus et pendre au niveau de la taille. Cette position sera votre position de départ.",
+    "Soulevez le poids jusqu'à ce qu'il soit au-dessus du niveau de vos épaules, en gardant vos bras tendus. Votre torse et vos hanches doivent rester immobiles tout au long du mouvement.",
+    "Retournez à la position de départ et répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab a dumbbell with each arm and place the upper arms on top of the preacher bench or the incline bench. The dumbbell should be held at shoulder length. This will be your starting position.",
     "As you breathe in, slowly lower the dumbbells until your upper arm is extended and the biceps is fully stretched.",
@@ -21,5 +19,11 @@
     "Two-Arm_Dumbbell_Preacher_Curl/0.jpg",
     "Two-Arm_Dumbbell_Preacher_Curl/1.jpg"
   ],
-  "id": "Two-Arm_Dumbbell_Preacher_Curl"
+  "id": "Two-Arm_Dumbbell_Preacher_Curl",
+  "instructions_fr": [
+    "Prenez un haltère dans chaque main et placez les bras supérieurs sur le banc de prédication ou le banc inclinée. L'haltère doit être tenu à la longueur de l'épaule. Cette position sera votre point de départ.",
+    "En respirant, abaissez lentement les haltères jusqu'à ce que votre bras supérieur soit tendu et que votre bicep soit complètement étiré.",
+    "En expirant, utilisez vos biceps pour soulever les poids jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient à la hauteur de vos épaules.",
+    "Contractez durablement les biceps pendant une seconde à la position contractée et répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "neck"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a neck strap on the floor at the end of a flat bench. Once you have selected the weights, sit at the end of the flat bench with your feet wider than shoulder width apart from each other. Your toes should be pointed out.",
     "Slowly move your torso forward until it is almost parallel with the floor. Using both hands, securely position the neck strap around your head. Tip: Make sure the weights are still lying on the floor to prevent any strain on the neck. Now grab the weight with both hands while elevating your torso back until it is almost perpendicular to the floor. Note: Your head and torso needs to be slightly tilted forward to perform this exercise.",
@@ -23,5 +21,13 @@
     "Seated_Head_Harness_Neck_Resistance/0.jpg",
     "Seated_Head_Harness_Neck_Resistance/1.jpg"
   ],
-  "id": "Seated_Head_Harness_Neck_Resistance"
+  "id": "Seated_Head_Harness_Neck_Resistance",
+  "instructions_fr": [
+    "Placez une sangle de cou sur le sol à l'extrémité d'un banc plat. Une fois que vous avez sélectionné les poids, asseyez-vous à l'extrémité du banc plat en écartant vos pieds de plus que la largeur des épaules. Vos orteils doivent être pointés vers l'extérieur.",
+    "Déplacez lentement votre torse vers l'avant jusqu'à ce qu'il soit presque parallèle avec le sol. À l'aide de vos deux mains, placez solidement la sangle de cou autour de votre tête. Astuce : Assurez-vous que les poids sont toujours posés sur le sol pour éviter toute tension au niveau du cou. Maintenant, saisissez le poids avec vos deux mains tout en redressant votre torse jusqu'à ce qu'il soit presque perpendiculaire au sol. Note : Votre tête et votre torse doivent être légèrement inclinées vers l'avant pour effectuer cet exercice.",
+    "Placez maintenant les deux mains sur vos genoux. C'est la position de départ.",
+    "Baissez lentement votre cou jusqu'à ce que votre menton touche la partie supérieure de votre poitrine tout en respirant.",
+    "Pendant l'exhalation, ramenez votre cou à la position de départ.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

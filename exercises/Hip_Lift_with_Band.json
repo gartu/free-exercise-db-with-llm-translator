@@ -22,5 +22,11 @@
     "Hip_Lift_with_Band/0.jpg",
     "Hip_Lift_with_Band/1.jpg"
   ],
-  "id": "Hip_Lift_with_Band"
+  "id": "Hip_Lift_with_Band",
+  "instructions_fr": [
+    "Après avoir choisi une bande adaptée, allongez-vous au milieu du support, en fixant la bande de chaque côté de vous. Si votre support ne possède pas d'embouts, la bande peut être fixée à l'aide d'haltères lourds ou d'objets similaires ; assurez-vous simplement qu'ils ne bougent pas.",
+    "Ajustez votre position de sorte que la bande soit directement au-dessus de vos hanches. Fléchissez les genoux et posez vos pieds à plat sur le sol. Vos mains peuvent être posées sur le sol ou maintenir la bande en place.",
+    "En gardant les épaules au sol, poussez sur vos talons pour soulever les hanches, en poussant dans la bande aussi haut que possible.",
+    "Pausez au sommet du mouvement et revenez à la position de départ."
+  ]
 }

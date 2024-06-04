@@ -21,5 +21,11 @@
     "Standing_Hip_Circles/0.jpg",
     "Standing_Hip_Circles/1.jpg"
   ],
-  "id": "Standing_Hip_Circles"
+  "id": "Standing_Hip_Circles",
+  "instructions_fr": [
+    "Commencez debout sur une seule jambe, en vous tenant à un support vertical.",
+    "Levez le genou non soutenu à 90 degrés. Cette position sera votre position de départ.",
+    "Ouvrez l'hip le plus possible, en essayant de faire un grand cercle avec votre genou.",
+    "Exécutez ce mouvement lentement pendant un certain nombre de répétitions, puis répétez de l'autre côté."
+  ]
 }

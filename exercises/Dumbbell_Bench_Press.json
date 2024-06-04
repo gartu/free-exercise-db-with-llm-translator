@@ -23,5 +23,12 @@
     "Dumbbell_Bench_Press/0.jpg",
     "Dumbbell_Bench_Press/1.jpg"
   ],
-  "id": "Dumbbell_Bench_Press"
+  "id": "Dumbbell_Bench_Press",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat avec un haltère dans chaque main, posés sur le dessus de vos cuisses. Les paumes de vos mains seront tournées l'une vers l'autre.",
+    "Ensuite, utilisez vos cuisses pour aider à soulever les haltères vers le haut, soulevez les haltères un par un afin de pouvoir les tenir devant vous à la largeur des épaules.",
+    "Une fois à la largeur des épaules, faites pivoter vos poignets vers l'avant de sorte que les paumes de vos mains vous soient opposées. Les haltères doivent se trouver de chaque côté de votre poitrine, votre bras supérieur et votre avant-bras formant un angle de 90 degrés. Assurez-vous de garder le contrôle total des haltères en tout temps. Ce sera votre position de départ.",
+    "Ensuite, pendant que vous expirez, utilisez votre poitrine pour pousser les haltères vers le haut. Verrouillez vos bras au sommet du levage et contractez votre poitrine, maintenez-le pendant une seconde, puis commencez à redescendre lentement. Astuce : idéalement, l'abaissement du poids devrait prendre environ deux fois plus de temps que le fait de le soulever.",
+    "Répétez le mouvement pour le nombre prescrit de répétitions de votre programme d'entraînement."
+  ]
 }

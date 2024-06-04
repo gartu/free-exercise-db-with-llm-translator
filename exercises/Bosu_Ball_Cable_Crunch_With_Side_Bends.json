@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect a standard handle to each arm of a cable machine, and position them in the most downward position.",
     "Grab a Bosu Ball and position it in front and center of the cable machine.",
@@ -27,5 +25,17 @@
     "Bosu_Ball_Cable_Crunch_With_Side_Bends/0.jpg",
     "Bosu_Ball_Cable_Crunch_With_Side_Bends/1.jpg"
   ],
-  "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends"
+  "id": "Bosu_Ball_Cable_Crunch_With_Side_Bends",
+  "instructions_fr": [
+    "Reliez une poignée standard à chaque bras d'une machine à câbles, et placez-les dans la position la plus basse.",
+    "Prenez un Bosu Ball et placez-le devant et au centre de la machine à câbles.",
+    "Allongez-vous sur la Bosu Ball en arquant le bas de votre dos autour de la balle. Votre postérieur devrait être proche du sol sans le toucher.",
+    "Avec les deux mains, étendez-vous vers l'arrière et attrapez la poignée de chaque câble.",
+    "Avec les pieds positionnés en large écart, étendez vos bras droit devant vous et entre vos genoux. Vos mains doivent être au niveau des genoux.",
+    "Gardez vos bras droits et alignés avec l'angle vers le haut du câble. Élevez votre torse dans un mouvement de contraction sans plier ou rabattre vos bras.",
+    "Maintenez la position rigide avec vos bras. Remontez lentement à la position de départ en gardant le dos archuré autour de la Bosu Ball et les abdominaux allongés.",
+    "Répétez la même série de mouvements jusqu'à l'échec.",
+    "Une fois que vous atteignez l'échec, gardez vos abdominaux contractés et élevez votre torse en position de planche de sorte que votre dos soit surélevé par rapport au Bosu Ball.",
+    "Abaissez vos bras le long de votre corps; gardez-les droits. Commencez à faire des flexions latérales alternées; atteignez vos talons ! Ce mouvement de finition se concentrera sur vos obliques."
+  ]
 }

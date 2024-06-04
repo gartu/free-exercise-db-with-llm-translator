@@ -21,5 +21,10 @@
     "Chain_Press/0.jpg",
     "Chain_Press/1.jpg"
   ],
-  "id": "Chain_Press"
+  "id": "Chain_Press",
+  "instructions_fr": [
+    "Commencez en fixant les chaînes aux attaches de poignée de câble. Positionnez-vous sur le banc plat dans la même position que pour une presse d'haltère. Vos poignets doivent être prononcés et vos bras perpendiculaires au sol. Telle sera votre position de départ.",
+    "Abaissez les chaînes en fléchissant les coudes, déchargant une partie de la chaîne sur le sol.",
+    "Continuez jusqu'à ce que votre coude forme un angle de 90 degrés, puis inversez le mouvement en étendant à travers le coude pour verrouiller."
+  ]
 }

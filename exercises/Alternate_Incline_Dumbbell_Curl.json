@@ -22,5 +22,12 @@
     "Alternate_Incline_Dumbbell_Curl/0.jpg",
     "Alternate_Incline_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Alternate_Incline_Dumbbell_Curl"
+  "id": "Alternate_Incline_Dumbbell_Curl",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc incliné avec un haltère dans chaque main, tenu à longueur de bras. Astuce : Gardez les coudes près du torse. Ce sera votre position de départ.",
+    "En maintenant le bras supérieur immobile, soulevez l'haltère de droite vers l'avant en contractant les biceps pendant que vous expirez. Pendant ce temps, tournez la paume de la main afin qu'elle soit tournée vers le haut. Continuez le mouvement jusqu'à ce que votre biceps soit complètement contracté et que les haltères soient au niveau des épaules. Maintenez cette position contractée pendant une seconde en serrant les biceps. Astuce : Seule l'avant-bras doit bouger.",
+    "Ramenez lentement l'haltère vers sa position initiale en inspirant.",
+    "Répétez le mouvement avec la main gauche. Cela équivaut à une répétition.",
+    "Continuez à alterner de cette manière pour le nombre de répétitions recommandé."
+  ]
 }

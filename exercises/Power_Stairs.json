@@ -27,5 +27,11 @@
     "Power_Stairs/0.jpg",
     "Power_Stairs/1.jpg"
   ],
-  "id": "Power_Stairs"
+  "id": "Power_Stairs",
+  "instructions_fr": [
+    "Dans l'escalier de puissance, les implémentations sont déplacées sur un escalier. À des fins d'entraînement, ceux-ci peuvent être effectués avec une roue ou une boîte.",
+    "Commencez en saisissant l'outil avec les deux mains. Écarrez les pieds, tenez la tête et la poitrine haut. Propulsé par les talons dans le sol, étendez les genoux et les hanches pour soulever le poids du sol.",
+    "En vous penchant en arrière, essayez de balancer le poids sur les escaliers, qui sont généralement d'une hauteur d'environ 40 à 45 cm. Vous pouvez utiliser vos jambes pour aider à pousser le poids sur l'escalier.",
+    "Répétez pour 3 à 5 répétitions et poursuivez avec un poids plus lourd en bougeant aussi vite que possible."
+  ]
 }

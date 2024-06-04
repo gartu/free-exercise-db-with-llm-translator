@@ -30,5 +30,11 @@
     "Keg_Load/0.jpg",
     "Keg_Load/1.jpg"
   ],
-  "id": "Keg_Load"
+  "id": "Keg_Load",
+  "instructions_fr": [
+    "Pour charger les fûts, placez le nombre souhaité à une distance de la plateforme de chargement, généralement à 30-50 pieds.",
+    "Commencez en saisissant la poignée proche du premier fût, en l'inclinant sur son côté pour saisir l'autre bord du fond du fût. Soulevez le fût jusqu'à votre poitrine.",
+    "Plus haut vous pouvez placer le tonneau, plus rapide vous devriez pouvoir bouger vers la plate-forme. Le portage sur l'épaule est généralement autorisé. Assurez-vous de maintenir une prise ferme sur le tonneau. Déplacez-vous rapidement vers la plate-forme et chargez-la, en étendant vos hanches, vos genoux et vos chevilles pour la soulever le plus haut possible.",
+    "Revenez à la position de départ pour récupérer le prochain tonneau et répétez jusqu'à ce que l'événement soit terminé."
+  ]
 }

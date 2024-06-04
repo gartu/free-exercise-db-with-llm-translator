@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Begin by lying on your back on the ground. Your legs should be straight and your arms extended behind your head. This will be your starting position.",
     "To perform the movement, tuck the knees toward your chest, rotating your pelvis to lift your glutes from the floor. As you do so, flex the spine, bringing your arms back over your head to perform a simultaneous crunch motion.",
@@ -20,5 +18,10 @@
     "Cocoons/0.jpg",
     "Cocoons/1.jpg"
   ],
-  "id": "Cocoons"
+  "id": "Cocoons",
+  "instructions_fr": [
+    "Commencez en vous couchant sur le dos au sol. Les jambes doivent être tendues et les bras étendus derrière la tête. Cette position sera votre position de départ.",
+    "Pour exécuter le mouvement, rentrez les genoux vers la poitrine tout en faisant pivoter le bassin pour soulever les fessiers du sol. Pendant que vous faites cela, fléchissez la colonne vertébrale, en ramenant les bras vers l'arrière au-dessus de votre tête pour effectuer un mouvement de crunch simultané.",
+    "Après une brève pause, revenez à la position de départ."
+  ]
 }

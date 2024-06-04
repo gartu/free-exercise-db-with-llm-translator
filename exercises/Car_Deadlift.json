@@ -25,5 +25,11 @@
     "Car_Deadlift/0.jpg",
     "Car_Deadlift/1.jpg"
   ],
-  "id": "Car_Deadlift"
+  "id": "Car_Deadlift",
+  "instructions_fr": [
+    "Cet appareil d'entraînement comporte généralement des poignées à prise neutre, bien que certains soient équipés d'une barre droite que l'on peut utiliser comme une barre traditionnelle pour les soulevés de terre. L'appareil peut être chargé avec un véhicule ou d'autres objets lourds tels que des pneus de tracteur ou des tonneaux.",
+    "Vous-même entre les poignées si vous êtes un squat fort, ou retour de quelques pouces si vous êtes un démineur fort. Vos pieds devraient être à la largeur des hanches. Pliez au niveau des hanches pour saisir les poignées. Une fois vos pieds et votre prise réglés, respirez profondément et abaissez ensuite vos hanches et fléchissez les genoux.",
+    "Regardez droit devant vous avec la tête, gardez la poitrine levée et le dos arqué, et commencez à appuyer sur les talons pour déplacer le poids vers le haut. Alors que le poids monte, rapprochez les omoplates en poussant les hanches vers l'avant.",
+    "Abaissez le poids en vous inclinant au niveau des hanches et en guidant le poids vers le sol."
+  ]
 }

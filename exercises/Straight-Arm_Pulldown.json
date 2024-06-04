@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "lats"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "You will start by grabbing the wide bar from the top pulley of a pulldown machine and using a wider than shoulder-width pronated (palms down) grip. Step backwards two feet or so.",
     "Bend your torso forward at the waist by around 30-degrees with your arms fully extended in front of you and a slight bend at the elbows. If your arms are not fully extended then you need to step a bit more backwards until they are. Once your arms are fully extended and your torso is slightly bent at the waist, tighten the lats and then you are ready to begin.",
@@ -22,5 +20,12 @@
     "Straight-Arm_Pulldown/0.jpg",
     "Straight-Arm_Pulldown/1.jpg"
   ],
-  "id": "Straight-Arm_Pulldown"
+  "id": "Straight-Arm_Pulldown",
+  "instructions_fr": [
+    "Vous allez commencer en saisissant la barre large du haut du poulie d'une machine à tractions et en utilisant une poignée plus large que la largeur des épaules, en position prononnée (paumes vers le bas). Reculez de deux pieds ou plus.",
+    "Inclinez votre torse vers l'avant au niveau de la taille d'environ 30 degrés avec vos bras complètement tendus devant vous et un léger coude aux coudes. Si vos bras ne sont pas complètement tendus, vous devez reculer un peu plus jusqu'à ce qu'ils le soient. Une fois que vos bras sont complètement tendus et que votre torse est légèrement penché au niveau de la taille, contractez les latissimes et vous êtes prêt à commencer.",
+    "En gardant les bras droits, tirez la barre vers le bas en contractant les grands dorsaux jusqu'à ce que vos mains se trouvent à côté des cuisses. Respirez pendant que vous exécutez cette étape.",
+    "En gardant les bras droits, revenez à la position de départ en respirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

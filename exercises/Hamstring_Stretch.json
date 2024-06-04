@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on your back with one leg extended above you, with the hip at ninety degrees. Keep the other leg flat on the floor.",
     "Loop a belt, band, or rope over the ball of your foot. This will be your starting position.",
@@ -20,5 +18,10 @@
     "Hamstring_Stretch/0.jpg",
     "Hamstring_Stretch/1.jpg"
   ],
-  "id": "Hamstring_Stretch"
+  "id": "Hamstring_Stretch",
+  "instructions_fr": [
+    "Allongez-vous sur le dos avec une jambe tendue au-dessus de vous, l'hip à quatre-vingt-dix degrés. Gardez l'autre jambe plate sur le sol.",
+    "Enroulez une ceinture, un élastique ou une corde sur le bout de votre pied. Cette position sera votre point de départ.",
+    "Tirez sur la ceinture pour créer une tension dans les mollets et les ischio-jambiers. Maintenez cette étire pendant 10 à 30 secondes, puis répétez avec l'autre jambe."
+  ]
 }

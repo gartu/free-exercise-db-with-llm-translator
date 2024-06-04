@@ -23,5 +23,13 @@
     "Standing_Bradford_Press/0.jpg",
     "Standing_Bradford_Press/1.jpg"
   ],
-  "id": "Standing_Bradford_Press"
+  "id": "Standing_Bradford_Press",
+  "instructions_fr": [
+    "Placez une barre chargée au niveau des épaules dans un rack. Avec une poignée en pronation à la largeur des épaules, commencez avec la barre posée sur l'avant de vos épaules. C'est votre position de départ.",
+    "Initiée le mouvement en étendant les coudes pour presser la barre au-dessus de la tête. Évitez de bloquer le coude lorsque vous déplacez la charge derrière votre tête.",
+    "Abaissez la barre jusqu'à l'arrière de la tête jusqu'à ce que votre coude forme un angle droit.",
+    "Soulevez la barre au-dessus de votre tête en étendant les coudes",
+    "Abaissez la barre jusqu'à la position de départ.",
+    "Alternez de cette façon jusqu'à ce que vous ayez terminé le nombre de répétitions recommandé."
+  ]
 }

@@ -22,5 +22,11 @@
     "Shotgun_Row/0.jpg",
     "Shotgun_Row/1.jpg"
   ],
-  "id": "Shotgun_Row"
+  "id": "Shotgun_Row",
+  "instructions_fr": [
+    "Attachez une poignée unique à un câble bas.",
+    "Après avoir choisi le poids approprié, tenez-vous à quelques pieds de distance avec une posture large. Votre bras devrait être tendu et votre épaule en avant. Cette position sera votre point de départ.",
+    "Exécutez le mouvement en rentrant l'épaule et en fléchissant le coude. Pendant que vous tirez, proninez le poignet, en tournant la paume vers le haut lorsque vous effectuez le mouvement.",
+    "Après une courte pause, revenez à la position de départ."
+  ]
 }

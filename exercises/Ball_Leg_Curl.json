@@ -23,5 +23,12 @@
     "Ball_Leg_Curl/0.jpg",
     "Ball_Leg_Curl/1.jpg"
   ],
-  "id": "Ball_Leg_Curl"
+  "id": "Ball_Leg_Curl",
+  "instructions_fr": [
+    "Commencez par vous coucher par terre sur le dos, les pieds posés sur le ballon.",
+    "Placez la balle de sorte que lorsque vos jambes sont étendues, vos chevilles se trouvent sur la balle. Cette position sera votre position de départ.",
+    "Soulevez vos hanches du sol, en gardant votre poids sur les omoplates et vos pieds.",
+    "Pliez les genoux et ramenez la balle aussi près de vous que possible, en contractant les ischio-jambiers.",
+    "Après une brève pause, revenez à la position de départ."
+  ]
 }

@@ -23,5 +23,12 @@
     "Barbell_Shoulder_Press/0.jpg",
     "Barbell_Shoulder_Press/1.jpg"
   ],
-  "id": "Barbell_Shoulder_Press"
+  "id": "Barbell_Shoulder_Press",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc avec un dossier de soutien dans un rack de squat. Placez une barre à un niveau légèrement supérieur à votre tête. Prenez la barre avec une poignée prononcée (les paumes face à l'avant).",
+    "Une fois que vous avez saisi la barre avec la largeur de prise correcte, soulevez la barre au-dessus de votre tête en verrouillant vos bras. Tenez-vous à environ hauteur des épaules et légèrement devant votre tête. C'est votre position de départ.",
+    "Abaissez lentement la barre jusqu'aux épaules en inspirant.",
+    "Remontez la barre jusqu'à la position de départ en expirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

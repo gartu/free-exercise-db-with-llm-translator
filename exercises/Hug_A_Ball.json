@@ -21,5 +21,10 @@
     "Hug_A_Ball/0.jpg",
     "Hug_A_Ball/1.jpg"
   ],
-  "id": "Hug_A_Ball"
+  "id": "Hug_A_Ball",
+  "instructions_fr": [
+    "Asseyez-vous par terre.",
+    "Écartez une balle d'exercice entre vos jambes et baissez les hanches vers le sol.",
+    "Enveloppez vos bras autour de la balle pour soutenir votre corps. Ajustez vos jambes de sorte que vos pieds soient à plat sur le sol et que vos genoux se trouvent au-dessus de vos chevilles. Maintenez une bonne prise sur la balle pour qu'elle ne roule pas et ne vous renvoie pas sur les fesses."
+  ]
 }

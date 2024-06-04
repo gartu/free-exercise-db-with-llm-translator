@@ -20,5 +20,9 @@
     "Clean_Shrug/0.jpg",
     "Clean_Shrug/1.jpg"
   ],
-  "id": "Clean_Shrug"
+  "id": "Clean_Shrug",
+  "instructions_fr": [
+    "Commencez avec une prise à la largeur des épaules, en double poignée ou en crochet, la barre suspendue au niveau de la cuisse. Le dos doit être droit et légèrement incliné vers l'avant.",
+    "Montez vos épaules vers vos oreilles. Bien que cet exercice puisse généralement être chargé avec un poids plus lourd qu'un nettoyage, évitez de surcharger au point d' ralentir l'exécution."
+  ]
 }

@@ -24,5 +24,12 @@
     "Incline_Push-Up_Wide/0.jpg",
     "Incline_Push-Up_Wide/1.jpg"
   ],
-  "id": "Incline_Push-Up_Wide"
+  "id": "Incline_Push-Up_Wide",
+  "instructions_fr": [
+    "Debout face à une barre de machine Smith ou à une plateforme surélevée solide à une hauteur appropriée.",
+    "Placez vos mains sur la barre, plus large que la largeur des épaules.",
+    "Placez vos pieds en arrière par rapport à la barre, les bras et le corps droits. Vos bras doivent être perpendiculaires à votre corps. Cette position sera votre position de départ.",
+    "En gardant le corps droit, abaissez la poitrine vers la barre en pliant les bras.",
+    "Revenez à la position de départ en étendant les coudes et en vous redressant."
+  ]
 }

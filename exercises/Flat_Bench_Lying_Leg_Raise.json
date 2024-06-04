@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie with your back flat on a bench and your legs extended in front of you off the end.",
     "Place your hands either under your glutes with your palms down or by the sides holding on to the bench. This will be your starting position.",
@@ -21,5 +19,11 @@
     "Flat_Bench_Lying_Leg_Raise/0.jpg",
     "Flat_Bench_Lying_Leg_Raise/1.jpg"
   ],
-  "id": "Flat_Bench_Lying_Leg_Raise"
+  "id": "Flat_Bench_Lying_Leg_Raise",
+  "instructions_fr": [
+    "Allongez-vous sur le dos sur un banc, en gardant le dos plat et les jambes étendues devant vous au bout du banc.",
+    "Placez vos mains soit sous vos fesses avec les paumes vers le bas, soit sur les côtés en tenant le banc. Ce sera votre position de départ.",
+    "En gardant vos jambes tendues, aussi droites que possible avec les genoux légèrement fléchis mais verrouillés, soulevez vos jambes jusqu'à ce qu'elles forment un angle de 90 degrés avec le sol. Exhalez pendant cette partie du mouvement et maintenez la contraction en haut pendant une seconde.",
+    "Maintenant, en inspirant, abaissez lentement vos jambes jusqu'à la position de départ."
+  ]
 }

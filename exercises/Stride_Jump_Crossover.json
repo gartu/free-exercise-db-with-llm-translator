@@ -24,5 +24,11 @@
     "Stride_Jump_Crossover/0.jpg",
     "Stride_Jump_Crossover/1.jpg"
   ],
-  "id": "Stride_Jump_Crossover"
+  "id": "Stride_Jump_Crossover",
+  "instructions_fr": [
+    "Debout sur le côté d'une boîte, placez votre pied intérieur sur celle-ci, près du bord.",
+    "Commencez par balancer les bras vers le haut en poussant sur la jambe supérieure, en sautant aussi haut que possible. Essayez de remonter le genou opposé.",
+    "Atterrissez dans la position opposée à celle où vous avez commencé, sur le côté opposé de la boîte. Le pied qui était initialement sur la boîte sera maintenant à terre, tandis que l'autre pied se trouvera désormais sur la boîte.",
+    "Répétez le mouvement en croisant de nouveau vers l'autre côté."
+  ]
 }

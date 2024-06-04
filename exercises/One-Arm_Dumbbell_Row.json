@@ -26,5 +26,14 @@
     "One-Arm_Dumbbell_Row/0.jpg",
     "One-Arm_Dumbbell_Row/1.jpg"
   ],
-  "id": "One-Arm_Dumbbell_Row"
+  "id": "One-Arm_Dumbbell_Row",
+  "instructions_fr": [
+    "Choisissez un banc plat et placez un haltère de chaque côté.",
+    "Placez la jambe droite sur l'extrémité du banc, fléchissez le torse à la taille jusqu'à ce que le haut du corps soit parallèle au sol, et posez la main droite sur l'autre extrémité du banc pour vous soutenir.",
+    "Utilisez la main gauche pour attraper l'haltère par terre et maintenez le poids en gardant le bas du dos droit. La paume de la main doit être tournée vers votre torse. Cette position sera votre point de départ.",
+    "Tirez la résistance directement vers le côté de votre poitrine, en gardant votre bras supérieur près de votre côté et en gardant le torse stationnaire. Respirez pendant que vous exécutez cette étape. Astuce : Concentrez-vous sur la contraction des muscles du dos une fois que vous avez atteint la position contractée maximale. De plus, assurez-vous que la force est exercée avec les muscles du dos et non avec les bras. Enfin, le haut du corps doit rester stationnaire et seuls les bras doivent bouger. Les avant-bras ne devraient faire aucun travail autre que de tenir l'haltère; ne tentez donc pas de tirer l'haltère vers le haut à l'aide des avant-bras.",
+    "Abaissez la résistance directement vers la position de départ. Respirez pendant que vous exécutez cette étape.",
+    "Répétez le mouvement pour le nombre de répétitions spécifié.",
+    "Changez de côté et répétez à nouveau avec l'autre bras."
+  ]
 }

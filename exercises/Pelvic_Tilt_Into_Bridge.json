@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "lower back"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down with your feet on the floor, heels directly under your knees.",
     "Lift only your tailbone to the ceiling to stretch your lower back. (Don't lift the entire spine yet.) Pull in your stomach.",
@@ -20,5 +18,10 @@
     "Pelvic_Tilt_Into_Bridge/0.jpg",
     "Pelvic_Tilt_Into_Bridge/1.jpg"
   ],
-  "id": "Pelvic_Tilt_Into_Bridge"
+  "id": "Pelvic_Tilt_Into_Bridge",
+  "instructions_fr": [
+    "Allongez-vous avec les pieds à plat sur le sol, les talons directement sous les genoux.",
+    "Ne soulevez que votre bassin vers le plafond pour étirer votre bas du dos. (Ne soulevez pas encore toute la colonne vertébrale.) Rentrez votre ventre.",
+    "Pour passer en position de pont, soulevez toute la colonne vertébrale sauf le cou."
+  ]
 }

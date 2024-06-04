@@ -22,5 +22,10 @@
     "Kneeling_Squat/0.jpg",
     "Kneeling_Squat/1.jpg"
   ],
-  "id": "Kneeling_Squat"
+  "id": "Kneeling_Squat",
+  "instructions_fr": [
+    "Réglerez la barre à la hauteur appropriée dans un rack de puissance. Genouchez derrière la barre ; il peut être bénéfique de mettre une natte pour amortir vos genoux. Glissez-vous sous la barre, en la rangeant sur le dos de vos épaules. Vos omoplates devraient être rétractées et la barre bien serrée sur votre dos. Déverrouillez le poids.",
+    "En gardant la tête tournée vers l'avant, asseyez-vous en faisant reposer vos fesses sur vos mollets.",
+    "Inverser le mouvement, ramener le torse dans une position verticale."
+  ]
 }

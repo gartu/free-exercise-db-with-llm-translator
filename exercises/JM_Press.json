@@ -23,5 +23,12 @@
     "JM_Press/0.jpg",
     "JM_Press/1.jpg"
   ],
-  "id": "JM_Press"
+  "id": "JM_Press",
+  "instructions_fr": [
+    "Commencez l'exercice de la même manière que vous le feriez pour un bench press à prise serrée. Allongez-vous sur un banc plat tout en tenant une barre à la longueur des bras (complètement tendus) avec les coudes rentrés. Cependant, au lieu d'avoir les bras perpendiculaires au tronc, assurez-vous que la barre soit placée dans une ligne directe au-dessus de la poitrine supérieure. Cette position sera votre position de départ.",
+    "Maintenant à partir d'une position complètement étirée abaisser la barre comme si vous exécutiez une extension du triceps couchée. Inspirez lorsque vous exécutez ce mouvement. Lorsque vous atteignez le demi-chemin, laissez la barre rouler d'un pouce en déplaçant les bras vers vos jambes jusqu'à ce qu'ils soient perpendiculaires au torse. Astuce : Gardez le coude plié de façon constante lorsque vous amenez les bras vers l'avant.",
+    "En expirant, appuyez sur la barre en utilisant les triceps pour effectuer une presse à poitrine étroite.",
+    "Revenez maintenant à la position de départ et recommencez depuis le début.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

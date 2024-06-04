@@ -22,5 +22,11 @@
     "Spell_Caster/0.jpg",
     "Spell_Caster/1.jpg"
   ],
-  "id": "Spell_Caster"
+  "id": "Spell_Caster",
+  "instructions_fr": [
+    "Tenez un haltère dans chaque main avec une poignée prononcée. Vos pieds doivent être écartés, vos hanches et vos genoux étendus. Cette position sera votre position de départ.",
+    "Commencez le mouvement en tirant les deux haltères d'un côté près de votre hanche, en faisant tourner votre torse.",
+    "En gardant les bras tendus et les haltères parallèles au sol, faites pivoter votre torse pour faire balancer les poids vers votre côté opposé.",
+    "Continuez à alterner, en passant d'un côté à l'autre jusqu'à ce que la série soit terminée."
+  ]
 }

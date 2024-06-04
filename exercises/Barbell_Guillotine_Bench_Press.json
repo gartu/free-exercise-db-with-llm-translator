@@ -23,5 +23,12 @@
     "Barbell_Guillotine_Bench_Press/0.jpg",
     "Barbell_Guillotine_Bench_Press/1.jpg"
   ],
-  "id": "Barbell_Guillotine_Bench_Press"
+  "id": "Barbell_Guillotine_Bench_Press",
+  "instructions_fr": [
+    "En utilisant une prise de largeur moyenne (une prise qui crée un angle de 90 degrés au milieu du mouvement entre les avant-bras et les bras supérieurs), soulevez la barre du support et tenez-la droite au-dessus de votre cou avec vos bras verrouillés. Cette position sera votre position de départ.",
+    "En inspirant, abaissez lentement la barre jusqu'à ce qu'elle se trouve à environ 1 pouce de votre cou.",
+    "Après une seconde pause, ramenez la barre à sa position initiale en expirant et en poussant la barre à l'aide de vos muscles thoraciques. Verrouillez vos bras et contractez votre poitrine dans la position contractée, maintenez pendant une seconde puis recommencez lentement à descendre. Il faut au moins deux fois plus de temps pour descendre que pour monter.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit.",
+    "Une fois que vous avez terminé, remettez la barre dans le porte-barre."
+  ]
 }

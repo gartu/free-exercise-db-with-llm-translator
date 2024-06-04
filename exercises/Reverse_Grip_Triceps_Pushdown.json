@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start by setting a bar attachment (straight or e-z) on a high pulley machine.",
     "Facing the bar attachment, grab it with the palms facing up (supinated grip) at shoulder width. Lower the bar by using your lats until your arms are fully extended by your sides. Tip: Elbows should be in by your sides and your feet should be shoulder width apart from each other. This is the starting position.",
@@ -22,5 +20,12 @@
     "Reverse_Grip_Triceps_Pushdown/0.jpg",
     "Reverse_Grip_Triceps_Pushdown/1.jpg"
   ],
-  "id": "Reverse_Grip_Triceps_Pushdown"
+  "id": "Reverse_Grip_Triceps_Pushdown",
+  "instructions_fr": [
+    "Commencez en plaçant un attache-barre (droit ou e-z) sur une machine à poulie haute.",
+    "Dos à l'attachement de la barre, attrapez-le avec les paumes vers le haut (prise en supination) à la largeur des épaules. Abaissez la barre en utilisant vos grands dorsaux jusqu'à ce que vos bras soient complètement étendus de chaque côté. Astuce : Les coudes doivent être rentrés sur les côtés et vos pieds doivent être à la largeur des épaules l'un de l'autre. C'est la position de départ.",
+    "Élevez lentement l'attachement de la barre vers le haut pendant que vous inspirez, de sorte qu'il soit aligné avec votre poitrine. Seules les avant-bras doivent bouger et les coudes / bras supérieurs doivent rester immobiles de chaque côté en tout temps.",
+    "Ensuite, commencez à lowering la barre de câble en position de départ tout en expirant et en contractant durement les triceps.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -20,5 +20,9 @@
     "Snatch_Shrug/0.jpg",
     "Snatch_Shrug/1.jpg"
   ],
-  "id": "Snatch_Shrug"
+  "id": "Snatch_Shrug",
+  "instructions_fr": [
+    "Commencez avec une prise large, la barre pendante au niveau des cuisses. Vous pouvez utiliser une poignée en crochet ou en prise inverse. Le dos doit être droit et légèrement incliné vers l'avant.",
+    "Montez vos épaules vers vos oreilles. Bien que cet exercice puisse généralement être chargé avec un poids plus lourd qu'un snatch, évitez de trop charger au point de ralentir l'exécution."
+  ]
 }

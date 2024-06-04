@@ -23,5 +23,11 @@
     "Press_Sit-Up/0.jpg",
     "Press_Sit-Up/1.jpg"
   ],
-  "id": "Press_Sit-Up"
+  "id": "Press_Sit-Up",
+  "instructions_fr": [
+    "Allongez-vous sur un banc d'exercice et placez la barre au niveau de votre poitrine. Placez vos jambes de manière à ce qu'elles soient bien soutenues par l'extension du banc abdominal. Cette position est le point de départ de l'exercice.",
+    "En inspirant, contractez vos abdominaux et vos fessiers. En même temps, pliez votre torse comme lorsque vous faites des sit-ups et soulevez la barre en position haute en expirant. Astuce : Utilisez vos bras pour pousser la barre vers l'extérieur pendant que vous exécutez cet exercice tout en continuant de vous concentrer sur les muscles abdominaux.",
+    "Abaissez votre corps supérieur en revenant à la position de départ tout en ramenant le barre vers votre torse. N'oubliez pas de respirer pendant que vous abaissez le corps.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

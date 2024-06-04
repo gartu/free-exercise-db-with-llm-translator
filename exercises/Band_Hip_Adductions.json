@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Anchor a band around a solid post or other object.",
     "Stand with your left side to the post, and put your right foot through the band, getting it around the ankle.",
@@ -23,5 +21,13 @@
     "Band_Hip_Adductions/0.jpg",
     "Band_Hip_Adductions/1.jpg"
   ],
-  "id": "Band_Hip_Adductions"
+  "id": "Band_Hip_Adductions",
+  "instructions_fr": [
+    "Attachez une bande autour d'un poteau ou d'un autre objet solide.",
+    "Debout, le côté gauche tourné vers le poteau, enroulez la bande autour de votre cheville droite en faisant passer votre pied droit à travers.",
+    "Tenez-vous droit et tenez-vous à la barre si nécessaire. Ce sera votre position de départ.",
+    "En gardant le genou tendu, soulevez votre jambe droite sur les côtés aussi haut que possible.",
+    "Revenez à la position de départ et répétez le nombre de répétitions souhaité.",
+    "Changez de côté."
+  ]
 }

@@ -21,5 +21,9 @@
     "Running_Treadmill/0.jpg",
     "Running_Treadmill/1.jpg"
   ],
-  "id": "Running_Treadmill"
+  "id": "Running_Treadmill",
+  "instructions_fr": [
+    "Pour commencer, montez sur le tapis roulant et sélectionnez l'option désirée dans le menu. La plupart des tapis roulants ont un réglage manuel, ou vous pouvez sélectionner un programme à exécuter. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. L'élévation peut être ajustée pour modifier l'intensité de l'entraînement.",
+    "Les tapis roulants offrent de la commodité, des avantages cardiovasculaires et ont généralement un impact moins important que la course en plein air. Une personne de 150 livres brûlera plus de 450 calories en courant à 8 miles par heure pendant 30 minutes. Maintenez une posture correcte pendant que vous courez, et tenez-vous uniquement aux poignées lorsque c'est nécessaire, comme lors du démontage ou du contrôle de votre fréquence cardiaque."
+  ]
 }

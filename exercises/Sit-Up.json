@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees.",
     "Place your hands behind your head and lock them together by clasping your fingers. This is the starting position.",
@@ -22,5 +20,12 @@
     "Sit-Up/0.jpg",
     "Sit-Up/1.jpg"
   ],
-  "id": "Sit-Up"
+  "id": "Sit-Up",
+  "instructions_fr": [
+    "Allongez-vous par terre en plaçant vos pieds sous quelque chose qui ne bougera pas ou en demandant à un partenaire de les tenir. Vos jambes doivent être fléchies au niveau des genoux.",
+    "Placez vos mains derrière votre tête et verrouillez-les en entrelaçant vos doigts. Cette position est la position de départ.",
+    "Élevez votre corps supérieur de sorte qu'il crée une forme de V imaginaire avec vos cuisses. Expirez en exécutant cette partie de l'exercice.",
+    "Une fois que vous ressentez la contraction pendant une seconde, abaissez à nouveau votre corps supérieur vers la position de départ tout en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

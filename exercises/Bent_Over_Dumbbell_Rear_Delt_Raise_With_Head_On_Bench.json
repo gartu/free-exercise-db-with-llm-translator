@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand up straight while holding a dumbbell in each hand and with an incline bench in front of you.",
     "While keeping your back straight and maintaining the natural arch of your back, lean forward until your forehead touches the bench in front of you. Let the arms hang in front of you perpendicular to the ground. The palms of your hands should be facing each other and your torso should be parallel to the floor. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
     "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
   ],
-  "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench"
+  "id": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+  "instructions_fr": [
+    "Tenez-vous droit en tenant un haltère dans chaque main et avec un banc incliné devant vous.",
+    "En gardant le dos droit et en maintenant l'arc naturel de votre dos, penchez-vous vers l'avant jusqu'à ce que votre front touche le banc qui se trouve devant vous. Laissez les bras pendre devant vous à la perpendiculaire du sol. Les paumes de vos mains doivent être tournées l'une vers l'autre et votre torse doit être parallèle au sol. Cette position sera votre position de départ.",
+    "En gardant le torse penché et immobile, et les bras tendus avec un léger angle au niveau des coudes, soulevez les haltères droit sur les côtés jusqu'à ce que les deux bras soient parallèles au sol. Expirez en soulevant les poids. Mise en garde : évitez de balancer le torse ou de ramener les bras vers l'arrière plutôt que sur les côtés.",
+    "Après une contraction d'une seconde au sommet, abaissez lentement les haltères jusqu'à la position de départ.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

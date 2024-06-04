@@ -25,5 +25,11 @@
     "Suspended_Split_Squat/0.jpg",
     "Suspended_Split_Squat/1.jpg"
   ],
-  "id": "Suspended_Split_Squat"
+  "id": "Suspended_Split_Squat",
+  "instructions_fr": [
+    "Suspendez vos sangles de manière à ce que les poignées se trouvent à 45-75 cm du sol.",
+    "Dos au montage, placez votre pied arrière dans la poignée derrière vous. Gardez la tête tournée vers l'avant et le torse levé, avec le genou légèrement fléchi. Cette position sera votre point de départ.",
+    "Descendez en fléchissant le genou et l'hanche, en vous baissant jusqu'au sol. Gardez votre poids sur le talon et maintenez votre posture tout au long de l'exercice.",
+    "En bas du mouvement, inversez le mouvement, en étendant la hanche et le genou pour revenir à la position de départ."
+  ]
 }

@@ -19,5 +19,9 @@
     "Shoulder_Circles/0.jpg",
     "Shoulder_Circles/1.jpg"
   ],
-  "id": "Shoulder_Circles"
+  "id": "Shoulder_Circles",
+  "instructions_fr": [
+    "En gardant les épaules détendues et les bras le long du corps (ou sur les genoux si vous êtes assis), roulez doucement les épaules vers l’avant, vers le haut, vers l’arrière et vers le bas.",
+    "Inversez la direction. Vous pouvez faire cet exercice en alternant les épaules ou les deux en même temps."
+  ]
 }

@@ -23,5 +23,11 @@
     "Chest_Push_multiple_response/0.jpg",
     "Chest_Push_multiple_response/1.jpg"
   ],
-  "id": "Chest_Push_multiple_response"
+  "id": "Chest_Push_multiple_response",
+  "instructions_fr": [
+    "Commencez en position genoux face à un mur ou utilisez un partenaire. Tenez le ballon avec les deux mains contre la poitrine.",
+    "Exécutez la passe en exploseant vers l'avant et vers l'extérieur avec les hanches tout en poussant le ballon aussi fort que possible.",
+    "Suivez le mouvement en tombant vers l'avant, en vous rattrapant avec vos mains.",
+    "Revenez immédiatement à la position debout. Répétez le mouvement le nombre de fois désiré."
+  ]
 }

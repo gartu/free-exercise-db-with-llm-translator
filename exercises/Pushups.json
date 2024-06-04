@@ -22,5 +22,11 @@
     "Pushups/0.jpg",
     "Pushups/1.jpg"
   ],
-  "id": "Pushups"
+  "id": "Pushups",
+  "instructions_fr": [
+    "Allongez-vous par terre, le ventre vers le sol, et espacer vos mains d'environ 36 pouces tout en tenant votre torse à la hauteur de vos bras.",
+    "Ensuite, abaissez-vous jusqu'à ce que votre poitrine touche presque le sol en inspirant.",
+    "Respirez maintenant et remontez la partie supérieure de votre corps jusqu'à la position de départ en contractant votre poitrine.",
+    "Après une brève pause à la position contractée haute, vous pouvez commencer à vous baisser à nouveau pour autant de répétitions que nécessaire."
+  ]
 }

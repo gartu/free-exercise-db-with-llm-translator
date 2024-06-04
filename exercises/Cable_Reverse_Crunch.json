@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect an ankle strap attachment to a low pulley cable and position a mat on the floor in front of it.",
     "Sit down with your feet toward the pulley and attach the cable to your ankles.",
@@ -23,5 +21,13 @@
     "Cable_Reverse_Crunch/0.jpg",
     "Cable_Reverse_Crunch/1.jpg"
   ],
-  "id": "Cable_Reverse_Crunch"
+  "id": "Cable_Reverse_Crunch",
+  "instructions_fr": [
+    "Attachez une sangle de cheville à un câble de poulie basse et placez un tapis par terre devant celui-ci.",
+    "Asseyez-vous les pieds vers le poulie et attachez le câble à vos chevilles.",
+    "Allongez-vous, élevez vos jambes et pliez les genoux à un angle de 90 degrés. Vos jambes et le câble devraient être alignés. Si ce n'est pas le cas, ajustez le poulie vers le haut ou vers le bas jusqu'à ce qu'ils le soient.",
+    "En plaçant vos mains derrière votre tête, rapprochez vos genoux de votre torse et soulevez vos hanches du sol.",
+    "Faites une pause et, d'une manière lente et contrôlée, baissez vos hanches et ramenez vos jambes à l'angle de départ de 90 degrés. Vous devriez encore avoir une tension sur vos abdominaux dans la position de repos.",
+    "Répétez le même mouvement jusqu'à l'échec."
+  ]
 }

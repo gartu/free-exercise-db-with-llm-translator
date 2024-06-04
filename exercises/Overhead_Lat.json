@@ -20,5 +20,10 @@
     "Overhead_Lat/0.jpg",
     "Overhead_Lat/1.jpg"
   ],
-  "id": "Overhead_Lat"
+  "id": "Overhead_Lat",
+  "instructions_fr": [
+    "Asseyez-vous droit sur le sol avec votre partenaire derrière vous. Levez un bras en l'air, puis pliez le coude et essayez de toucher votre main à votre dos. Votre partenaire doit tenir votre triceps et votre poignet. Cette position sera votre position de départ.",
+    "Essayez d'attirer votre bras supérieur vers votre côté alors que votre partenaire vous empêche de le faire réellement.",
+    "Après 10 à 20 secondes, détendez le bras et permettez à votre partenaire d'étirer davantage le grand dorsal en appliquant une légère pression sur le triceps. Maintenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ]
 }

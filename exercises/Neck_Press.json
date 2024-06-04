@@ -23,5 +23,12 @@
     "Neck_Press/0.jpg",
     "Neck_Press/1.jpg"
   ],
-  "id": "Neck_Press"
+  "id": "Neck_Press",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat. À l'aide d'une prise de largeur moyenne (une prise qui crée un angle de 90 degrés au milieu du mouvement entre les avant-bras et les bras supérieurs), soulevez la barre de la poignée et tenez-la droite au-dessus de votre cou avec vos bras verrouillés. Telle sera votre position de départ.",
+    "En inspirant, descendez lentement jusqu'à ce que vous sentiez la barre sur votre cou.",
+    "Après une seconde pause, ramenez la barre à sa position de départ en expirant et en poussant la barre à l'aide de vos muscles de la poitrine. Verrouillez vos bras et contractez votre poitrine dans la position contractée, maintenez pendant une seconde, puis recommencez à descendre lentement. Astuce : Il faut au moins deux fois plus de temps pour descendre que pour monter).",
+    "Répétez le mouvement pour le nombre de répétitions prescrit.",
+    "Une fois que vous avez terminé, remettez la barre dans le porte-barre."
+  ]
 }

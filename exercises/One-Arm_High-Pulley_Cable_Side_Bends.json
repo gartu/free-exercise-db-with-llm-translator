@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect a standard handle to a tower. Move cable to highest pulley position.",
     "Stand with side to cable. With one hand, reach up and grab handle with underhand grip.",
@@ -25,5 +23,15 @@
     "One-Arm_High-Pulley_Cable_Side_Bends/0.jpg",
     "One-Arm_High-Pulley_Cable_Side_Bends/1.jpg"
   ],
-  "id": "One-Arm_High-Pulley_Cable_Side_Bends"
+  "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+  "instructions_fr": [
+    "Reliez une poignée standard à une tour. Déplacez le câble vers la position de poulie la plus haute.",
+    "Debout, face au câble, attrapez la poignée avec une prise en supination à l'aide d'une seule main.",
+    "Ramenez le câble jusqu'au coude touche votre côté et la poignée est à côté de votre épaule.",
+    "Placez vos pieds à la largeur des hanches. Placez votre main libre sur votre hanche pour vous aider à jauger le point de pivotement.",
+    "Gardez le bras dans une position statique. Contractez votre oblique pour amener le poids vers le bas dans un crunch latéral.",
+    "Une fois que vous atteignez la contraction maximale, relâchez lentement le poids jusqu'à la position de départ. La pile de poids ne doit jamais être déchargée dans une position de repos. L'objectif est d'avoir une tension constante pendant la série.",
+    "Répéter jusqu'à l'échec.",
+    "Ensuite, repositionnez-vous et répétez la même série de mouvements sur le côté opposé."
+  ]
 }

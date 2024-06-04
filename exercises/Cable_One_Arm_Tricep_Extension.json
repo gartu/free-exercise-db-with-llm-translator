@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "With your right hand, grasp a single handle attached to the high-cable pulley using a supinated (underhand; palms facing up) grip. You should be standing directly in front of the weight stack.",
     "Now pull the handle down so that your upper arm and elbow are locked in to the side of your body. Your upper arm and forearm should form an acute angle (less than 90-degrees). You can keep the other arm by the waist and you can have one leg in front of you and the other one back for better balance. This will be your starting position.",
@@ -23,5 +21,13 @@
     "Cable_One_Arm_Tricep_Extension/0.jpg",
     "Cable_One_Arm_Tricep_Extension/1.jpg"
   ],
-  "id": "Cable_One_Arm_Tricep_Extension"
+  "id": "Cable_One_Arm_Tricep_Extension",
+  "instructions_fr": [
+    "Avec votre main droite, saisissez une poignée unique attachée au poulie du câble supérieur à l'aide d'une prise en supination (en dessous de la main ; les paumes vers le haut). Vous devez être debout directement face à la pile de poids.",
+    "Maintenant, tirez la poignée vers le bas de sorte que votre bras supérieur et le coude soient verrouillés sur le côté de votre corps. Votre bras supérieur et votre avant-bras doivent former un angle aigu (inférieur à 90 degrés). Vous pouvez garder l'autre bras au niveau de la taille et vous pouvez placer une jambe devant et une autre derrière pour mieux équilibrer. Cette position sera votre position de départ.",
+    "Alors que vous contractez les triceps, déplacez la poignée unique jusqu'à votre côté jusqu'à ce que votre bras soit tendu. Respirez pendant que vous exécutez ce mouvement. Astuce : seuls les avant-bras doivent bouger. Vos bras supérieurs doivent rester stationnaires en tout temps.",
+    "Contractez les triceps et maintenez pendant une seconde dans cette position contractée.",
+    "Ramenez lentement la poignée à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé, puis effectuez le même mouvement avec l'autre bras."
+  ]
 }

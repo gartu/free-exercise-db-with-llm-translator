@@ -25,5 +25,12 @@
     "Dumbbell_Squat/0.jpg",
     "Dumbbell_Squat/1.jpg"
   ],
-  "id": "Dumbbell_Squat"
+  "id": "Dumbbell_Squat",
+  "instructions_fr": [
+    "Tenez-vous droit en tenant un haltère dans chaque main (les paumes face aux côtés de vos jambes).",
+    "Positionnez vos jambes en adoptant une posture moyenne avec des épaules légèrement plus larges que la largeur des épaules, les orteils légèrement pointés vers l'extérieur. Gardez la tête droite à tout moment, car le fait de regarder vers le bas vous déstabilisera et maintenez le dos droit.  Cela sera votre position de départ. Note : Pour les besoins de cette discussion, nous utiliserons la posture moyenne décrite ci-dessus, qui cible le développement global ; cependant, vous pouvez choisir l'une des trois postures décrites dans la section sur les postures des pieds.",
+    "Commencez à baisser lentement votre corps en fléchissant les genoux tout en maintenant une posture droite avec la tête levée. Continuez jusqu'à ce que vos cuisses soient parallèles au sol. Astuce : Si vous avez effectué l'exercice correctement, le devant des genoux devrait former une ligne imaginaire droite avec les orteils qui est perpendiculaire à l'avant. Si vos genoux sont derrière cette ligne imaginaire (s'ils sont derrière vos orteils), vous exercez une pression excessive sur les genoux et l'exercice n'a pas été correctement exécuté.",
+    "Commencez à soulever votre torse en expirant en poussant le sol avec le talon de votre pied principalement en redressant les jambes à nouveau et en revenant à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

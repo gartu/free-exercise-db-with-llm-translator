@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by lying on your right side with your legs lying on top of each other. Make sure your knees are bent a little bit.",
     "Place your left hand behind your head.",
@@ -22,5 +20,12 @@
     "Oblique_Crunches_-_On_The_Floor/0.jpg",
     "Oblique_Crunches_-_On_The_Floor/1.jpg"
   ],
-  "id": "Oblique_Crunches_-_On_The_Floor"
+  "id": "Oblique_Crunches_-_On_The_Floor",
+  "instructions_fr": [
+    "Commencez par vous coucher sur le côté droit, les jambes l'une sur l'autre. Assurez-vous que vos genoux sont légèrement fléchis.",
+    "Placez votre main gauche derrière votre tête.",
+    "Une fois que vous êtes dans cette position, commencez à déplacer votre coude gauche vers le haut comme vous le feriez pour un crunch normal, sauf que cette fois l'accent est mis sur vos obliques.",
+    "Faites un crunch aussi haut que possible, maintenez la contraction pendant une seconde, puis redescendez lentement jusqu'à la position de départ.",
+    "N'oubliez pas de respirer pendant la partie excentrique (abaissement) de l'exercice et de souffler pendant la partie concentrique (élévation) de l'exercice."
+  ]
 }

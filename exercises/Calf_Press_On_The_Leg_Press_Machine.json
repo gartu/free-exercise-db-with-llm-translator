@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Using a leg press machine, sit down on the machine and place your legs on the platform directly in front of you at a medium (shoulder width) foot stance.",
     "Lower the safety bars holding the weighted platform in place and press the platform all the way up until your legs are fully extended in front of you without locking your knees. (Note: In some leg press units you can leave the safety bars on for increased safety. If your leg press unit allows for this, then this is the preferred method of performing the exercise.) Your torso and the legs should make perfect 90-degree angle. Now carefully place your toes and balls of your feet on the lower portion of the platform with the heels extending off. Toes should be facing forward, outwards or inwards as described at the beginning of the chapter. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Calf_Press_On_The_Leg_Press_Machine/0.jpg",
     "Calf_Press_On_The_Leg_Press_Machine/1.jpg"
   ],
-  "id": "Calf_Press_On_The_Leg_Press_Machine"
+  "id": "Calf_Press_On_The_Leg_Press_Machine",
+  "instructions_fr": [
+    "En utilisant une presse à cuisses, asseyez-vous sur l'appareil et placez vos jambes sur la plateforme directement devant vous en gardant une largeurs d'épaule moyenne.",
+    "Abaissez les barres de sécurité qui maintiennent la plateforme lestée en place et pressez la plateforme jusqu'en haut jusqu'à ce que vos jambes soient complètement étendues devant vous sans verrouiller vos genoux. (Note : Dans certaines machines à presse à jambe, vous pouvez laisser les barres de sécurité pour une sécurité accrue. Si votre machine à presse à jambe le permet, c'est la méthode préférée pour exécuter l'exercice.) Votre torse et les jambes doivent former un angle parfait de 90 degrés. Maintenant, placez soigneusement vos orteils et les boules de vos pieds sur la partie inférieure de la plateforme, les talons s'étendant vers le bas. Les orteils devraient être tournés vers l'avant, vers l'extérieur ou vers l'intérieur comme décrit au début du chapitre. Telle sera votre position de départ.",
+    "Appuyez sur la plateforme en levant les talons alors que vous respirez en étendant vos chevilles le plus possible et en contractant votre mollet. Assurez-vous que le genou reste immobile en tout temps. Il ne devrait pas y avoir de fléchissement à tout moment. Tenez la position contractée pendant une seconde avant de commencer à redescendre.",
+    "Revenez lentement à la position de départ en inspirant, en descendant les talons et en fléchissant les chevilles jusqu'à ce que les mollets soient étirés.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

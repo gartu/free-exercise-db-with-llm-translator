@@ -27,5 +27,11 @@
     "Sumo_Deadlift/0.jpg",
     "Sumo_Deadlift/1.jpg"
   ],
-  "id": "Sumo_Deadlift"
+  "id": "Sumo_Deadlift",
+  "instructions_fr": [
+    "Commencez avec une barre chargée au sol. Approchez-vous de la barre de sorte qu'elle intersecte le milieu des pieds. Les pieds doivent être très écartés, près des collets. Pliez les hanches pour saisir la barre. Les bras doivent être directement sous les épaules, à l'intérieur des jambes, et vous pouvez utiliser une poignée prononnée, une poignée mixte ou une poignée en crochet. Détendez les épaules, ce qui a pour effet de rallonger vos bras.",
+    "Respirer, puis baisser les hanches en gardant la tête et le torse vers l'avant, le torse levé. Appuyer sur le sol, écartant les pieds, le poids sur la moitié arrière des pieds. Étirer les hanches et les genoux.",
+    "En passant par les genoux, penchez-vous en arrière et poussez les hanches dans la barre, en rassemblant vos omoplates.",
+    "Ramenez le poids au sol en fléchissant l'épaule et en contrôlant le poids sur le chemin vers le bas."
+  ]
 }

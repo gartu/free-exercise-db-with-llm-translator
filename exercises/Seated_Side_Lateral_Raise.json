@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Pick a couple of dumbbells and sit at the end of a flat bench with your feet firmly on the floor. Hold the dumbbells with your palms facing in and your arms straight down at your sides at arms' length. This will be your starting position.",
     "While maintaining the torso stationary (no swinging), lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward as if pouring water in a glass. Continue to go up until you arms are parallel to the floor. Exhale as you execute this movement and pause for a second at the top.",
@@ -21,5 +19,11 @@
     "Seated_Side_Lateral_Raise/0.jpg",
     "Seated_Side_Lateral_Raise/1.jpg"
   ],
-  "id": "Seated_Side_Lateral_Raise"
+  "id": "Seated_Side_Lateral_Raise",
+  "instructions_fr": [
+    "Choisissez une couple d'haltères et asseyez-vous à l'extrémité d'un banc plat, les pieds bien posés sur le sol. Tenez les haltères avec le côté des paumes tourné vers vous et les bras tendus le long de votre corps, à la largeur des épaules. C'est la position de départ.",
+    "En gardant le tronc immobile (sans oscillation), soulevez les haltères sur votre côté avec un léger coude plié et les mains légèrement inclinées vers l'avant comme si vous versiez de l'eau dans un verre. Continuez à monter jusqu'à ce que vos bras soient parallèles au sol. Exhalez en exécutant ce mouvement et faites une pause pendant une seconde en haut.",
+    "Abaissez lentement les haltères jusqu'à la position de départ pendant que vous inspirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

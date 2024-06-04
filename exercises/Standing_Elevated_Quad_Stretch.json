@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start by standing with your back about two to three feet away from a bench or step.",
     "Lift one leg behind you and rest your foot on the step,either on your instep or the ball of your foot, whichever you find most comfortable.",
@@ -20,5 +18,10 @@
     "Standing_Elevated_Quad_Stretch/0.jpg",
     "Standing_Elevated_Quad_Stretch/1.jpg"
   ],
-  "id": "Standing_Elevated_Quad_Stretch"
+  "id": "Standing_Elevated_Quad_Stretch",
+  "instructions_fr": [
+    "Commencez par vous tenir debout, le dos à environ deux ou trois pieds d'une banc ou d'une marche.",
+    "Soulevez une jambe derrière vous et posez votre pied sur l'étape, soit sur votre chaussette ou sur la boule de votre pied, selon ce que vous trouvez le plus confortable.",
+    "Gardez le genou de support légèrement fléchi et évitez de laisser ce genou se prolonger au-delà de vos orteils. Changez de côté."
+  ]
 }

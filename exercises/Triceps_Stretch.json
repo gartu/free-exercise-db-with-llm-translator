@@ -18,5 +18,8 @@
     "Triceps_Stretch/0.jpg",
     "Triceps_Stretch/1.jpg"
   ],
-  "id": "Triceps_Stretch"
+  "id": "Triceps_Stretch",
+  "instructions_fr": [
+    "Étendez la main derrière votre tête, saisissez votre coude et tirez doucement. Maintenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ]
 }

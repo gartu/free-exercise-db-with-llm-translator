@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Seat on a flat bench with your back facing a high pulley.",
     "Grasp the cable rope attachment with both hands (with the palms of the hands facing each other) and place your hands securely over both shoulders. Tip: Allow the weight to hyperextend the lower back slightly. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Cable_Seated_Crunch/0.jpg",
     "Cable_Seated_Crunch/1.jpg"
   ],
-  "id": "Cable_Seated_Crunch"
+  "id": "Cable_Seated_Crunch",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc plat dos à un poulie haute.",
+    "Prenez la poignée de câble d'attachement avec les deux mains (les paumes des mains se faisant face) et placez vos mains solidement sur les deux épaules. Astuce : Laissez le poids hyper-étendre le bas du dos légèrement. Ce sera votre position de départ.",
+    "En gardant les hanches stationnaires, fléchissez la taille de sorte que les coudes se rapprochent des hanches. Respirez pendant que vous exécutez cette étape.",
+    "En inspirant, revenez lentement à la position initiale.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

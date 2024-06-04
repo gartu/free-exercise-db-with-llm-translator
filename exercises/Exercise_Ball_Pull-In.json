@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place an exercise ball nearby and lay on the floor in front of it with your hands on the floor shoulder width apart in a push-up position.",
     "Now place your lower shins on top of an exercise ball. Tip: At this point your legs should be fully extended with the shins on top of the ball and the upper body should be in a push-up type of position being supported by your two extended arms in front of you. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Exercise_Ball_Pull-In/0.jpg",
     "Exercise_Ball_Pull-In/1.jpg"
   ],
-  "id": "Exercise_Ball_Pull-In"
+  "id": "Exercise_Ball_Pull-In",
+  "instructions_fr": [
+    "Placez une balle d'exercice à proximité et allongez-vous sur le sol devant elle, les mains à plat sur le sol à la largeur des épaules, en position de pompes.",
+    "Placez maintenant vos mollets inférieurs sur le dessus d'une balle d'exercice. Astuce : Dans cette position, vos jambes doivent être complètement tendues, les mollets posés sur la balle et le haut du corps doit se trouver dans une position de type pompes, soutenu par vos deux bras tendus devant vous. Ce sera votre position de départ.",
+    "En gardant le dos complètement droit et la partie supérieure du corps immobile, ramenez les genoux vers la poitrine en expirant, laissant la balle rouler vers l'avant sous les chevilles. Contractez vos abdominaux et maintenez cette position pendant une seconde.",
+    "Maintenant, redressez lentement vos jambes, en faisant rouler le ballon vers la position de départ pendant que vous inspirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

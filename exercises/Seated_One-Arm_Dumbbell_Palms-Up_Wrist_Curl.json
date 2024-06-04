@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit on a flat bench with a dumbbell in your right hand.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
@@ -23,5 +21,13 @@
     "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
     "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl"
+  "id": "Seated_One-Arm_Dumbbell_Palms-Up_Wrist_Curl",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc plat avec un haltère dans votre main droite.",
+    "Placez vos pieds à plat sur le sol, à une distance légèrement plus large que la largeur des épaules.",
+    "Inclinez-vous en avant et posez votre avant-bras droit sur votre cuisse droite supérieure, la paume vers le haut. Conseils : Assurez-vous que la face de votre poignet se trouve au-dessus de vos genoux. C'est votre position de départ.",
+    "Abaissez l'haltère le plus bas possible tout en maintenant une prise ferme sur l'haltère. Inhalez pendant que vous effectuez ce mouvement.",
+    "Maintenant, faites un curl avec l'haltère le plus haut possible en contractant les avant-bras et en expirant. Maintenez la contraction pendant une seconde avant de baisser à nouveau. Conseils : Le seul mouvement doit se produire au niveau du poignet.",
+    "Effectuez le nombre de répétitions recommandé, changez de bras et répétez le mouvement."
+  ]
 }

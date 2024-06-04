@@ -23,5 +23,10 @@
     "Barbell_Rollout_from_Bench/0.jpg",
     "Barbell_Rollout_from_Bench/1.jpg"
   ],
-  "id": "Barbell_Rollout_from_Bench"
+  "id": "Barbell_Rollout_from_Bench",
+  "instructions_fr": [
+    "Placez une barre chargée sur le sol, près de l'extrémité d'un banc. À genoux, posez les deux jambes sur le banc et saisissez la barre avec une prise moyenne à étroite. Cette position sera votre position de départ.",
+    "Pour commencer, étendez vos hanches pour rouler lentement la barre vers l'avant. Alors que vous roulez, fléchissez l'épaule pour soulever la barre au-dessus de votre tête. Assurez-vous que vos bras restent tendus tout au long du mouvement.",
+    "Lorsque la barre a été déplacée le plus loin possible vers l'avant, revenez à la position de départ."
+  ]
 }

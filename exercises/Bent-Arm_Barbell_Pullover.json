@@ -25,5 +25,12 @@
     "Bent-Arm_Barbell_Pullover/0.jpg",
     "Bent-Arm_Barbell_Pullover/1.jpg"
   ],
-  "id": "Bent-Arm_Barbell_Pullover"
+  "id": "Bent-Arm_Barbell_Pullover",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat avec une barre utilisant une largeur d'écartement des épaules.",
+    "Tenez la barre droite sur votre poitrine, en fléchissant les bras. Cette position sera votre point de départ.",
+    "En gardant vos bras en position pliée, abaissez lentement le poids en arc derrière votre tête pendant que vous inspirez jusqu'à ce que vous ressentiez une étirement sur la poitrine.",
+    "À ce stade, ramenez la barre au point de départ en utilisant l'arc décrit par le poids lors de sa descente et expirez pendant que vous effectuez ce mouvement.",
+    "Maintenez le poids dans la position initiale pendant une seconde et répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

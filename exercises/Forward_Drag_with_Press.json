@@ -24,5 +24,9 @@
     "Forward_Drag_with_Press/0.jpg",
     "Forward_Drag_with_Press/1.jpg"
   ],
-  "id": "Forward_Drag_with_Press"
+  "id": "Forward_Drag_with_Press",
+  "instructions_fr": [
+    "Attachez une poignée à chaîne ou à corde double au traîneau. Vous devriez être dos au traîneau, tenant une poignée dans chaque main.",
+    "Commencez le mouvement en avançant d'un pas en avant. Penché vers l'avant, étendez les jambes et les hanches pour déplacer, en faisant une pause à chaque pas pour étendre les coudes, en appuyant vos mains vers l'avant. Avancez jusqu'à ce que vous revenez à la position de départ prêt à presser."
+  ]
 }

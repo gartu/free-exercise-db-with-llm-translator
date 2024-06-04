@@ -22,5 +22,10 @@
     "Windmills/0.jpg",
     "Windmills/1.jpg"
   ],
-  "id": "Windmills"
+  "id": "Windmills",
+  "instructions_fr": [
+    "Allongez-vous sur le dos, les bras étendus vers l'extérieur et les jambes tendues. Cette position sera votre position de départ.",
+    "Levez une jambe et croisez-la rapidement sur votre corps, en essayant de toucher le sol près de la main opposée.",
+    "Revenez à la position de départ et répétez avec l'autre jambe. Continuez à alterner pendant 10 à 20 répétitions."
+  ]
 }

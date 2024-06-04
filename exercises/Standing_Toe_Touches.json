@@ -19,5 +19,9 @@
     "Standing_Toe_Touches/0.jpg",
     "Standing_Toe_Touches/1.jpg"
   ],
-  "id": "Standing_Toe_Touches"
+  "id": "Standing_Toe_Touches",
+  "instructions_fr": [
+    "Tenez-vous debout en laissant un peu d'espace devant et derrière vous.",
+    "Pliez-vous en deux à la taille, en gardant les jambes tendues, jusqu'à ce que vous puissiez vous détendre et laisser votre corps supérieur pendre devant vous. Laissez vos bras et vos mains pendre naturellement. Tenez pendant 10 à 20 secondes."
+  ]
 }

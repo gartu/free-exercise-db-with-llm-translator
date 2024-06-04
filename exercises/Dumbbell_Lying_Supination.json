@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie sideways on a flat bench with one arm holding a dumbbell and the other hand on top of the bench folded so that you can rest your head on it.",
     "Bend the elbows of the arm holding the dumbbell so that it creates a 90-degree angle between the upper arm and the forearm.",
@@ -23,5 +21,13 @@
     "Dumbbell_Lying_Supination/0.jpg",
     "Dumbbell_Lying_Supination/1.jpg"
   ],
-  "id": "Dumbbell_Lying_Supination"
+  "id": "Dumbbell_Lying_Supination",
+  "instructions_fr": [
+    "Allongez-vous sur le côté sur un banc plat avec un bras tenant un haltère et la main de l'autre main posée sur le dessus du banc afin de pouvoir reposer votre tête dessus.",
+    "Pliez les coudés du bras tenant l'haltère afin de créer un angle de 90 degrés entre le bras supérieur et l'avant-bras.",
+    "Maintenant, soulevez le bras supérieur de sorte que le avant-bras soit parallèle au sol et perpendiculaire à votre torse (Astuce : ainsi, le avant-bras sera directement face à vous). Le bras supérieur restera immobile près de votre torse et devrait être parallèle au sol (aligné avec votre torse en tout temps). Ce sera votre position de départ.",
+    "En expirant, effectuez une rotation externe de votre avant-bras de sorte que l'haltère soit soulevé selon un mouvement de demi-cercle tout en maintenant le coude plié à un angle de 90 degrés. Continuez cette rotation externe jusqu'à ce que l'avant-bras soit perpendiculaire au sol et la poitrine pointée vers le plafond. À ce moment, maintenez la contraction pendant une seconde.",
+    "En respirant, revenez lentement à la position de départ.",
+    "Répétez le nombre de répétitions recommandé, puis changez de bras."
+  ]
 }

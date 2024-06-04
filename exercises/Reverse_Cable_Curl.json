@@ -21,5 +21,11 @@
     "Reverse_Cable_Curl/0.jpg",
     "Reverse_Cable_Curl/1.jpg"
   ],
-  "id": "Reverse_Cable_Curl"
+  "id": "Reverse_Cable_Curl",
+  "instructions_fr": [
+    "Debout, le corps droit, tenez-vous à une barre de fixation attachée à un poulie basse, les paumes vers le bas et à la largeur des épaules. Assurez-vous également de garder les coudes près du corps. Cette position sera votre position de départ.",
+    "En maintenant les bras supérieurs immobiles, effectuez des curls en soulevant les poids tout en contractant les biceps pendant que vous expirez. Seules les avant-bras devraient bouger. Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que l'haltère soit à la hauteur de vos épaules. Maintenez cette position contractée pendant une seconde en contractant le muscle.",
+    "Ramenez lentement la barre vers sa position initiale pendant que vous inspirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

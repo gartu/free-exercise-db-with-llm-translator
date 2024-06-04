@@ -20,5 +20,9 @@
     "Side_Wrist_Pull/0.jpg",
     "Side_Wrist_Pull/1.jpg"
   ],
-  "id": "Side_Wrist_Pull"
+  "id": "Side_Wrist_Pull",
+  "instructions_fr": [
+    "Cet étirement fonctionne mieux debout. Croisez votre bras gauche sur la ligne médiane de votre corps et tenez le poignet gauche avec votre main droite au niveau des hanches. Commencez l'étirement avec un coude gauche fléchi.",
+    "Redressez-le lentement, tirez et soulevez-le jusqu'à la hauteur de l'épaule, comme illustré. Ressentez cette étirement qui provient du dos, non des épaules, et n'exercez pas une pression trop forte sur l'articulation des épaules. Alternez les côtés."
+  ]
 }

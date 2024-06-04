@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on your back with your knees bent and the soles of the feet pressed together. Have your partner hold your knees. This will be your starting position.",
     "Attempt to squeeze your knees together, while your partner prevents any movement from occurring.",
@@ -20,5 +18,10 @@
     "Lying_Bent_Leg_Groin/0.jpg",
     "Lying_Bent_Leg_Groin/1.jpg"
   ],
-  "id": "Lying_Bent_Leg_Groin"
+  "id": "Lying_Bent_Leg_Groin",
+  "instructions_fr": [
+    "Allongez-vous sur le dos, les genoux fléchis et les semelles des pieds pressées l'une contre l'autre. Demandez à votre partenaire de maintenir vos genoux. Cette position sera votre point de départ.",
+    "Essayez d'écraser vos genoux l'un contre l'autre, tandis que votre partenaire empêche tout mouvement de se produire.",
+    "Après 10 à 20 secondes, détendez vos muscles pendant que votre partenaire pousse doucement vos genoux vers le sol. Assurez-vous d'informer votre assistant lorsque l'étirement est suffisant pour éviter les blessures ou l'étirement excessif."
+  ]
 }

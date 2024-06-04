@@ -24,5 +24,11 @@
     "Kettlebell_Pistol_Squat/0.jpg",
     "Kettlebell_Pistol_Squat/1.jpg"
   ],
-  "id": "Kettlebell_Pistol_Squat"
+  "id": "Kettlebell_Pistol_Squat",
+  "instructions_fr": [
+    "Prenez une kettlebell avec les deux mains et tenez-la par les cornes. Tenez une jambe à l'écart du sol et accroupissez-vous sur l'autre.",
+    "Pliez-vous en flexant le genou et en reculant les hanches, tout en tenant la kettlebell devant vous.",
+    "Maintenez la position basse pendant une seconde, puis inversez le mouvement en poussant par le talon et en gardant la tête et la poitrine levées.",
+    "Abaissez-vous à nouveau et répétez l'exercice."
+  ]
 }

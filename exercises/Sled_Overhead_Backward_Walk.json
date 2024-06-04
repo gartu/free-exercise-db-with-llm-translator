@@ -22,5 +22,10 @@
     "Sled_Overhead_Backward_Walk/0.jpg",
     "Sled_Overhead_Backward_Walk/1.jpg"
   ],
-  "id": "Sled_Overhead_Backward_Walk"
+  "id": "Sled_Overhead_Backward_Walk",
+  "instructions_fr": [
+    "Attachez deux poignées à un traîneau connecté par une corde ou une chaîne. Chargez le traîneau avec un poids léger.",
+    "Facez le traîneau, en reculant jusqu'à ce qu'il y ait une certaine tension dans la ligne. Tenez vos mains directement au-dessus de votre tête, les coudes tendus. Cette position sera votre position de départ.",
+    "Marchez en arrière tout en gardant les bras levés au-dessus de votre tête. Évitez les mouvements brusques."
+  ]
 }

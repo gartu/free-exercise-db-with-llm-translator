@@ -26,5 +26,13 @@
     "Barbell_Squat/0.jpg",
     "Barbell_Squat/1.jpg"
   ],
-  "id": "Barbell_Squat"
+  "id": "Barbell_Squat",
+  "instructions_fr": [
+    "Cet exercice est le mieux exécuté à l'intérieur d'un squat rack pour des raisons de sécurité. Pour commencer, placez d'abord la barre sur un support à un niveau légèrement inférieur à celui des épaules. Une fois que vous avez choisi la bonne hauteur et chargé la barre, avancez sous celle-ci et posez le haut de vos épaules (légèrement en dessous de la nuque) dessus.",
+    "Tenez-vous à la barre à l'aide de vos deux bras de chaque côté et soulevez-la du support en poussant d'abord avec vos jambes tout en redressant votre torse en même temps.",
+    "Éloignez-vous du rack et placez vos jambes en adoptant une posture moyenne avec des pieds légèrement tournés vers l'extérieur. Gardez la tête haute et le dos droit en tout temps.  (Note : Pour les besoins de cette discussion, nous utiliserons la posture moyenne décrite ci-dessus qui cible le développement global ; cependant, vous pouvez choisir l'une des trois postures décrites dans la section « Postures des pieds »).",
+    "Commencez à baisser lentement la barre en fléchissant les genoux et les hanches tout en maintenant une posture droite avec la tête levée. Continuez jusqu'à ce que l'angle entre le haut de la jambe et les mollets devienne légèrement inférieur à 90 degrés. Inspirez pendant cette partie du mouvement. Conseil : si vous avez effectué l'exercice correctement, l'avant des genoux doit faire une ligne droite imaginaire avec les orteils qui est perpendiculaire à l'avant. Si vos genoux sont au-delà de cette ligne imaginaire (s'ils sont au-delà de vos orteils), alors vous exercez une pression indue sur le genou et l'exercice a été effectué incorrectement.",
+    "Commencez à soulever la barre en expirant en poussant le sol avec le talon de votre pied tout en redressant à nouveau les jambes et en retournant à la position de départ.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

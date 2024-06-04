@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start with a dumbbell in each hand and your palms facing your torso. Keep your back straight with a slight bend in the knees and bend forward at the waist. Your torso should be almost parallel to the floor. Make sure to keep your head up. Your upper arms should be close to your torso and parallel to the floor. Your forearms should be pointed towards the floor as you hold the weights. There should be a 90-degree angle formed between your forearm and upper arm. This is your starting position.",
     "Now, while keeping your upper arms stationary, exhale and use your triceps to lift the weights until the arm is fully extended. Focus on moving the forearm.",
@@ -21,5 +19,11 @@
     "Tricep_Dumbbell_Kickback/0.jpg",
     "Tricep_Dumbbell_Kickback/1.jpg"
   ],
-  "id": "Tricep_Dumbbell_Kickback"
+  "id": "Tricep_Dumbbell_Kickback",
+  "instructions_fr": [
+    "Commencez avec un haltère dans chaque main, les paumes face à votre torse. Gardez le dos droit avec un léger angle au niveau des genoux et penchez-vous en avant au niveau de la taille. Votre corps doit être presque parallèle au sol. Assurez-vous de garder la tête levée. Vos bras superiori doivent être proches de votre torse et parallèles au sol. Vos avant-bras doivent être pointés vers le sol alors que vous tenez les poids. Un angle de 90 degrés doit être formé entre votre avant-bras et votre bras supérieur. C'est votre position de départ.",
+    "Maintenant, tout en gardant vos bras supérieurs stationnaires, expirez et utilisez vos triceps pour soulever les poids jusqu'à ce que le bras soit complètement tendu. Concentrez-vous sur le mouvement du avant-bras.",
+    "Après une brève pause à la contraction maximale, inspirez et abaissez lentement les haltères jusqu'à la position de départ.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

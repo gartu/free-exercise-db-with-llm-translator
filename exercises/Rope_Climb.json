@@ -25,5 +25,12 @@
     "Rope_Climb/0.jpg",
     "Rope_Climb/1.jpg"
   ],
-  "id": "Rope_Climb"
+  "id": "Rope_Climb",
+  "instructions_fr": [
+    "Prenez la corde avec les deux mains au-dessus de votre tête. Tirez sur la corde en sautillant légèrement.",
+    "Enroulez la corde autour d'une jambe, en utilisant vos pieds pour pincer la corde. Élevez les bras aussi haut que possible, en maintenant fermement la corde.",
+    "Déverrouillez la corde de vos pieds en tirant sur vos bras, en ramenant vos genoux vers votre poitrine.",
+    "Refaites en sorte que vos pieds soient bien accrochés à la corde, puis levez-vous pour reprendre une prise haute sur la corde. Continuez jusqu'à ce que vous atteigniez le sommet de la corde.",
+    "Pour vous baisser, desserrez la prise de vos pieds sur la corde en descendant en utilisant un mouvement de la main sur la corde."
+  ]
 }

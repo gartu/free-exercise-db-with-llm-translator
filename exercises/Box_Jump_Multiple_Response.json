@@ -24,5 +24,10 @@
     "Box_Jump_Multiple_Response/0.jpg",
     "Box_Jump_Multiple_Response/1.jpg"
   ],
-  "id": "Box_Jump_Multiple_Response"
+  "id": "Box_Jump_Multiple_Response",
+  "instructions_fr": [
+    "Prenez une position détendue face à la boîte ou à la plateforme, à environ la longueur d'un bras de celle-ci. Les bras doivent être abaissés le long du corps et les jambes légèrement fléchies.",
+    "En utilisant les bras pour aider dans le premier burst, sauter vers le haut et vers l'avant, en atterrissant avec les pieds simultanément sur le dessus de la boîte ou de la plateforme.",
+    "Descendez immédiatement ou sautez à l'endroit de départ d'origine ; puis répétez la séquence."
+  ]
 }

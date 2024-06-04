@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "traps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand up straight with your feet at shoulder width as you hold a barbell with both hands in front of you using a pronated grip (palms facing the thighs). Tip: Your hands should be a little wider than shoulder width apart. You can use wrist wraps for this exercise for a better grip. This will be your starting position.",
     "Raise your shoulders up as far as you can go as you breathe out and hold the contraction for a second. Tip: Refrain from trying to lift the barbell by using your biceps.",
@@ -21,5 +19,11 @@
     "Barbell_Shrug/0.jpg",
     "Barbell_Shrug/1.jpg"
   ],
-  "id": "Barbell_Shrug"
+  "id": "Barbell_Shrug",
+  "instructions_fr": [
+    "Tenez-vous droit les pieds à la largeur des épaules en tenant une barre avec les deux mains devant vous, poignets vers les cuisses. Astuce : Vos mains doivent être un peu plus espacées que la largeur des épaules. Vous pouvez utiliser des wrist wraps pour cet exercice pour un meilleur maintien. Ce sera votre position de départ.",
+    "Levez les épaules aussi haut que possible en respirant et maintenez la contraction pendant une seconde. Conseils : Évitez d'essayer de soulever la barrebel en utilisant vos biceps.",
+    "Revenez lentement à la position de départ en respirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

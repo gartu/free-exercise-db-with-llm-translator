@@ -21,5 +21,10 @@
     "Single_Leg_Push-off/0.jpg",
     "Single_Leg_Push-off/1.jpg"
   ],
-  "id": "Single_Leg_Push-off"
+  "id": "Single_Leg_Push-off",
+  "instructions_fr": [
+    "Debout sur le sol, posez un pied sur la boîte, le talon près de l'avant.",
+    "Poussez avec le pied posé sur la boîte en essayant de gagner en hauteur en étendant les hanches et le genou.",
+    "Atterrissez avec le même pied sur la boîte, en ramenant l'autre pied en position de départ."
+  ]
 }

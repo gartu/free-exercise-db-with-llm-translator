@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, stand up with both arms fully extended above the head holding one end of a towel with both hands. Your elbows should be in and the arms perpendicular to the floor with the palms facing each other while your feet should be shoulder width apart from each other. This is the starting position.",
     "Now communicate with your partner so that he/she can grip the other side of the towel to apply resistance. Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step.",
@@ -21,5 +19,11 @@
     "Standing_Towel_Triceps_Extension/0.jpg",
     "Standing_Towel_Triceps_Extension/1.jpg"
   ],
-  "id": "Standing_Towel_Triceps_Extension"
+  "id": "Standing_Towel_Triceps_Extension",
+  "instructions_fr": [
+    "Pour commencer, tenez-vous debout avec les deux bras complètement tendus au-dessus de la tête, tenant une extrémité d'une serviette avec les deux mains. Les coudes doivent être rapprochés, les bras perpendiculaires au sol et les paumes se faisant face, tandis que vos pieds doivent être espacés de la largeur des épaules. C'est la position de départ.",
+    "Communiquez maintenant avec votre partenaire de sorte qu'il puisse saisir l'autre côté de la serviette pour appliquer une résistance. En gardant vos bras supérieurs près de votre tête (coude rentré) et perpendiculaires au sol, baissez la résistance dans un mouvement semicircular derrière votre tête jusqu'à ce que vos avant-bras touchent vos biceps. Astuce : Les bras supérieurs doivent rester stationnaires et seuls les avant-bras doivent bouger. Inspirez pendant que vous exécutez cette étape.",
+    "Revenez à la position de départ en utilisant les triceps pour soulever la serviette. Respirez pendant que vous exécutez cette étape.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

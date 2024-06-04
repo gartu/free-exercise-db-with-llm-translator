@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "chest"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
     "Once you are laying down, move the dumbbells in front of you at shoulder width. The palms of the hands should be facing each other and the arms should be perpendicular to the floor and fully extended. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Decline_Dumbbell_Flyes/0.jpg",
     "Decline_Dumbbell_Flyes/1.jpg"
   ],
-  "id": "Decline_Dumbbell_Flyes"
+  "id": "Decline_Dumbbell_Flyes",
+  "instructions_fr": [
+    "Sécurisez vos jambes à l'extrémité du banc inclinable et allongez-vous avec une haltère dans chaque main sur le dessus de vos cuisses. Les paumes de vos mains seront tournées l'une vers l'autre.",
+    "Une fois que vous êtes allongé, déplacez les haltères devant vous à la largeur des épaules. Les paumes des mains doivent se faire face et les bras doivent être perpendiculaires au sol et complètement tendus. Cette position sera votre position de départ.",
+    "En gardant un léger angle au niveau des coudes pour éviter toute tension au niveau du tendon du biceps, baissez les bras sur les côtés en décrivant une large arc de cercle jusqu'à ce que vous ressentiez une sensation d'étirement dans la poitrine. Inspirez pendant cette partie du mouvement. Conseils : Gardez à l'esprit que tout au long du mouvement, les bras doivent rester immobiles ; le mouvement ne doit s'effectuer qu'au niveau de l'articulation de l'épaule.",
+    "Ramenez vos bras vers la position de départ en contractant vos muscles pectoraux et en respirant. Conseil : Assurez-vous d'utiliser le même arc de mouvement utilisé pour baisser les poids.",
+    "Maintenez la position contractée pendant une seconde et répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

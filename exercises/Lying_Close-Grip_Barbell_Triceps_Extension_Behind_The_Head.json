@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head close to the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.",
     "Extend your arms in front of you and slowly bring the bar back in a semi circular motion (while keeping the arms extended) to a position over your head. At the end of this step your arms should be overhead and parallel to the floor. This will be your starting position. Tip: Keep your elbows in at all times.",
@@ -22,5 +20,12 @@
     "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/0.jpg",
     "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head/1.jpg"
   ],
-  "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head"
+  "id": "Lying_Close-Grip_Barbell_Triceps_Extension_Behind_The_Head",
+  "instructions_fr": [
+    "Tout en tenant une barre ou une barre de curl EZ avec une prise prononcée (paumes face à l'avant), allongez-vous sur le dos sur un banc plat avec la tête près du bout du banc. Astuce : si vous tenez une barre, saisissez-la avec une prise à la largeur des épaules et si vous utilisez une barre E-Z, saisissez-la par les poignées intérieures.",
+    "Étendez les bras devant vous et ramenez lentement la barre dans un mouvement semi circulaire (tout en gardant les bras tendus) jusqu'à ce qu'elle soit au-dessus de votre tête. À la fin de cette étape, vos bras devraient être au-dessus de votre tête et parallèles au sol. C'est votre position de départ. Astuce : Gardez toujours les coudes rentrés.",
+    "En inspirant, abaissez la barre en fléchissant les coudes et en gardant le bras supérieur immobile. Continuez à baisser la barre jusqu'à ce que vos avant-bras soient perpendiculaires au sol.",
+    "En expirant, ramenez la barre à sa position de départ en la poussant vers le haut selon un mouvement semi-circulaire jusqu'à ce que les avant-bras soient également parallèles au sol. Contractez durement les triceps au sommet du mouvement pendant une seconde. Astuce : à nouveau, seuls les avant-bras doivent bouger. Les bras supérieurs doivent rester fixes en tout temps.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -22,5 +22,11 @@
     "Battling_Ropes/0.jpg",
     "Battling_Ropes/1.jpg"
   ],
-  "id": "Battling_Ropes"
+  "id": "Battling_Ropes",
+  "instructions_fr": [
+    "Pour cet exercice, vous aurez besoin d'une corde épaisse ancrée à son centre à 15-20 pieds de distance. Debout devant la corde, prenez une extrémité dans chaque main avec vos bras étendus de chaque côté. Telle sera votre position de départ.",
+    "Initiée le mouvement en soulevant rapidement un bras à la hauteur de l'épaule aussi rapidement que vous pouvez.",
+    "Alors que vous laissez ce bras redescendre en position de départ, soulevez l'opposé.",
+    "Continuez à alterner vos bras gauche et droit, en fouettant les cordes haut et bas aussi rapidement que possible."
+  ]
 }

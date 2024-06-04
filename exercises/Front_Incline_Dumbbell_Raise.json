@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit down on an incline bench with the incline set anywhere between 30 to 60 degrees while holding a dumbbell on each hand. Tip: You can change the angle to hit the muscle a little differently each time.",
     "Extend your arms straight in front of you and have your palms facing down with the dumbbells raised about 1 inch above your thighs. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Front_Incline_Dumbbell_Raise/0.jpg",
     "Front_Incline_Dumbbell_Raise/1.jpg"
   ],
-  "id": "Front_Incline_Dumbbell_Raise"
+  "id": "Front_Incline_Dumbbell_Raise",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc incliné avec l'inclinaison réglée entre 30 et 60 degrés tout en tenant un haltère dans chaque main. Conseils : vous pouvez modifier l'angle pour frapper le muscle différemment à chaque fois.",
+    "Étendez vos bras devant vous et faites en sorte que vos paumes soient orientées vers le bas, avec les haltères à environ 1 pouce au-dessus de vos cuisses. Cette position sera votre point de départ.",
+    "Sortez lentement les haltères vers le haut jusqu'à ce qu'ils soient légèrement au-dessus de vos épaules, en gardant vos coudes verrouillés. Contractez pendant une seconde au sommet et assurez-vous d'expirer pendant cette partie du mouvement. Conseils : Gardez votre tête posée sur le banc et vos jambes à plat sur le sol en tout temps.",
+    "Abaissez les bras en position de départ pendant que vous inspirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

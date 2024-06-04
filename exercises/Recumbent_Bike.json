@@ -22,5 +22,10 @@
     "Recumbent_Bike/0.jpg",
     "Recumbent_Bike/1.jpg"
   ],
-  "id": "Recumbent_Bike"
+  "id": "Recumbent_Bike",
+  "instructions_fr": [
+    "Pour commencer, asseyez-vous sur le vélo et ajustez la selle à votre taille.",
+    "Sélectionnez l'option souhaitée dans le menu. Vous devrez peut-être commencer à pédaler pour l'allumer. Vous pouvez utiliser la réglage manuel, ou vous pouvez sélectionner un programme à utiliser. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. Le niveau de résistance peut être changé tout au long de l'entraînement. Les poignées peuvent être utilisées pour surveiller votre fréquence cardiaque pour vous aider à rester à une intensité appropriée.",
+    "Les vélos couchés offrent la commodité, des avantages cardiovasculaires et ont un impact moins important que d'autres activités. Une personne de 150 lb brûlera environ 230 calories en pédalant à un rythme modéré pendant 30 minutes, par rapport à 450 calories ou plus en courant."
+  ]
 }

@@ -23,5 +23,13 @@
     "Dumbbell_Shoulder_Press/0.jpg",
     "Dumbbell_Shoulder_Press/1.jpg"
   ],
-  "id": "Dumbbell_Shoulder_Press"
+  "id": "Dumbbell_Shoulder_Press",
+  "instructions_fr": [
+    "Tout en tenant un haltère dans chaque main, asseyez-vous sur un banc de presse militaire ou un banc polyvalent doté d'un dossier. Placez les haltères à la verticale sur le dessus de vos cuisses.",
+    "Maintenant, soulevez les haltères jusqu'à la hauteur des épaules, un à la fois, en utilisant vos cuisses pour les propulser vers le haut en position.",
+    "Assurez-vous de faire pivoter vos poignets afin que les paumes de vos mains soient tournées vers l'avant. C'est votre position de départ.",
+    "Maintenant, expirez et poussez les haltères vers le haut jusqu'à ce qu'ils se touchent au sommet.",
+    "Ensuite, après une brève pause à la position contractée supérieure, abaissez lentement les poids en inspirant pour revenir à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

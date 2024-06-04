@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place yourself on your hands knees on an exercise mat. Your head should be looking forward and the bend of the knees should create a 90-degree angle between the hamstrings and the calves. This will be your starting position.",
     "Extend one leg up and behind you. The knee and hip should both extend. Repeat for 5-10 repetitions, and then switch sides."
@@ -19,5 +17,9 @@
     "Rear_Leg_Raises/0.jpg",
     "Rear_Leg_Raises/1.jpg"
   ],
-  "id": "Rear_Leg_Raises"
+  "id": "Rear_Leg_Raises",
+  "instructions_fr": [
+    "Placez-vous à quatre pattes sur un tapis d'exercice. Votre tête doit être tournée vers l'avant et le pli des genoux doit créer un angle de 90 degrés entre les ischio-jambiers et les mollets. Cette position sera votre point de départ.",
+    "Étirez une jambe vers le haut et vers l'arrière. Le genou et la hanche doivent être tendus. Répétez l'exercice 5 à 10 fois, puis changez de côté."
+  ]
 }

@@ -21,5 +21,11 @@
     "Cross_Body_Hammer_Curl/0.jpg",
     "Cross_Body_Hammer_Curl/1.jpg"
   ],
-  "id": "Cross_Body_Hammer_Curl"
+  "id": "Cross_Body_Hammer_Curl",
+  "instructions_fr": [
+    "Debout, les épaules relevées et les abdominaux contractés, tenez un haltère dans chaque main, les paumes tournées vers vous.",
+    "En gardant vos paumes vers l'intérieur et sans tourner votre bras, faites un curl avec l'haltère de votre bras droit jusqu'à votre épaule gauche en expirant. Touchez le haut de l'haltère à votre épaule et maintenez la contraction pendant une seconde.",
+    "Abaissez lentement l'haltère en suivant le même chemin pendant que vous inspirez, puis répétez le même mouvement pour le bras gauche.",
+    "Continuez à alterner de cette façon jusqu'à ce que le nombre de répétitions recommandé soit effectué pour chaque bras."
+  ]
 }

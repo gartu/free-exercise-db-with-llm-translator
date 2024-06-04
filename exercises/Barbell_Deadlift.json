@@ -29,5 +29,12 @@
     "Barbell_Deadlift/0.jpg",
     "Barbell_Deadlift/1.jpg"
   ],
-  "id": "Barbell_Deadlift"
+  "id": "Barbell_Deadlift",
+  "instructions_fr": [
+    "Debout devant une barre chargée.",
+    "En gardant le dos aussi droit que possible, fléchissez les genoux, penchez-vous en avant et saisissez la barre avec une poignée moyenne (largeur des épaules). C'est la position de départ de l'exercice. Astuce : Si vous avez du mal à tenir la barre avec cette prise, alternez vos poignées ou utilisez des sangles de poignet.",
+    "Tout en tenant la barre, commencez le levage en poussant avec vos jambes tout en ramenant simultanément votre corps dans une position verticale pendant que vous respirez. Dans la position verticale, tendez la poitrine et contractez le dos en rapprochant les omoplates. Imaginez l'attitude des soldats de l'armée lorsqu'ils sont en position de garde.",
+    "Revenez à la position de départ en fléchissant les genoux tout en penchant le torse vers l'avant au niveau de la taille tout en gardant le dos droit. Lorsque les poids sur la barre touchent le sol, vous êtes de retour en position de départ et prêt à exécuter une autre répétition.",
+    "Exécutez le nombre de répétitions prescrit dans le programme."
+  ]
 }

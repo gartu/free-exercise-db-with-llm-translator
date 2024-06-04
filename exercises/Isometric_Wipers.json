@@ -23,5 +23,11 @@
     "Isometric_Wipers/0.jpg",
     "Isometric_Wipers/1.jpg"
   ],
-  "id": "Isometric_Wipers"
+  "id": "Isometric_Wipers",
+  "instructions_fr": [
+    "Prenez une position de pompes, en soutenant votre poids par vos mains et vos orteils tout en gardant votre corps droit. Vos mains doivent être légèrement plus larges que la largeur des épaules. Cette position sera votre position de départ.",
+    "Commencez en déplaçant votre poids corporel du côté opposé, en fléchissant le coude de ce côté en abaissant votre corps.",
+    "Inverser le mouvement en étendant le bras fléchi, en vous poussant vers le haut puis en retombant sur l'autre côté.",
+    "Répétez pour le nombre de répétitions souhaité."
+  ]
 }

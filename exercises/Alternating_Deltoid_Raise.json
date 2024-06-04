@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "In a standing position, hold a pair of dumbbells at your side.",
     "Keeping your elbows slightly bent, raise the weights directly in front of you to shoulder height, avoiding any swinging or cheating.",
@@ -22,5 +20,12 @@
     "Alternating_Deltoid_Raise/0.jpg",
     "Alternating_Deltoid_Raise/1.jpg"
   ],
-  "id": "Alternating_Deltoid_Raise"
+  "id": "Alternating_Deltoid_Raise",
+  "instructions_fr": [
+    "Dans une position debout, tenez une paire d'haltères à votre côté.",
+    "En gardant vos coudes légèrement fléchis, soulevez les poids directement devant vous jusqu'à la hauteur des épaules, en évitant tout balancement ou triche.",
+    "Ramenez les poids sur vos côtés.",
+    "Lors de la prochaine répétition, soulevez les poids latéralement, en les levant sur le côté jusqu'à la hauteur des épaules.",
+    "Ramenez les poids à la position de départ et continuez d'alterner vers l'avant et sur le côté."
+  ]
 }

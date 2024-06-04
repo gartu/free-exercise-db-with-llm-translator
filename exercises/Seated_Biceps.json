@@ -21,5 +21,10 @@
     "Seated_Biceps/0.jpg",
     "Seated_Biceps/1.jpg"
   ],
-  "id": "Seated_Biceps"
+  "id": "Seated_Biceps",
+  "instructions_fr": [
+    "Asseyez-vous par terre avec les genoux pliés et votre partenaire debout derrière vous. Étendez les bras derrière vous, paumes face à face. Votre partenaire tiendra vos poignets. Cette position sera la position de départ.",
+    "Essayez de plier vos coudes, tandis que votre partenaire empêche tout mouvement réel.",
+    "Après 10 à 20 secondes, détendez vos bras pendant que votre partenaire tire doucement sur vos poignets pour étirer vos biceps. Assurez-vous de faire savoir à votre partenaire quand l'étirement est approprié pour prévenir les blessures ou l'étirement excessif."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie face forward on a tall flat bench while holding a barbell with a supinated grip (palms facing up). Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles. Your upper body should be positioned in a way that the upper chest is over the end of the bench and the barbell is hanging in front of you with the arms extended and perpendicular to the floor. This will be your starting position.",
     "While keeping the elbows in and the upper arms stationary, curl the weight up in a semi-circular motion as you contract the biceps and exhale. Hold at the top of the movement for a second.",
@@ -21,5 +19,11 @@
     "Lying_High_Bench_Barbell_Curl/0.jpg",
     "Lying_High_Bench_Barbell_Curl/1.jpg"
   ],
-  "id": "Lying_High_Bench_Barbell_Curl"
+  "id": "Lying_High_Bench_Barbell_Curl",
+  "instructions_fr": [
+    "Allongez-vous le visage vers l'avant sur un banc plat haut tout en tenant une barre avec une prise supinée (les paumes vers le haut). Astuce : si vous tenez une barre, utilisez une prise à la largeur des épaules et si vous utilisez une barre E-Z, tenez-la par les poignées intérieures. Votre corps supérieur doit être positionné de manière à ce que la poitrine supérieure soit sur l'extrémité du banc et la barrebell soit suspendue devant vous avec les bras étendus et perpendiculaires au sol. Cette position sera votre position de départ.",
+    "En gardant les coudes vers l'intérieur et la partie supérieure des bras fixe, faites un mouvement de levage semi-circulaire avec le poids tout en contractant les biceps et en expirant. Maintenez la position pendant une seconde au sommet du mouvement.",
+    "En inspirant, revenez lentement à la position de départ. Astuce : Maintenez le poids en contrôle total en tout temps et évitez les balancements. N'oubliez pas, seuls les avant-bras doivent bouger pendant le mouvement.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

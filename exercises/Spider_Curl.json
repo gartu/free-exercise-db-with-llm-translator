@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off.",
     "Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45 degree slant with your torso and stomach pressed against the front side of the preacher bench.",
@@ -24,5 +22,14 @@
     "Spider_Curl/0.jpg",
     "Spider_Curl/1.jpg"
   ],
-  "id": "Spider_Curl"
+  "id": "Spider_Curl",
+  "instructions_fr": [
+    "Commencez par placer la barre sur la partie du banc de prêcheur que vous utiliseriez normalement pour vous asseoir. Assurez-vous d'aligner correctement la barre afin qu'elle soit équilibrée et ne tombe pas.",
+    "Passer à l'avant du banc de prêcheur (la partie où les bras se posent généralement) et vous positionner pour vous allonger à un angle de 45 degrés avec votre torse et votre ventre pressés contre l'avant du banc de prêcheur.",
+    "Assurez-vous que vos pieds (surtout les orteils) sont bien positionnés sur le sol et placez vos bras supérieurs sur le rembourrage situé sur la partie intérieure du banc de prédication.",
+    "Utilisez vos bras pour attraper la barre avec une prise en supination (paumes vers le haut) à environ la largeur des épaules ou légèrement plus rapprochées l'une de l'autre.",
+    "Commencez lentement à soulever la barre vers le haut tout en expirant. Maintenez la position contractée pendant une seconde en contractant les biceps.",
+    "Ramenez lentement le barre vers sa position initiale en respirant. .",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

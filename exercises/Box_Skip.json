@@ -26,5 +26,12 @@
     "Box_Skip/0.jpg",
     "Box_Skip/1.jpg"
   ],
-  "id": "Box_Skip"
+  "id": "Box_Skip",
+  "instructions_fr": [
+    "Vous aurez besoin de plusieurs boîtes alignées à environ 8 pieds de distance.",
+    "Commencez en faisant face à la première boîte, avec une jambe légèrement en arrière par rapport à l'autre.",
+    "Utilisez la jambe arrière comme propulsion, en essayant de gagner autant d'altitude que possible au niveau des hanches.",
+    "Dès l'atterrissage sur la boîte, projette l'autre jambe en avant et vers le haut pour gagner en hauteur et en distance, en sautant de la boîte. Atteignez le sol entre les deux premières boîtes avec la même jambe qui a atterri sur la première boîte.",
+    "Ensuite, passez à la prochaine boîte et répétez l'exercice."
+  ]
 }

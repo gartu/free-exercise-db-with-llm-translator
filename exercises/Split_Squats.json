@@ -21,5 +21,9 @@
     "Split_Squats/0.jpg",
     "Split_Squats/1.jpg"
   ],
-  "id": "Split_Squats"
+  "id": "Split_Squats",
+  "instructions_fr": [
+    "Commencez en position debout. sautez dans une position à jambes écartées, une jambe en avant et l'autre en arrière, fléchissez les genoux et abaissez légèrement les hanches.",
+    "En descendant, inversez immédiatement la direction, redressez-vous et sautez, en inversant la position de vos jambes. Répétez l'exercice 5 à 10 fois de chaque côté."
+  ]
 }

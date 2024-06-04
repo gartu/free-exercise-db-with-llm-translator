@@ -21,5 +21,11 @@
     "Standing_Dumbbell_Reverse_Curl/0.jpg",
     "Standing_Dumbbell_Reverse_Curl/1.jpg"
   ],
-  "id": "Standing_Dumbbell_Reverse_Curl"
+  "id": "Standing_Dumbbell_Reverse_Curl",
+  "instructions_fr": [
+    "Pour commencer, tenez-vous droit avec un haltère dans chaque main, en utilisant une poignée prononnée (les paumes vers le bas). Vos bras doivent être complètement tendus tandis que vos pieds sont à la largeur des épaules. C'est la position de départ.",
+    "En maintenant les bras supérieurs immobiles, effectuez des curls en soulevant les poids tout en contractant les biceps pendant que vous expirez. Seules les avant-bras doivent bouger. Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient au niveau des épaules. Maintenez cette position contractée pendant une seconde en contractant le muscle.",
+    "Ramenez lentement les haltères vers leur position initiale pendant que vous respirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

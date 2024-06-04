@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "quadriceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Seat yourself in the machine and adjust it so that you are positioned properly. The pad should be against the lower part of the shin but not in contact with the ankle. Adjust the seat so that the pivot point is in line with your knee. Select a weight appropriate for your abilities.",
     "Maintaining good posture, fully extend one leg, pausing at the top of the motion.",
@@ -21,5 +19,11 @@
     "Single-Leg_Leg_Extension/0.jpg",
     "Single-Leg_Leg_Extension/1.jpg"
   ],
-  "id": "Single-Leg_Leg_Extension"
+  "id": "Single-Leg_Leg_Extension",
+  "instructions_fr": [
+    "Asseyez-vous sur la machine et ajustez-la de sorte que vous soyez correctement positionné. Le rembourrage doit être contre la partie inférieure de la jambe mais sans toucher la cheville. Ajustez le siège de sorte que le point de pivot soit aligné avec votre genou. Sélectionnez un poids approprié pour vos capacités.",
+    "En maintenant une bonne posture, étendez complètement une jambe, en faisant une pause au sommet du mouvement.",
+    "Revenez à la position de départ sans laisser le poids s'arrêter, en gardant la tension sur le muscle.",
+    "Répétez pour le nombre de répétitions souhaité."
+  ]
 }

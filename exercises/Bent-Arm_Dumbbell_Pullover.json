@@ -25,5 +25,13 @@
     "Bent-Arm_Dumbbell_Pullover/0.jpg",
     "Bent-Arm_Dumbbell_Pullover/1.jpg"
   ],
-  "id": "Bent-Arm_Dumbbell_Pullover"
+  "id": "Bent-Arm_Dumbbell_Pullover",
+  "instructions_fr": [
+    "Placez un haltère debout sur un banc plat.",
+    "En veillant à ce que l'haltère reste bien en place au sommet du banc, allongez-vous perpendiculairement au banc (le torse across comme pour former une croix) en ne posant que vos épaules sur sa surface. Les hanches doivent être sous le banc et les jambes fléchies avec les pieds fermement posés sur le sol. La tête doit également être hors du banc.",
+    "Prenez l'haltère avec les deux mains et tenez-le droit sur votre poitrine en pliant les bras. Les deux paumes doivent être pressées contre la partie inférieure d'un côté de l'haltère. Il s'agit de votre position de départ.\n\nAvertissement : Assurez-vous toujours que l'haltère utilisé pour cet exercice est bien fixé. L'utilisation d'un haltère dont les plaques sont desserrées peut entraîner une chute des plaques sur votre visage.",
+    "En gardant vos bras verrouillés dans la position du coude plié, baissez lentement le poids en arc derrière votre tête pendant que vous respirez jusqu'à ce que vous sentiez une étirement sur la poitrine.",
+    "À ce stade, ramenez l'haltère à la position de départ en utilisant l'arc à travers lequel le poids a été abaissé et expirez pendant que vous exécutez ce mouvement.",
+    "Tenez le poids dans la position initiale pendant une seconde et répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

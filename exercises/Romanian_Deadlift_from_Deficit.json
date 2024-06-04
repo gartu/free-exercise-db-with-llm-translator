@@ -23,5 +23,10 @@
     "Romanian_Deadlift_from_Deficit/0.jpg",
     "Romanian_Deadlift_from_Deficit/1.jpg"
   ],
-  "id": "Romanian_Deadlift_from_Deficit"
+  "id": "Romanian_Deadlift_from_Deficit",
+  "instructions_fr": [
+    "Commencez debout en tenant une barre à la longueur du bras devant vous. Vous pouvez vous tenir sur une plateforme surélevée pour augmenter la gamme de mouvements.",
+    "Commencez par fléchir légèrement les genoux, puis fléchissez au niveau de la hanche, en déplaçant les fesses le plus possible vers l'arrière, en abaissant le torse autant que votre souplesse le permet. Le dos doit rester complètement étiré en tout temps, et la barre doit rester en contact avec vos jambes. Si vous le faites correctement, vous devriez ressentir une forte tension dans les ischio-jambiers.",
+    "Inversez le mouvement pour revenir à la position de départ."
+  ]
 }

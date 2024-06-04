@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Select a light resistance and sit down on the ab machine placing your feet under the pads provided and grabbing the top handles. Your arms should be bent at a 90 degree angle as you rest the triceps on the pads provided. This will be your starting position.",
     "At the same time, begin to lift the legs up as you crunch your upper torso. Breathe out as you perform this movement. Tip: Be sure to use a slow and controlled motion. Concentrate on using your abs to move the weight while relaxing your legs and feet.",
@@ -21,5 +19,11 @@
     "Ab_Crunch_Machine/0.jpg",
     "Ab_Crunch_Machine/1.jpg"
   ],
-  "id": "Ab_Crunch_Machine"
+  "id": "Ab_Crunch_Machine",
+  "instructions_fr": [
+    "Choisissez une résistance légère et asseyez-vous sur la machine de musculation abdominale en plaçant vos pieds sous les coussins fournis et en saisissant les poignées supérieures. Vos bras doivent être pliés à un angle de 90 degrés lorsque vous reposez les triceps sur les coussins prévus. Cette position sera votre position de départ.",
+    "En même temps, commencez à lever les jambes lorsque vous faites des crunchs sur le haut du torse. Expirez pendant que vous exécutez ce mouvement. Conseils : Assurez-vous d'utiliser un mouvement lent et contrôlé. Concentrez-vous sur l'utilisation de vos abdominaux pour déplacer la charge tout en relâchant les jambes et les pieds.",
+    "Après une seconde pause, revenez lentement à la position de départ en inspirant.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

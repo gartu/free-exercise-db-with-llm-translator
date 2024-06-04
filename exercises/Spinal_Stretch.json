@@ -24,5 +24,11 @@
     "Spinal_Stretch/0.jpg",
     "Spinal_Stretch/1.jpg"
   ],
-  "id": "Spinal_Stretch"
+  "id": "Spinal_Stretch",
+  "instructions_fr": [
+    "Asseyez-vous sur une chaise, le dos droit et les pieds à plat sur le sol.",
+    "Entrelacez vos doigts derrière votre tête, coudes écartés et menton vers le bas.",
+    "Tournez votre corps supérieur d'un côté environ 3 fois le plus loin possible. Puis penchez-vous en avant et tournez votre torse pour atteindre votre coude jusqu'au sol à l'intérieur de votre genou.",
+    "Revenez à la position debout et répétez l'exercice pour l'autre côté."
+  ]
 }

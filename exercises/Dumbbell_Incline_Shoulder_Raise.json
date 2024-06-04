@@ -22,5 +22,12 @@
     "Dumbbell_Incline_Shoulder_Raise/0.jpg",
     "Dumbbell_Incline_Shoulder_Raise/1.jpg"
   ],
-  "id": "Dumbbell_Incline_Shoulder_Raise"
+  "id": "Dumbbell_Incline_Shoulder_Raise",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc incliné tout en tenant un haltère dans chaque main sur le dessus de vos cuisses.",
+    "Levez les jambes pour frapper les poids sur vos épaules et penchez-vous en arrière. Placez les haltères au-dessus de vos épaules, les bras tendus. Les bras devraient être perpendiculaires au sol, avec les paumes face à l'avant et les phalanges pointant vers le plafond. Telle sera votre position de départ.",
+    "En gardant les bras droits et verrouillés, soulevez les haltères en levant les épaules du banc pendant que vous respirez.",
+    "Remettez les haltères dans la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

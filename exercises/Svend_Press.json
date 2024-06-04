@@ -23,5 +23,11 @@
     "Svend_Press/0.jpg",
     "Svend_Press/1.jpg"
   ],
-  "id": "Svend_Press"
+  "id": "Svend_Press",
+  "instructions_fr": [
+    "Commencez en position debout.",
+    "Presse deux plaques légères ensemble avec tes mains. Maintenez les plaques ensemble près de votre poitrine pour créer une contraction isométrique dans vos muscles de la poitrine. Vos doigts devraient être pointés vers l'avant. C'est votre position de départ.",
+    "Serrer les plaques entre vos paumes et étendez vos bras directement devant vous dans un mouvement contrôlé.",
+    "Arrêtez-vous au sommet du mouvement, puis revenez lentement à la position de départ."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place it on the back of your shoulders (slightly below the neck).",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
@@ -25,5 +23,15 @@
     "Rocking_Standing_Calf_Raise/0.jpg",
     "Rocking_Standing_Calf_Raise/1.jpg"
   ],
-  "id": "Rocking_Standing_Calf_Raise"
+  "id": "Rocking_Standing_Calf_Raise",
+  "instructions_fr": [
+    "Cet exercice est le mieux exécuté à l'intérieur d'un squat pour des raisons de sécurité. Pour commencer, placez d'abord la barre sur un support dont la hauteur correspond le mieux à votre taille. Une fois que vous avez choisi la bonne hauteur et chargé la barre, avancez sous celle-ci et placez-la sur les épaules (légèrement en dessous de la nuque).",
+    "Tenez-vous à la barre en utilisant les deux bras de chaque côté et soulevez-la du support en poussant d'abord avec vos jambes tout en redressant votre torse en même temps.",
+    "Éloignez-vous du rack et placez vos jambes en adoptant une posture moyenne avec les pieds à la largeur des épaules, les orteils légèrement pointés vers l'extérieur. Gardez toujours la tête haute, car regarder vers le bas vous déstabilisera. Maintenez également le dos droit et les genoux légèrement fléchis, sans être verrouillés. Telle sera votre position de départ.",
+    "Levez vos talons en expirant en étendant vos chevilles le plus possible et en contractant votre mollet. Assurez-vous que le genou reste immobile en tout temps. Il ne devrait y avoir aucune flexion (à part la légère flexion initiale que nous avons créée pendant le positionnement) à tout moment. Maintenez la position contractée pendant une seconde avant de commencer à redescendre.",
+    "Revenez lentement à la position de départ en inspirant, en baissant les talons et en fléchissant les chevilles jusqu'à ce que les mollets soient étirés.",
+    "Maintenant, levez vos orteils en contractant les muscles de la tibia dans la partie avant des mollets en respirant.",
+    "Maintenez la position pendant une seconde, puis ramenez les poids vers le bas en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

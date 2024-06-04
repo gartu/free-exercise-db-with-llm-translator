@@ -21,5 +21,10 @@
     "Balance_Board/0.jpg",
     "Balance_Board/1.jpg"
   ],
-  "id": "Balance_Board"
+  "id": "Balance_Board",
+  "instructions_fr": [
+    "Placez une planche d'équilibre devant vous.",
+    "Debout sur elle, essayez de vous équilibrer.",
+    "Maintenez l'équilibre aussi longtemps que désiré."
+  ]
 }

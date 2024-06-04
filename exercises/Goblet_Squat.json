@@ -23,5 +23,10 @@
     "Goblet_Squat/0.jpg",
     "Goblet_Squat/1.jpg"
   ],
-  "id": "Goblet_Squat"
+  "id": "Goblet_Squat",
+  "instructions_fr": [
+    "Debout, tenez une kettlebell légère par les cornes près de votre poitrine. Cette position sera votre position de départ.",
+    "Pliez-vous entre vos jambes jusqu'à ce que vos ischio-jambiers soient sur vos mollets. Gardez la poitrine et la tête relevées, ainsi que le dos droit.",
+    "En position basse, faites une pause et utilisez vos coudes pour pousser vos genoux vers l'extérieur. Revenez à la position de départ et répétez l'exercice pendant 10 à 20 répétitions."
+  ]
 }

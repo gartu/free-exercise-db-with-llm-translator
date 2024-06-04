@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position a bench in the rack and load the bar to an appropriate weight. Lie down on the bench, placing the bottom of your feet against the bar. Unlock the bar and extend your legs. You may need to use your hands to assist you. For added stability grasp the sides of the Smith Machine. This will be your starting position.",
     "Initiate the movement by rotating your pelvis, flexing your spine to raise your hips off of the bench. Maintain a slight bend in the knees throughout the motion.",
@@ -21,5 +19,11 @@
     "Smith_Machine_Hip_Raise/0.jpg",
     "Smith_Machine_Hip_Raise/1.jpg"
   ],
-  "id": "Smith_Machine_Hip_Raise"
+  "id": "Smith_Machine_Hip_Raise",
+  "instructions_fr": [
+    "Positionnez un banc dans le rack et chargez la barre avec un poids approprié. Allongez-vous sur le banc, en plaçant le bas de vos pieds contre la barre. Déverrouillez la barre et étendez vos jambes. Vous pouvez avoir besoin d'utiliser vos mains pour vous aider. Pour une stabilité accrue, saisissez les côtés de la machine Smith. Ce sera votre position de départ.",
+    "Initiez le mouvement en faisant pivoter votre bassin, en fléchissant votre colonne vertébrale pour soulever vos hanches du banc. Conservez une légère flexion des genoux tout au long du mouvement.",
+    "Après une brève pause, ramenez les hanches sur le banc.",
+    "Répétez pour le nombre de répétitions souhaité."
+  ]
 }

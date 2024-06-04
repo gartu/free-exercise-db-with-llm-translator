@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
     "Your legs should be crossed by wrapping one ankle around the other. Slowly elevate your legs up in the air until your thighs are perpendicular to the floor with a slight bend at the knees. Note: Your knees and toes should be parallel to the floor as opposed to the thighs.",
@@ -23,5 +21,13 @@
     "Tuck_Crunch/0.jpg",
     "Tuck_Crunch/1.jpg"
   ],
-  "id": "Tuck_Crunch"
+  "id": "Tuck_Crunch",
+  "instructions_fr": [
+    "Pour commencer, allongez-vous sur le sol ou sur un tapis d'exercice, le dos bien appuyé contre le sol. Vos bras doivent être étendus de chaque côté, les paumes tournées vers le bas.",
+    "Votre jambes doivent être croisées en enroulant une cheville autour de l'autre. Soulevez lentement vos jambes dans les airs jusqu'à ce que vos cuisses soient perpendiculaires au sol, avec un léger gonflement au niveau des genoux. Notez : vos genoux et vos orteils doivent être parallèles au sol, contrairement à vos cuisses.",
+    "Déplacez vos bras du sol et croisez-les sur votre poitrine, cette position sera la position de départ.",
+    "En gardant votre bas du dos pressé contre le sol, soulevez lentement votre torse. N'oubliez pas d'expirer pendant que vous exécutez cette partie de l'exercice.",
+    "Commencez lentement à baisser votre torse jusqu'à la position de départ tout en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

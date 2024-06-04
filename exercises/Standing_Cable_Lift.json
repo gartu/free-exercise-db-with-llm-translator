@@ -25,5 +25,15 @@
     "Standing_Cable_Lift/0.jpg",
     "Standing_Cable_Lift/1.jpg"
   ],
-  "id": "Standing_Cable_Lift"
+  "id": "Standing_Cable_Lift",
+  "instructions_fr": [
+    "Reliez une poignée standard à une tour et déplacez le câble vers la position de poulie la plus basse.",
+    "De côté par rapport au câble, attrapez la poignée avec une main et éloignez-vous de la tour. Vous devriez être à environ la longueur d'un bras de la poulie, la tension du poids étant exercée sur le câble. Votre bras tendu devrait être aligné avec le câble.",
+    "En positionnant vos pieds à la largeur des épaules, accroupissez-vous et attrapez la poignée avec les deux mains. Vos bras doivent rester tendus.",
+    "En une seule mouvement, tirez la poignée vers le haut et à travers votre corps jusqu'à ce que vos bras soient complètement tendus au-dessus de votre tête.",
+    "Gardez le dos droit et les bras près du corps pendant que vous pivoter votre pied arrière et redresser vos jambes pour obtenir une amplitude de mouvement complète.",
+    "Rentrez vos bras, puis votre corps. Revenez à la position neutre d'une manière lente et contrôlée.",
+    "Répétez jusqu'à l'échec.",
+    "Ensuite, repositionnez-vous et répétez la même série de mouvements sur le côté opposé."
+  ]
 }

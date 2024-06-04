@@ -22,5 +22,12 @@
     "Machine_Shoulder_Military_Press/0.jpg",
     "Machine_Shoulder_Military_Press/1.jpg"
   ],
-  "id": "Machine_Shoulder_Military_Press"
+  "id": "Machine_Shoulder_Military_Press",
+  "instructions_fr": [
+    "Asseyez-vous sur la machine à presser les épaules et sélectionnez le poids.",
+    "Prenez les poignées de côté en gardant les coudes fléchis et alignés avec votre torse. Cette position sera votre position de départ.",
+    "Maintenant, soulevez les poignées en expirant et étendez complètement les bras. En haut de la position, assurez-vous d'avoir une contraction pendant une seconde.",
+    "Abaissez lentement les poignées en position de départ pendant que vous inspirez.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

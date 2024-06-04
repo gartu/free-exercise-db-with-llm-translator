@@ -23,5 +23,11 @@
     "Push-Up_Wide/0.jpg",
     "Push-Up_Wide/1.jpg"
   ],
-  "id": "Push-Up_Wide"
+  "id": "Push-Up_Wide",
+  "instructions_fr": [
+    "Avec vos mains écartées, soutenez votre corps sur la pointe de vos pieds et vos mains en position de planche. Vos coudes doivent être tendus et votre corps droit. Évitez de laisser vos hanches s'affaissez. Cette position sera votre position de départ.",
+    "Commencez en fléchissant les coudes, en descendant la poitrine vers le sol en inspirant.",
+    "En utilisant vos muscles pectoraux, repoussez votre corps supérieur vers la position de départ en étendant les coudes. Expirez pendant que vous exécutez cette étape.",
+    "Après une pause à la position contractée, répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

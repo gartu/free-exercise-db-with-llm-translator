@@ -22,5 +22,12 @@
     "Seated_Barbell_Military_Press/0.jpg",
     "Seated_Barbell_Military_Press/1.jpg"
   ],
-  "id": "Seated_Barbell_Military_Press"
+  "id": "Seated_Barbell_Military_Press",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc de presse militaire avec une barre derrière votre tête et demandez à un partenaire de vous donner la barre (c'est mieux pour les rotateurs des épaules de cette façon) ou soulevez-la soigneusement vous-même avec une prise en pronation (les paumes vers l'avant). Astuce : Votre prise devrait être plus large que la largeur des épaules et elle devrait créer un angle de 90 degrés entre le avant-bras et le bras supérieur lorsque la barre s'abaisse.",
+    "Une fois que vous avez saisi la barre avec la longueur de prise correcte, soulevez la barre au-dessus de votre tête en verrouillant vos bras. Tenez-vous à environ hauteur des épaules et légèrement devant votre tête. C'est votre position de départ.",
+    "Abaissez lentement la barre jusqu'au niveau de la clavicule en inspirant.",
+    "Remontez la barre jusqu'à la position de départ en expirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

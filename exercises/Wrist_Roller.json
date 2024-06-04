@@ -22,5 +22,12 @@
     "Wrist_Roller/0.jpg",
     "Wrist_Roller/1.jpg"
   ],
-  "id": "Wrist_Roller"
+  "id": "Wrist_Roller",
+  "instructions_fr": [
+    "Pour commencer, tenez-vous droit en saisissant un rouleau de poignet à l'aide d'une prise en pronation (les paumes vers le bas). Vos pieds doivent être écartés à la largeur des épaules.",
+    "Levez lentement les deux bras jusqu'à ce qu'ils soient complètement tendus et parallèles au sol devant vous. Notez : Assurez-vous que la corde ne soit pas enroulée autour du rouleau. Votre corps entier doit rester immobile, à l'exception des avant-bras. C'est la position de départ.",
+    "Faites tourner chaque poignet en mouvement montant pour amener le poids jusqu'à la barre en enroulant la corde autour du rouleau.",
+    "Une fois que le poids a atteint la barre, remettez-le lentement dans sa position initiale en faisant pivoter le poignet vers le bas jusqu'à ce que le poids atteigne sa position de départ.",
+    "Répétez pour le nombre de répétitions prescrit dans votre programme."
+  ]
 }

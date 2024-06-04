@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, stand straight with your feet shoulder width apart from each other. Place your hands on your hips. This is the starting position.",
     "Now slowly inhale as much air as possible and then start to exhale as much as possible while bringing your stomach in as much as possible and hold this position. Try to visualize your navel touching your backbone.",
@@ -22,5 +20,12 @@
     "Stomach_Vacuum/0.jpg",
     "Stomach_Vacuum/1.jpg"
   ],
-  "id": "Stomach_Vacuum"
+  "id": "Stomach_Vacuum",
+  "instructions_fr": [
+    "Pour commencer, tenez-vous droit les pieds à la largeur des épaules. Placez vos mains sur vos hanches. C'est la position de départ.",
+    "Maintenant, inspirez lentement autant d'air que possible, puis commencez à expirer le plus possible tout en rentrant le ventre autant que possible et maintenez cette position. Essayez d'imaginer votre omoplate toucher votre colonne vertébrale.",
+    "Une contraction isométrique dure environ 20 secondes. Pendant la contraction de 20 secondes, essayez de respirer normalement. Puis inspirez et ramenez votre ventre à la position de départ.",
+    "Une fois que vous avez pratiqué cet exercice, essayez de l'exécuter pendant plus de 20 secondes. Conseil : vous pouvez travailler jusqu'à 40 à 60 secondes.",
+    "Répétez pour le nombre de séries recommandé."
+  ]
 }

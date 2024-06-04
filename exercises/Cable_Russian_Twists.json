@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect a standard handle attachment, and position the cable to a middle pulley position.",
     "Lie on a stability ball perpendicular to the cable and grab the handle with one hand. You should be approximately arm's length away from the pulley, with the tension of the weight on the cable.",
@@ -24,5 +22,14 @@
     "Cable_Russian_Twists/0.jpg",
     "Cable_Russian_Twists/1.jpg"
   ],
-  "id": "Cable_Russian_Twists"
+  "id": "Cable_Russian_Twists",
+  "instructions_fr": [
+    "Reliez une poignée standard, et positionnez le câble sur un poulie moyenne.",
+    "Allongez-vous sur un ballon d'exercice en position perpendiculaire au câble et saisissez la poignée avec une main. Vous devez être à environ la longueur du bras de la poulie, avec la tension du poids sur le câble.",
+    "Attrapez la poignée avec les deux mains et étendez complètement vos bras au-dessus de votre poitrine. Vos mains doivent être directement en ligne avec le poulie. Si ce n'est pas le cas, ajustez la poulie vers le haut ou vers le bas jusqu'à ce qu'elles le soient.",
+    "Gardez vos hanches relevées et votre ventre contracté. Faites pivoter votre torse à l'écart de la poulie pour une rotation complète sur un quart de tour. Votre corps doit rester plat du haut de la tête jusqu'aux genoux.",
+    "Faites une pause pendant un instant et, d'une manière lente et contrôlée, revenez à la position de départ. Vous devez toujours avoir une tension latérale sur le câble dans la position de repos.",
+    "Répétez le même mouvement jusqu'à l'échec.",
+    "Ensuite, repositionnez-vous et répétez la même série de mouvements sur le côté opposé."
+  ]
 }

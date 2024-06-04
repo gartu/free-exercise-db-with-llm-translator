@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hang on to a sturdy object for balance and stand on a dumbbell handle, preferably one with round plates so that it rolls as in this manner you have to work harder to stabilize yourself; thus increasing the effectiveness of the exercise.",
     "Now roll your foot slightly forward so that you can get a nice stretch of the calf. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Calf_Raise_On_A_Dumbbell/0.jpg",
     "Calf_Raise_On_A_Dumbbell/1.jpg"
   ],
-  "id": "Calf_Raise_On_A_Dumbbell"
+  "id": "Calf_Raise_On_A_Dumbbell",
+  "instructions_fr": [
+    "Tenez-vous à un objet solide pour garder l'équilibre et debout sur une poignée d'haltère, de préférence avec des plaques rondes afin qu'elle roule de cette manière, vous devez travailler plus dur pour vous stabiliser ; ainsi augmentant l'efficacité de l'exercice.",
+    "Faites maintenant rouler légèrement votre pied vers l'avant afin d'obtenir une belle étirement du mollet. Cette position sera votre position de départ.",
+    "Soulevez le mollet en faisant rouler votre pied sur la poignée pour obtenir une extension complète. Expirez pendant l'exécution de ce mouvement. Contractez fermement le mollet au sommet et maintenez-le pendant une seconde. Astuce : lorsque vous montez, faites rouler légèrement l'haltère vers l'arrière.",
+    "Inspirez maintenant en faisant rouler légèrement l'haltère vers l'avant lorsque vous descendez pour obtenir un meilleur étirement.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

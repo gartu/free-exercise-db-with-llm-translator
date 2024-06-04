@@ -23,5 +23,11 @@
     "Linear_Depth_Jump/0.jpg",
     "Linear_Depth_Jump/1.jpg"
   ],
-  "id": "Linear_Depth_Jump"
+  "id": "Linear_Depth_Jump",
+  "instructions_fr": [
+    "Vous aurez besoin de deux boîtes ou bancs espacés de quelques pieds l'un de l'autre. Commencez par vous tenir sur une boîte en faisant face à l'autre plateforme.",
+    "Pour initier le mouvement, baissez-vous doucement sur le sol entre vos plates-formes, en fléchissant les genoux et les hanches.",
+    "Inverser le mouvement en explosant, en étendant les hanches, les genoux et les chevilles pour sauter sur l'autre plateforme.",
+    "Atterrissez en douceur, en absorbant l'impact par les jambes."
+  ]
 }

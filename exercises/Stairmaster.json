@@ -22,5 +22,10 @@
     "Stairmaster/0.jpg",
     "Stairmaster/1.jpg"
   ],
-  "id": "Stairmaster"
+  "id": "Stairmaster",
+  "instructions_fr": [
+    "Pour commencer, montez sur l'appareil et sélectionnez l'option désirée dans le menu. Vous pouvez choisir un réglage manuel ou sélectionner un programme à exécuter. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice.",
+    "Pompez vos jambes dans un rythme établi, en appuyant sur les pédales mais sans les descendre jusqu'au sol. Il est recommandé de maintenir votre prise sur les poignées pour ne pas tomber. Les poignées peuvent être utilisées pour surveiller votre fréquence cardiaque et vous aider à maintenir une intensité appropriée.",
+    "Les escalier mécaniques offrent une commodité, des avantages cardiovasculaires et ont généralement moins d'impact que la course à l'extérieur. Ils sont généralement beaucoup plus difficiles que d'autres équipements de cardiotraining. Une personne de 150 livres brûlera typiquement plus de 300 calories en 30 minutes, comparativement à environ 175 calories en marchant."
+  ]
 }

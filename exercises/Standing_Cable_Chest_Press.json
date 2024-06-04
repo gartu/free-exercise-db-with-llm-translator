@@ -22,5 +22,11 @@
     "Standing_Cable_Chest_Press/0.jpg",
     "Standing_Cable_Chest_Press/1.jpg"
   ],
-  "id": "Standing_Cable_Chest_Press"
+  "id": "Standing_Cable_Chest_Press",
+  "instructions_fr": [
+    "Placez les poulies à la hauteur de votre poitrine et sélectionnez un poids approprié. Tenez-vous à un pied ou deux devant les câbles, en tenant un câble dans chaque main. Vous pouvez décalée votre position pour une meilleure stabilité.",
+    "Placez l'avant-bras à un angle de 90 degrés par rapport à l'épaule, en rapprochant les omoplates. Cette position sera votre point de départ.",
+    "En gardant le reste du corps stationnaire, étendez les coudes pour presser les poignées vers l'avant, en les dessinant ensemble devant vous.",
+    "Arrêtez-vous au sommet du mouvement et revenez à la position de départ."
+  ]
 }

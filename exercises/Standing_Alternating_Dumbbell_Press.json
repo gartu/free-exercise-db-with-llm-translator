@@ -21,5 +21,11 @@
     "Standing_Alternating_Dumbbell_Press/0.jpg",
     "Standing_Alternating_Dumbbell_Press/1.jpg"
   ],
-  "id": "Standing_Alternating_Dumbbell_Press"
+  "id": "Standing_Alternating_Dumbbell_Press",
+  "instructions_fr": [
+    "Debout, tenez un haltère dans chaque main. Soulevez les haltères jusqu'à vos épaules, les paumes vers l'avant et les coudes pointant vers l'extérieur. Cette position sera votre position de départ.",
+    "Étendez un bras pour presser l'haltère droit vers le haut, en gardant la main de l'autre côté en place. Ne penchez pas ou ne tirez pas brutalement le poids pendant le mouvement.",
+    "Après une courte pause, ramenez le poids à la position de départ.",
+    "Répétez pour le côté opposé, en continuant d'alterner entre les bras."
+  ]
 }

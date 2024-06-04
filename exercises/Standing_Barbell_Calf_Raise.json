@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the bar on the back of your shoulders (slightly below the neck).",
     "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
@@ -23,5 +21,13 @@
     "Standing_Barbell_Calf_Raise/0.jpg",
     "Standing_Barbell_Calf_Raise/1.jpg"
   ],
-  "id": "Standing_Barbell_Calf_Raise"
+  "id": "Standing_Barbell_Calf_Raise",
+  "instructions_fr": [
+    "Cet exercice est le mieux exécuté à l'intérieur d'un squat rack pour des raisons de sécurité. Pour commencer, placez d'abord la barre sur un support dont la hauteur correspond à votre taille. Une fois que vous avez choisi la bonne hauteur et chargé la barre, passez sous la barre et placez-la sur l'arrière de vos épaules (légèrement en dessous du cou).",
+    "Tenez-vous à la barre en utilisant les deux bras de chaque côté et soulevez-la du support en poussant d'abord avec vos jambes tout en redressant simultanément votre torse.",
+    "Écartez-vous du support et positionnez vos jambes en adoptant une posture moyenne avec les pieds légèrement tournés vers l'extérieur. Gardez toujours la tête levée car la regarder vers le bas vous déstabilisera et maintenez également le dos droit. Les genoux doivent être légèrement fléchis, jamais verrouillés. Telle sera votre position de départ. Conseils : Pour une meilleure amplitude de mouvement, vous pouvez également poser la pointe de vos pieds sur un bloc en bois, mais soyez prudent car cette option nécessite plus d'équilibre et un bloc solide.",
+    "Levez vos talons en expirant en étendant vos chevilles le plus haut possible et en contractant votre mollet. Assurez-vous que le genou reste stationnaire en tout temps. Il ne devrait pas y avoir de flexion à tout moment. Maintenez la position contractée pendant une seconde avant de commencer à redescendre.",
+    "Revenez lentement à la position de départ en inspirant, en baissant les talons et en fléchissant les chevilles jusqu'à ce que les mollets soient étirés.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

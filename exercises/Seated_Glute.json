@@ -20,5 +20,10 @@
     "Seated_Glute/0.jpg",
     "Seated_Glute/1.jpg"
   ],
-  "id": "Seated_Glute"
+  "id": "Seated_Glute",
+  "instructions_fr": [
+    "Asseyez-vous en position genoux pliés, croisez une cheville sur le genou opposé. Votre partenaire se tiendra derrière vous. Ensuite, penchez-vous en avant pendant que votre partenaire soutient vos épaules avec ses mains. Ce sera votre position de départ.",
+    "Essayez de pousser votre buste en arrière pendant 10 à 20 secondes, tandis que votre partenaire empêche tout mouvement réel de votre buste.",
+    "Detendez maintenant vos muscles alors que votre partenaire augmente l'étirement en poussant doucement votre torse vers l'avant pendant 10 à 20 secondes."
+  ]
 }

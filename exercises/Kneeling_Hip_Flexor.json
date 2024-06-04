@@ -19,5 +19,9 @@
     "Kneeling_Hip_Flexor/0.jpg",
     "Kneeling_Hip_Flexor/1.jpg"
   ],
-  "id": "Kneeling_Hip_Flexor"
+  "id": "Kneeling_Hip_Flexor",
+  "instructions_fr": [
+    "À genoux sur un tapis, amenez votre genou droit vers le haut de sorte que la plante de votre pied soit au sol, et étendez votre jambe gauche vers l'arrière de sorte que le dessus de votre pied soit au sol.",
+    "Déplacez votre poids vers l'avant jusqu'à ce que vous ressentiez une étirement dans votre hanche. Maintenez la position pendant 15 secondes, puis répétez de l'autre côté."
+  ]
 }

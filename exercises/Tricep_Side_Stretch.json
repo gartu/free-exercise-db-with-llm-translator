@@ -18,5 +18,8 @@
     "Tricep_Side_Stretch/0.jpg",
     "Tricep_Side_Stretch/1.jpg"
   ],
-  "id": "Tricep_Side_Stretch"
+  "id": "Tricep_Side_Stretch",
+  "instructions_fr": [
+    "Amenez votre bras droit à travers votre corps et au-dessus de votre épaule gauche, en tenant votre coude avec votre main gauche, jusqu'à ce que vous sentiez une étirement dans votre triceps. Puis répétez pour votre autre bras."
+  ]
 }

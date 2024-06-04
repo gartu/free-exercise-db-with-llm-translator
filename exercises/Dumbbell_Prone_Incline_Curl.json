@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab a dumbbell on each hand and lie face down on an incline bench with your shoulders near top of the incline. Your knees can rest on the seat or your legs can be straddled to the sides (my preferred way).",
     "Let your arms extend and hang naturally in front of you so that they are perpendicular to the floor.",
@@ -23,5 +21,13 @@
     "Dumbbell_Prone_Incline_Curl/0.jpg",
     "Dumbbell_Prone_Incline_Curl/1.jpg"
   ],
-  "id": "Dumbbell_Prone_Incline_Curl"
+  "id": "Dumbbell_Prone_Incline_Curl",
+  "instructions_fr": [
+    "Prenez un haltère dans chaque main et allongez-vous la face vers le bas sur un banc en pente avec vos épaules près du sommet de l'inclinaison. Vos genoux peuvent reposer sur le siège ou vos jambes peuvent être écartées de part et d'autre (ma façon préférée).",
+    "Laissez vos bras s'étendre et pendre naturellement devant vous, de sorte qu'ils soient perpendiculaires au sol.",
+    "Maintenant, gardez les coudes le long du corps et tournez les paumes vers l'avant. Cette position sera votre point de départ.",
+    "Soulevez les haltères en contractant les biceps jusqu'à ce que vos bras soient complètement fléchis. Exhalez pendant cette partie du mouvement et assurez-vous que seuls les avant-bras bougent. Les bras supérieurs doivent rester stationnaires en tout temps.",
+    "Abbaissez les haltères jusqu'à ce que vos bras soient complètement tendus.",
+    "Répétez le nombre de fois recommandé."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Begin lying on your back with your hands extended above you toward the ceiling.",
     "Bring your feet, knees, and hips up to 90 degrees.",
@@ -24,5 +22,14 @@
     "Dead_Bug/0.jpg",
     "Dead_Bug/1.jpg"
   ],
-  "id": "Dead_Bug"
+  "id": "Dead_Bug",
+  "instructions_fr": [
+    "Commencez en vous allongant sur le dos, les mains étendues au-dessus de vous vers le plafond.",
+    "Amenez vos pieds, genoux et hanches à 90 degrés.",
+    "Expirez vigoureusement pour abaisser votre cage thoracique et aplatir votre dos sur le sol, en faisant pivoter votre bassin vers le haut et en contractant vos fessiers. Maintenez cette position tout au long du mouvement. Cette position sera votre position de départ.",
+    "Commencez l'exercice en étendant une jambe, en déverrouillant le genou et la hanche pour amener la jambe juste au-dessus du sol.",
+    "Maintenez la position de votre colonne lombaire et de votre bassin pendant que vous exécutez le mouvement, car votre dos aura tendance à s'archer.",
+    "Restez en contrôle et ramenez la jambe de travail à sa position initiale.",
+    "Répétez de l'autre côté, en alternant jusqu'à ce que la série soit complète."
+  ]
 }

@@ -20,5 +20,8 @@
     "Bicycling/0.jpg",
     "Bicycling/1.jpg"
   ],
-  "id": "Bicycling"
+  "id": "Bicycling",
+  "instructions_fr": [
+    "Pour commencer, installez-vous sur le vélo et ajustez la selle à votre taille."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Kneel 1-2 feet in front of a cable system with a rope attached.",
     "After selecting an appropriate weight, grasp the rope with both hands reaching overhead. Your torso should be upright in the starting position.",
@@ -22,5 +20,12 @@
     "Rope_Crunch/0.jpg",
     "Rope_Crunch/1.jpg"
   ],
-  "id": "Rope_Crunch"
+  "id": "Rope_Crunch",
+  "instructions_fr": [
+    "À genoux, à 1 ou 2 pieds devant un système de câbles auquel est attaché une corde.",
+    "Après avoir choisi un poids approprié, saisissez la corde avec les deux mains en les étendant vers le haut. Votre torse doit être droit dans la position de départ.",
+    "Pour commencer, fléchissez l'échine, en essayant d'amener la cage thoracique vers les jambes lorsque vous tirez le câble vers le bas.",
+    "Arrêtez-vous au niveau le plus bas du mouvement, puis revenez lentement à la position de départ.",
+    "Ces exercices peuvent être effectués avec des torsions ou sur le côté pour cibler les obliques."
+  ]
 }

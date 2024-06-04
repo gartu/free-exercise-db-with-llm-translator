@@ -23,5 +23,12 @@
     "Smith_Machine_Bench_Press/0.jpg",
     "Smith_Machine_Bench_Press/1.jpg"
   ],
-  "id": "Smith_Machine_Bench_Press"
+  "id": "Smith_Machine_Bench_Press",
+  "instructions_fr": [
+    "Placez un banc plat sous la machine Smith. Maintenant, placez la barre à une hauteur que vous pouvez atteindre lorsque vous êtes allongé et que vos bras sont presque complètement tendus. Une fois le poids nécessaire sélectionné, allongez-vous sur le banc plat. En utilisant une poignée prononcée plus large que la largeur des épaules, déverrouillez la barre du support et tenez-la droite au-dessus de vous avec les bras verrouillés. Telle sera votre position de départ.",
+    "En respirant, descendez lentement jusqu'à ce que vous sentiez la barre sur votre poitrine moyenne.",
+    "Après une seconde pause, ramenez la barre à la position de départ en expirant et en poussant la barre à l'aide de vos muscles de la poitrine. Verrouillez vos bras dans la position contractée, maintenez pendant une seconde, puis recommencez lentement à descendre. Conseils : Il faut au moins deux fois plus de temps pour descendre que pour monter.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit.",
+    "Une fois terminé, verrouillez la barre à nouveau dans le porte-barre."
+  ]
 }

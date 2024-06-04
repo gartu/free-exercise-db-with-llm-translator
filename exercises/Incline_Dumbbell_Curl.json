@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit back on an incline bench with a dumbbell in each hand held at arms length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position.",
     "While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second.",
@@ -21,5 +19,11 @@
     "Incline_Dumbbell_Curl/0.jpg",
     "Incline_Dumbbell_Curl/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Curl"
+  "id": "Incline_Dumbbell_Curl",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc incliné en tenant un haltère dans chaque main, les bras tendus. Gardez vos coudes près de votre corps et faites pivoter la paume de vos mains vers l'avant. Cette position sera votre point de départ.",
+    "En maintenant le bras supérieur immobile, soulevez les poids vers l'avant en contractant les biceps pendant que vous expirez. Seules les avant-bras devraient bouger. Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient à la hauteur des épaules. Maintenez cette position contractée pendant une seconde.",
+    "Ramenez lentement les haltères vers leur position initiale pendant que vous inspirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

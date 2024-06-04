@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie with your back flat on the floor (or exercise mat) and your legs extended in front of you.",
     "Now bend at the knees and place your outer thighs by the floor (or mat) as you make the soles of your feet touch each other.",
@@ -24,5 +22,14 @@
     "Frog_Sit-Ups/0.jpg",
     "Frog_Sit-Ups/1.jpg"
   ],
-  "id": "Frog_Sit-Ups"
+  "id": "Frog_Sit-Ups",
+  "instructions_fr": [
+    "Allongez-vous le dos à plat sur le sol (ou sur un tapis d'exercice) et les jambes étendues devant vous.",
+    "Maintenant, pliez les genoux et posez les cuisses extérieures sur le sol (ou le tapis) tout en touchant les semelles de vos pieds.",
+    "Maintenant, essayez de pousser les deux semelles et de les rapprocher le plus possible tout en gardant les cuisses extérieures à plat sur le sol (ou au moins presque). Astuce : dans cette position, vos jambes doivent former un losange.",
+    "Maintenant, croisez les bras devant vous en touchant les épaules opposées. Cette position sera votre position de départ.",
+    "À l'expiration, aplatissez le dos inférieur sur le sol tout en enroulant la torche vers le haut. Astuce : ce sera comme exécuter les 1/4 de mouvement du sit-up. Tenir la position pendant une seconde.",
+    "En inspirant, redescendez lentement à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

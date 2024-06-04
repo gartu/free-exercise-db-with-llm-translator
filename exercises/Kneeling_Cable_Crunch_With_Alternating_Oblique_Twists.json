@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect a rope attachment to a high pulley cable and position a mat on the floor in front of it.",
     "Grab the rope with both hands and kneel approximately two feet back from the tower.",
@@ -26,5 +24,16 @@
     "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
     "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
   ],
-  "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists"
+  "id": "Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists",
+  "instructions_fr": [
+    "Fixez un accessoire en corde à un câble de poulie haut et placez un tapis devant celui-ci.",
+    "Attrapez la corde avec les deux mains et agenouillez-vous à environ deux pieds de la tour.",
+    "Placez la corde derrière votre tête, les mains près de vos oreilles.",
+    "Gardez vos mains au même endroit, contractez vos abdominaux et tirez vers le bas sur la corde dans un mouvement de contraction jusqu'à ce que vos coudes atteignent vos genoux.",
+    "Passez brièvement au bas et remontez jusqu'à la position de départ d'une manière lente et contrôlée.",
+    "Répétez le même mouvement descendant jusqu'à ce que vous soyez à mi-chemin, moment auquel vous commencerez à faire pivoter un de vos coudes vers le genou opposé.",
+    "Encore une fois, faites une courte pause en bas et montez lentement et de manière contrôlée jusqu'à la position de départ.",
+    "Répétez le même mouvement que précédemment, mais alternez l'autre coude vers le genou opposé.",
+    "Poursuivez cette série de mouvements jusqu'à l'épuisement."
+  ]
 }

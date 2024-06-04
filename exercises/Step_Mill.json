@@ -21,5 +21,9 @@
     "Step_Mill/0.jpg",
     "Step_Mill/1.jpg"
   ],
-  "id": "Step_Mill"
+  "id": "Step_Mill",
+  "instructions_fr": [
+    "Pour commencer, montez sur le stepmill et sélectionnez l'option souhaitée dans le menu. Vous pouvez choisir un réglage manuel ou sélectionner un programme à exécuter. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. Faites attention de ne pas trébucher en montant les escaliers. Il est recommandé de maintenir fermement les poignées pour éviter toute chute.",
+    "Les steppers offrent une commodité, des avantages cardiovasculaires et ont généralement moins d'impact que la course à pied tout en proposant un taux de calories brûlées similaire. Ils sont généralement beaucoup plus difficiles que d'autres équipements de cardio. Une personne de 150 lb brûlera typiquement plus de 300 calories en 30 minutes, contre environ 175 calories en marchant."
+  ]
 }

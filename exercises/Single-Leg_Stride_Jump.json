@@ -23,5 +23,10 @@
     "Single-Leg_Stride_Jump/0.jpg",
     "Single-Leg_Stride_Jump/1.jpg"
   ],
-  "id": "Single-Leg_Stride_Jump"
+  "id": "Single-Leg_Stride_Jump",
+  "instructions_fr": [
+    "Debout sur le côté d'une boîte, posez votre pied intérieur sur celle-ci, près du bord.",
+    "Commencez par balancer les bras vers le haut en poussant sur la jambe supérieure, en sautant aussi haut que possible. Essayez de remonter le genou opposé.",
+    "Retourne dans la même position que tu as commencé, en utilisant ta jambe intérieure pour décélérer l'impact."
+  ]
 }

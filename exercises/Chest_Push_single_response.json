@@ -22,5 +22,10 @@
     "Chest_Push_single_response/0.jpg",
     "Chest_Push_single_response/1.jpg"
   ],
-  "id": "Chest_Push_single_response"
+  "id": "Chest_Push_single_response",
+  "instructions_fr": [
+    "Commencez en position genouillée en tenant la balle medicinale de deux mains contre votre poitrine.",
+    "Exécutez le tir en explposant en avant et vers l'extérieur avec les hanches tout en poussant le ballon aussi loin que possible.",
+    "Continuez le mouvement en tombant vers l'avant et en vous rattrapant avec vos mains."
+  ]
 }

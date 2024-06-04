@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "chest"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Begin by moving the pulleys to the high position, select the resistance to be used, and take a handle in each hand.",
     "Stand directly between both pulleys with your arms extended out to your sides. Your head and chest should be up while your arms form a \"T\". This will be your starting position.",
@@ -22,5 +20,12 @@
     "Cable_Iron_Cross/0.jpg",
     "Cable_Iron_Cross/1.jpg"
   ],
-  "id": "Cable_Iron_Cross"
+  "id": "Cable_Iron_Cross",
+  "instructions_fr": [
+    "Commencez en déplaçant les poulies vers la position haute, sélectionnez la résistance à utiliser, et prenez une poignée dans chaque main.",
+    "Debout, entre les deux poulies, avec les bras étendus sur les côtés. La tête et la poitrine doivent être relevées, tandis que les bras forment une \"T\". Cette position sera votre position de départ.",
+    "En gardant les coudes étendus, ramenez vos bras le long de votre corps.",
+    "Ramenez vos bras à la position de départ après une pause à la contraction maximale.",
+    "Continuez le mouvement pour le nombre prescrit de répétitions."
+  ]
 }

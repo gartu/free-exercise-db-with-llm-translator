@@ -23,5 +23,10 @@
     "Side_Hop-Sprint/0.jpg",
     "Side_Hop-Sprint/1.jpg"
   ],
-  "id": "Side_Hop-Sprint"
+  "id": "Side_Hop-Sprint",
+  "instructions_fr": [
+    "Debout sur le côté d'un cône ou d'une haie.",
+    "Commencez cet exercice en bondissant latéralement au-dessus de l'obstacle, en rebondissant après votre atterrissage pour revenir à votre point de départ.",
+    "Sauter un nombre prescrit ou de répétitions le plus rapidement possible et terminer cet exercice en sprintant une courte distance à l'atterrissage du dernier saut."
+  ]
 }

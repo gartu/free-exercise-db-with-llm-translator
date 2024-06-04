@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back with your feet flat on the ground, or resting on a bench with your knees bent at a 90 degree angle. If you are resting your feet on a bench, place them three to four inches apart and point your toes inward so they touch.",
     "Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.",
@@ -23,5 +21,13 @@
     "Crunches/0.jpg",
     "Crunches/1.jpg"
   ],
-  "id": "Crunches"
+  "id": "Crunches",
+  "instructions_fr": [
+    "Allongez-vous à plat sur le dos, les pieds à plat sur le sol, ou reposant sur une banc avec les genoux pliés à un angle de 90 degrés. Si vous posez vos pieds sur une banc, placez-les à trois ou quatre pouces de distance et pointez vos orteils vers l'intérieur pour qu'ils se touchent.",
+    "Maintenant, posez légèrement les mains de chaque côté de votre tête en gardant les coudes vers l'intérieur. Astuce : ne verrouillez pas les doigts derrière votre tête.",
+    "Tout en poussant le bas de votre dos dans le sol pour mieux isoler vos muscles abdominaux, commencez à rouler vos épaules hors du sol.",
+    "Continuez à pousser aussi fort que possible avec votre bas du dos lorsque vous contractez vos abdominaux et expirez. Vos épaules ne doivent s'élever qu'à environ 10 cm du sol, et votre bas du dos doit rester au contact du sol. En haut du mouvement, contractez fortement vos abdominaux et maintenez la contraction pendant une seconde. Conseils : concentrez-vous sur un mouvement lent et contrôlé - ne vous trompez pas en utilisant de l'élan.",
+    "Après la contraction d'une seconde, commencez à redescendre lentement à la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

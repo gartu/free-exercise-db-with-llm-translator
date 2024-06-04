@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Begin a pushup position but with your elbows on the ground and resting on your forearms. Your arms should be bent at a 90 degree angle.",
     "Arch your back slightly out rather than keeping your back completely straight.",
@@ -22,5 +20,12 @@
     "Butt-Ups/0.jpg",
     "Butt-Ups/1.jpg"
   ],
-  "id": "Butt-Ups"
+  "id": "Butt-Ups",
+  "instructions_fr": [
+    "Commencez en position de pompes mais avec vos coudes à terre et reposant sur vos avant-bras. Vos bras doivent être pliés à un angle de 90 degrés.",
+    "Arch your back slightly out plutôt que de garder votre dos complètement droit.",
+    "Levez vos fesses vers le plafond en contractant fortement vos abdominaux pour réduire la distance entre votre cage thoracique et vos hanches. Le résultat final sera que vous vous retrouverez en position de pont élevé. Exhalez pendant cette partie du mouvement.",
+    "Revenez lentement à la position de départ en inspirant. Conseils : ne laissez pas votre dos se courber vers le bas.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

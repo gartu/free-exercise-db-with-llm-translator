@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "chest"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Get on your hands and knees next to an exercise ball.",
     "Place your elbows on top of the ball, keeping your arm out to your side. This will be your starting position.",
@@ -20,5 +18,10 @@
     "Chest_Stretch_on_Stability_Ball/0.jpg",
     "Chest_Stretch_on_Stability_Ball/1.jpg"
   ],
-  "id": "Chest_Stretch_on_Stability_Ball"
+  "id": "Chest_Stretch_on_Stability_Ball",
+  "instructions_fr": [
+    "Mettez-vous à genoux et à plat sur le ventre, à côté d'un ballon d'exercice.",
+    "Placez vos coudes sur le dessus de la balle, en gardant votre bras tendu sur le côté. Cette position sera votre position de départ.",
+    "Inclinez votre torse vers le sol en gardant votre coude au-dessus de la balle. Maintenez l'étirement pendant 20 à 30 secondes, puis répétez avec l'autre bras."
+  ]
 }

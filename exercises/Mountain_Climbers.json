@@ -21,5 +21,9 @@
     "Mountain_Climbers/0.jpg",
     "Mountain_Climbers/1.jpg"
   ],
-  "id": "Mountain_Climbers"
+  "id": "Mountain_Climbers",
+  "instructions_fr": [
+    "Commencez en position de pompes, en supportant votre poids par les mains et les orteils. En fléchissant le genou et la hanche, amenez une jambe jusqu'à ce que le genou se trouve environ sous la hanche. Cette position sera votre point de départ.",
+    "Inverser de manière explosive les positions des jambes, étendre la jambe pliée jusqu'à ce qu'elle soit droite et soutenue par l'orteil, et amener l'autre pied vers le haut avec la hanche et le genou fléchis. Répéter de manière alternée pendant 20 à 30 secondes."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "This exercise is best done with a partner. If you lack a partner, the ball can be thrown and retrieved or thrown against a wall.",
     "Begin standing a few meters in front of your partner, both facing the same direction. Begin holding the ball between your legs.",
@@ -21,5 +19,11 @@
     "Backward_Medicine_Ball_Throw/0.jpg",
     "Backward_Medicine_Ball_Throw/1.jpg"
   ],
-  "id": "Backward_Medicine_Ball_Throw"
+  "id": "Backward_Medicine_Ball_Throw",
+  "instructions_fr": [
+    "Cet exercice est idéalement réalisé avec un partenaire. Si vous ne disposez pas de partenaire, vous pouvez lancer et rattraper la balle ou la lancer contre un mur.",
+    "Commencez debout à quelques mètres devant votre partenaire, tous les deux face dans la même direction. Tenez le ballon entre vos jambes au départ.",
+    "Squat puis inversez brusquement la direction, revenant à une extension complète, et lancez le ballon par-dessus votre tête vers votre partenaire.",
+    "Votre partenaire peut ensuite vous renvoyer la balle. Répétez pour le nombre souhaité de répétitions."
+  ]
 }

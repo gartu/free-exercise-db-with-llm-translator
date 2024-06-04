@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lay flat on the floor with your arms next to your sides.",
     "Now bend your knees at around a 75 degree angle and lift your feet off the floor by around 2 inches.",
@@ -22,5 +20,12 @@
     "Bent-Knee_Hip_Raise/0.jpg",
     "Bent-Knee_Hip_Raise/1.jpg"
   ],
-  "id": "Bent-Knee_Hip_Raise"
+  "id": "Bent-Knee_Hip_Raise",
+  "instructions_fr": [
+    "Allongez-vous à plat sur le sol avec les bras le long du corps.",
+    "Maintenant, pliez les genoux à un angle d'environ 75 degrés et soulevez vos pieds du sol d'environ 2 pouces.",
+    "En utilisant vos abdominaux inférieurs, rapprochez vos genoux de vous tout en maintenant le pli de 75 degrés dans vos jambes. Continuez ce mouvement jusqu'à ce que vous soulevez vos hanches du sol en faisant rouler votre bassin vers l'arrière. Respirez pendant que vous exécutez cette partie du mouvement. Astuce : À la fin du mouvement, vos genoux doivent être au-dessus de votre poitrine.",
+    "Contractez vos abdominaux en haut du mouvement pendant une seconde, puis revenez lentement à la position de départ en inspirant. Conseils : maintenez un mouvement contrôlé en tout temps.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

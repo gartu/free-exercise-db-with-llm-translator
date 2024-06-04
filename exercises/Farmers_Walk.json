@@ -25,5 +25,10 @@
     "Farmers_Walk/0.jpg",
     "Farmers_Walk/1.jpg"
   ],
-  "id": "Farmers_Walk"
+  "id": "Farmers_Walk",
+  "instructions_fr": [
+    "Il existe divers équipements qui peuvent être utilisés pour la marche des agriculteurs. Ces derniers peuvent également être effectués avec des haltères lourds ou des barres courtes si ces équipements ne sont pas disponibles. Commencez par vous tenir debout entre les équipements.",
+    "Après avoir saisi les poignées, soulevez-les en appuyant sur vos talons, en gardant le dos droit et la tête levée.",
+    "Marcher en prenant des pas courts et rapides, et n'oubliez pas de respirer. Se déplacer sur une certaine distance, généralement entre 50 et 100 pieds, le plus rapidement possible."
+  ]
 }

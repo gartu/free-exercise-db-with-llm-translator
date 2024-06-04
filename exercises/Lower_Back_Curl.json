@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on your stomach with your arms out to your sides. This will be your starting position.",
     "Using your lower back muscles, extend your spine lifting your chest off of the ground. Do not use your arms to push yourself up. Keep your head up during the movement. Repeat for 10-20 repetitions."
@@ -19,5 +17,9 @@
     "Lower_Back_Curl/0.jpg",
     "Lower_Back_Curl/1.jpg"
   ],
-  "id": "Lower_Back_Curl"
+  "id": "Lower_Back_Curl",
+  "instructions_fr": [
+    "Allongez-vous sur le ventre, les bras tendus de part et d'autre du corps. C'est la position de départ.",
+    "En utilisant vos muscles du dos inférieur, étendez votre colonne vertébrale en soulevant votre poitrine du sol. Ne utilisez pas vos bras pour vous pousser. Gardez la tête levée pendant le mouvement. Répétez l'exercice de 10 à 20 fois."
+  ]
 }

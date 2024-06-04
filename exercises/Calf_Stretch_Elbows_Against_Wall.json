@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand facing a wall from a couple feet away.",
     "Lean against the wall, placing your weight on your forearms.",
@@ -20,5 +18,10 @@
     "Calf_Stretch_Elbows_Against_Wall/0.jpg",
     "Calf_Stretch_Elbows_Against_Wall/1.jpg"
   ],
-  "id": "Calf_Stretch_Elbows_Against_Wall"
+  "id": "Calf_Stretch_Elbows_Against_Wall",
+  "instructions_fr": [
+    "Debout face à un mur à quelques pieds de distance.",
+    "Appuyez-vous contre le mur en plaçant votre poids sur vos avant-bras.",
+    "Essayez de garder vos talons au sol. Maintenez la position pendant 10 à 20 secondes. Vous pouvez vous éloigner ou vous rapprocher du mur pour augmenter ou diminuer la difficulté, respectivement."
+  ]
 }

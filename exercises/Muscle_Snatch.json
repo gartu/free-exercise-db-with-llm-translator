@@ -24,5 +24,10 @@
     "Muscle_Snatch/0.jpg",
     "Muscle_Snatch/1.jpg"
   ],
-  "id": "Muscle_Snatch"
+  "id": "Muscle_Snatch",
+  "instructions_fr": [
+    "Commencez avec une barre chargée tenue à la position de la cuisse moyenne avec une prise large. Les pieds doivent être directement sous les hanches, les pieds tournant vers l'extérieur si nécessaire. Abbaissez les hanches, en gardant la poitrine relevée et la tête regardant vers l'avant. Les épaules devraient être juste devant la barre. Ce sera la position de départ.",
+    "Commencez le tirage en poussant sur l'avant des talons, en soulevant la barre. Passez à la seconde partie du tirage en étendant les hanches, les genoux et les chevilles, en poussant la barre vers le haut aussi rapidement que possible. La barre doit être proche du corps.",
+    "Continuez à soulever la barre jusqu'à la position verticale, en gardant les genoux tendus."
+  ]
 }

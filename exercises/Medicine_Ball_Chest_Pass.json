@@ -23,5 +23,12 @@
     "Medicine_Ball_Chest_Pass/0.jpg",
     "Medicine_Ball_Chest_Pass/1.jpg"
   ],
-  "id": "Medicine_Ball_Chest_Pass"
+  "id": "Medicine_Ball_Chest_Pass",
+  "instructions_fr": [
+    "Vous aurez besoin d'un partenaire pour cet exercice. En l'absence de partenaire, ce mouvement peut être exécuté contre un mur.",
+    "Commencez face à votre partenaire, tenant la medicine ball contre votre torse avec les deux mains.",
+    "Ramenez la balle vers votre poitrine, puis inversez le mouvement en étendant les coudes. Pour les applications sportives, vous pouvez faire un pas en avant lorsque vous lancez.",
+    "Votre partenaire doit attraper le ballon, et vous le renvoyer.",
+    "Recevez le lancer avec les deux mains à la hauteur de la poitrine."
+  ]
 }

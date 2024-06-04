@@ -21,5 +21,10 @@
     "Dumbbell_Floor_Press/0.jpg",
     "Dumbbell_Floor_Press/1.jpg"
   ],
-  "id": "Dumbbell_Floor_Press"
+  "id": "Dumbbell_Floor_Press",
+  "instructions_fr": [
+    "Allongez-vous par terre en tenant les haltères dans vos mains. Vos genoux peuvent être pliés. Commencez avec les poids complètement étendus au-dessus de vous.",
+    "Abaissez les poids jusqu'à ce que votre bras supérieur entre en contact avec le sol. Vous pouvez plier vos coudes pour mettre l'accent sur la taille et la force des triceps, ou pour vous concentrer sur l'angle de votre poitrine, en inclinant vos bras sur les côtés.",
+    "Arrêtez-vous en bas, puis amenez le poids ensemble en haut en étendant à travers les coudes."
+  ]
 }

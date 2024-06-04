@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a couple of dumbbells looking forward in front of a flat bench.",
     "Sit on the end of the bench with your legs together and the dumbbells behind your calves.",
@@ -23,5 +21,13 @@
     "Seated_Bent-Over_Rear_Delt_Raise/0.jpg",
     "Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
   ],
-  "id": "Seated_Bent-Over_Rear_Delt_Raise"
+  "id": "Seated_Bent-Over_Rear_Delt_Raise",
+  "instructions_fr": [
+    "Placez une paire d'haltères en face d'une banc plat, les poignées pointant vers vous.",
+    "Asseyez-vous sur le bout du banc avec les jambes jointes et les haltères derrière vos mollets.",
+    "Pliez-vous à la taille tout en gardant le dos droit pour prendre les haltères. Les paumes de vos mains doivent être tournées l'une vers l'autre lorsque vous les prenez.  C'est votre position de départ.",
+    "En gardant le torse penché vers l'avant et immobile, et les bras légèrement fléchis au niveau des coudes, soulevez les haltères droit sur les côtés jusqu'à ce que les deux bras soient parallèles au sol. Inspirez pendant que vous soulevez les poids. (Remarque: évitez de balancer le torse ou de ramener les bras vers l'arrière plutôt que sur les côtés.)",
+    "Après une contraction d'une seconde au sommet, abaissez lentement les haltères jusqu'à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

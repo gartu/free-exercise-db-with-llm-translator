@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "traps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grasp a cable bar attachment that is attached to a low pulley with a shoulder width or slightly wider overhand (palms facing down) grip.",
     "Stand erect close to the pulley with your arms extended in front of you holding the bar. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Cable_Shrugs/0.jpg",
     "Cable_Shrugs/1.jpg"
   ],
-  "id": "Cable_Shrugs"
+  "id": "Cable_Shrugs",
+  "instructions_fr": [
+    "Saisissez une barre d'attachement de câble qui est fixée à un poulie basse avec une prise à l'épaule ou légèrement plus large en poignée à l'envers (paumes vers le bas).",
+    "Debout, les jambes légèrement plus larges que la hanche, tenez-vous à la poignée de la machine à ramer avec les bras tendus devant vous. C'est votre position de départ.",
+    "Soulevez la barre en élévant les épaules le plus haut possible pendant que vous expirez. Maintenez la contraction en haut pendant une seconde. Astuce : Les bras doivent rester tendus à tout moment. Évitez d'utiliser les biceps pour aider à soulever la barre. Seules les épaules devraient bouger vers le haut et vers le bas.",
+    "Abaissez la barre vers sa position originale.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

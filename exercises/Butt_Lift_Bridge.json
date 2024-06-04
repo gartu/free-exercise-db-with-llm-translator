@@ -20,5 +20,10 @@
     "Butt_Lift_Bridge/0.jpg",
     "Butt_Lift_Bridge/1.jpg"
   ],
-  "id": "Butt_Lift_Bridge"
+  "id": "Butt_Lift_Bridge",
+  "instructions_fr": [
+    "Allongez-vous sur le dos, les mains le long du corps et les genoux pliés. Vos pieds doivent être espacés d'environ la largeur des épaules. C'est votre position de départ.",
+    "En poussant principalement avec vos talons, soulevez vos hanches du sol tout en gardant le dos droit. Respirez en effectuant cette partie du mouvement et maintenez la position pendant une seconde en haut.",
+    "Revenez lentement à la position de départ en inspirant."
+  ]
 }

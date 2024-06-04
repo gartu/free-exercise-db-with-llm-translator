@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lay on your side, supporting your weight on your forearm and on a foam roller placed on the outside of your lower leg. Your upper leg can either be on top of your lower leg, or you can cross it in front of you. This will be your starting position.",
     "Raise your hips off of the ground and begin to roll from below the knee to above the ankle on the side of your leg, pausing at points of tension for 10-30 seconds. Repeat on the other leg."
@@ -19,5 +17,9 @@
     "Peroneals-SMR/0.jpg",
     "Peroneals-SMR/1.jpg"
   ],
-  "id": "Peroneals-SMR"
+  "id": "Peroneals-SMR",
+  "instructions_fr": [
+    "Allongez-vous sur le côté, en supportant votre poids sur votre avant-bras et sur un rouleau en mousse placé à l'extérieur de votre mollet inférieur. Votre jambe supérieure peut reposer sur votre jambe inférieure ou vous pouvez la croiser devant vous. Cette position sera votre position de départ.",
+    "Soulevez vos hanches du sol et commencez à enrouler de la partie inférieure du genou jusqu'au dessus de la cheville sur le côté de votre jambe, en vous arrêtant aux points de tension pendant 10 à 30 secondes. Répétez de l'autre côté."
+  ]
 }

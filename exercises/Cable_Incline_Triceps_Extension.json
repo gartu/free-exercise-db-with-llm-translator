@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on incline an bench facing away from a high pulley machine that has a straight bar attachment on it.",
     "Grasp the straight bar attachment overhead with a pronated (overhand; palms down) narrow grip (less than shoulder width) and keep your elbows tucked in to your sides. Your upper arms should create around a 25 degree angle when measured from the floor.",
@@ -22,5 +20,12 @@
     "Cable_Incline_Triceps_Extension/0.jpg",
     "Cable_Incline_Triceps_Extension/1.jpg"
   ],
-  "id": "Cable_Incline_Triceps_Extension"
+  "id": "Cable_Incline_Triceps_Extension",
+  "instructions_fr": [
+    "Allongez-vous sur un banc incliné face à une machine à poulie haute qui possède un attachement de barre droite.",
+    "Saisissez la poignée droite de l'accessoire au-dessus de votre tête avec une poignée prononcée (en poirier ; paumes vers le bas) et un espacement étroit (inférieur à la largeur des épaules). Vos coudes doivent être rentrés sur les côtés. Vos bras supérieurs doivent former un angle d'environ 25 degrés par rapport au sol.",
+    "En gardant les bras supérieurs immobiles, étendez les bras tout en contractant les triceps. Respirez pendant cette partie du mouvement et maintenez la contraction pendant une seconde.",
+    "Revenez lentement à la position de départ.",
+    "Répétez le mouvement pour le nombre de répétitions recommandé."
+  ]
 }

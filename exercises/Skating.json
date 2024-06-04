@@ -23,5 +23,9 @@
     "Skating/0.jpg",
     "Skating/1.jpg"
   ],
-  "id": "Skating"
+  "id": "Skating",
+  "instructions_fr": [
+    "Le roller est une activité amusante qui peut être efficace pour améliorer la forme cardiovasculaire et l'endurance musculaire. Il nécessite une bonne coordination et un équilibre relativement bon. Il est nécessaire d'apprendre les bases du patinage, y compris le virage et l'arrêt, et de porter des protections pour éviter d'éventuelles blessures.",
+    "Vous pouvez patiner à un rythme confortable pendant 30 minutes d'affilée. Si vous recherchez un défi cardiovasculaire, faites du patinage intervalle - patinez rapidement pendant deux minutes toutes les cinq minutes, en utilisant les trois minutes restantes pour récupérer. Une personne de 150 lb brûlera généralement environ 175 calories en 30 minutes de patinage à un rythme confortable, similaire à une marche rapide."
+  ]
 }

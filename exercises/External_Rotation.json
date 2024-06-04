@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie sideways on a flat bench with one arm holding a dumbbell and the other hand on top of the bench folded so that you can rest your head on it.",
     "Bend the elbows of the arm holding the dumbbell so that it creates a 90-degree angle between the upper arm and the forearm. Tip: Keep the arm parallel to your torso.",
@@ -23,5 +21,13 @@
     "External_Rotation/0.jpg",
     "External_Rotation/1.jpg"
   ],
-  "id": "External_Rotation"
+  "id": "External_Rotation",
+  "instructions_fr": [
+    "Allongez-vous sur le côté sur un banc plat, un bras tenant un haltère et l'autre main posée sur le dessus du banc, pliée, de sorte que vous puissiez reposer votre tête dessus.",
+    "Pliez les coudés du bras tenant l'haltère afin de créer un angle de 90 degrés entre le bras supérieur et l'avant-bras. Conseils : gardez le bras parallèle au torse.",
+    "Maintenant, pliez le coude tout en gardant le bras supérieur immobile. De cette façon, le avant-bras sera parallèle au sol et perpendiculaire à votre tronc (Astuce : donc, le avant-bras sera directement en face de vous). Le bras supérieur restera près de votre torse et devrait être parallèle au sol (aligné avec votre torse en tout temps). Ce sera votre position de départ.",
+    "En respirant, faites une rotation externe de votre avant-bras de sorte que l'haltère soit soulevé en un mouvement de demi-cercle tout en maintenant le coude plié à 90 degrés. Continuez cette rotation externe jusqu'à ce que l'avant-bras soit perpendiculaire au sol et la poitrine pointant vers le plafond. À ce moment, maintenez la contraction pendant une seconde.",
+    "En inspirant, revenez lentement à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé, puis passez à l'autre bras."
+  ]
 }

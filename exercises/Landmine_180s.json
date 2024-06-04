@@ -24,5 +24,12 @@
     "Landmine_180s/0.jpg",
     "Landmine_180s/1.jpg"
   ],
-  "id": "Landmine_180s"
+  "id": "Landmine_180s",
+  "instructions_fr": [
+    "Placez une barre dans un accessoire de type \"landmine\" ou fixez-la solidement dans un coin. Chargez la barre avec un poids adapté.",
+    "Soulevez la barre du sol, amenez-la jusqu'à la hauteur de vos épaules avec les deux mains, en gardant les bras tendus devant vous. Adoptez une position large pour vos pieds. Cette position sera votre point de départ.",
+    "Exécutez le mouvement en faisant pivoter la partie supérieure du corps et les hanches tout en balançant le poids jusqu'à ce qu'il soit complètement tendu vers une côté. Gardez vos bras tendus tout au long de l'exercice.",
+    "Inversez le mouvement pour balancer le poids jusqu'au côté opposé.",
+    "Continuez à alterner le mouvement jusqu'à ce que la série soit terminée."
+  ]
 }

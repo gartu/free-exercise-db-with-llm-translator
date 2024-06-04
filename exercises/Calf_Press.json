@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform.",
     "Select an appropriate weight, and grasp the handles. This will be your starting position.",
@@ -21,5 +19,11 @@
     "Calf_Press/0.jpg",
     "Calf_Press/1.jpg"
   ],
-  "id": "Calf_Press"
+  "id": "Calf_Press",
+  "instructions_fr": [
+    "Ajustez le siège de manière à ce que vos jambes soient légèrement fléchies seulement dans la position de départ. Les balles de vos pieds doivent être fermement sur la plateforme.",
+    "Choisissez un poids approprié et saisissez les poignées. Ce sera votre position de départ.",
+    "Dégagez les jambes en étendant les genoux, en soulevant à peine le poids de la pile. Votre cheville doit être complètement fléchie, les orteils pointant vers le haut. Exécutez le mouvement en appuyant vers le bas à travers les boules de vos pieds autant que possible.",
+    "Après une brève pause, inversez le mouvement et répétez."
+  ]
 }

@@ -22,5 +22,11 @@
     "Barbell_Ab_Rollout/0.jpg",
     "Barbell_Ab_Rollout/1.jpg"
   ],
-  "id": "Barbell_Ab_Rollout"
+  "id": "Barbell_Ab_Rollout",
+  "instructions_fr": [
+    "Pour cet exercice, vous devrez adopter une position de pompes, mais au lieu d'appuyer vos mains sur le sol, vous saisirez une barre olympique (chargée avec 5 à 10 livres de chaque côté) à la place. Ce sera votre position de départ.",
+    "En gardant une légère arch dans votre dos, soulevez vos hanches et roulez le barbell vers vos pieds pendant que vous expirez. Astuce : Alors que vous exécutez le mouvement, vos fessiers devraient se contracter, vous devriez maintenir les abdominaux contractés et garder une posture dorsale à tout moment. De plus, vos bras devraient rester perpendiculaires au sol tout au long du mouvement. Si ce n'est pas le cas, vous travaillerez davantage les épaules et le dos que les abdominaux.",
+    "Après une seconde contraction en haut, commencez à faire rouler la barre vers l'avant jusqu'à la position de départ en inspirant lentement.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

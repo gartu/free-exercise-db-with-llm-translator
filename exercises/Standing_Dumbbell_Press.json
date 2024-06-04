@@ -20,5 +20,10 @@
     "Standing_Dumbbell_Press/0.jpg",
     "Standing_Dumbbell_Press/1.jpg"
   ],
-  "id": "Standing_Dumbbell_Press"
+  "id": "Standing_Dumbbell_Press",
+  "instructions_fr": [
+    "Debout, les pieds à la largeur des épaules, saisissez un haltère dans chaque main. Montez les haltères jusqu'à la hauteur de votre tête, les coudes écartés formant un angle d'environ 90 degrés. Cette position sera votre point de départ.",
+    "En maintenant une technique stricte sans propulsion des jambes ou en penchant vers l'arrière, étendez le coude pour soulever les poids ensemble directement au-dessus de votre tête.",
+    "Arrêtez-vous, puis ramenez lentement le poids à la position de départ."
+  ]
 }

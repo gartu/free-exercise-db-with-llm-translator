@@ -21,5 +21,11 @@
     "Standing_Concentration_Curl/0.jpg",
     "Standing_Concentration_Curl/1.jpg"
   ],
-  "id": "Standing_Concentration_Curl"
+  "id": "Standing_Concentration_Curl",
+  "instructions_fr": [
+    "Prenez un haltère dans votre main de travail, penchez-vous en avant. Laissez votre bras de travail pendre perpendiculairement au sol avec le coude pointant vers l'extérieur. Cette position sera votre position de départ.",
+    "Fléchissez le coude pour soulever le poids, en gardant le bras supérieur immobile. En haut de la répétition, contractez les biceps et faites une pause.",
+    "Abaissez l'haltère jusqu'à la position de départ.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

@@ -20,5 +20,9 @@
     "Upward_Stretch/0.jpg",
     "Upward_Stretch/1.jpg"
   ],
-  "id": "Upward_Stretch"
+  "id": "Upward_Stretch",
+  "instructions_fr": [
+    "Étendez les deux mains directement au-dessus de votre tête, les paumes en contact.",
+    "Poussez lentement vos mains vers le haut et l'arrière, en gardant le dos droit."
+  ]
 }

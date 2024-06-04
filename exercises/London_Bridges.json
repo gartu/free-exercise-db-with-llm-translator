@@ -23,5 +23,11 @@
     "London_Bridges/0.jpg",
     "London_Bridges/1.jpg"
   ],
-  "id": "London_Bridges"
+  "id": "London_Bridges",
+  "instructions_fr": [
+    "Fixez une corde d'escalade à une poutre ou un membre transversal haut. En dessous, assurez-vous que la barre de la machine Smith soit verrouillée avec les sécurités et ne puisse pas bouger. Alternativement, une boîte sécurisée pourrait également être utilisée.",
+    "Debout sur la barre, utilisez la corde pour vous équilibrer. Ce sera votre position de départ.",
+    "En gardant votre corps droit, penchez-vous en arrière et abaissez votre corps en déplaçant lentement la corde de la main vers l'autre. Continuez jusqu'à ce que vous soyez perpendiculaire au sol.",
+    "En gardant le corps droit, inversez le mouvement, en retournant la paume vers l'avant jusqu'à la position de départ."
+  ]
 }

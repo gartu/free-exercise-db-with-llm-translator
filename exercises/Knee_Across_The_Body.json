@@ -20,5 +20,9 @@
     "Knee_Across_The_Body/0.jpg",
     "Knee_Across_The_Body/1.jpg"
   ],
-  "id": "Knee_Across_The_Body"
+  "id": "Knee_Across_The_Body",
+  "instructions_fr": [
+    "Allongez-vous sur le sol avec votre jambe droite tendue. Pliez votre jambe gauche et abaissez-la à travers votre corps, en maintenant le genou vers le sol avec votre main droite. (Le genou n'a pas besoin de toucher le sol si vous êtes tendu.)",
+    "Placez votre bras gauche confortablement à vos côtés et tournez la tête vers la gauche. Imaginez que vous avez un poids attaché à votre queue. Laissez votre queue se replier vers le sol alors que votre poitrine s'étend dans la direction opposée pour étirer votre bas du dos. Alternez les côtés."
+  ]
 }

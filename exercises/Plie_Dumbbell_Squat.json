@@ -25,5 +25,12 @@
     "Plie_Dumbbell_Squat/0.jpg",
     "Plie_Dumbbell_Squat/1.jpg"
   ],
-  "id": "Plie_Dumbbell_Squat"
+  "id": "Plie_Dumbbell_Squat",
+  "instructions_fr": [
+    "Tenez une haltère à la base avec les deux mains et tenez-vous droit. Déplacez vos jambes de sorte qu'elles soient plus larges que la largeur des épaules, les genoux légèrement fléchis.",
+    "Vos orteils doivent être tournés vers l'extérieur. Remarque : vos bras doivent rester immobiles pendant l'exécution de l'exercice. C'est la position de départ.",
+    "Fléchissez lentement les genoux et baissez les jambes jusqu'à ce que vos cuisses soient parallèles au sol. Assurez-vous d'inspirer pendant cette partie excentrique de l'exercice.",
+    "Appuyez principalement avec le talon du pied pour ramener le corps en position initiale tout en expirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

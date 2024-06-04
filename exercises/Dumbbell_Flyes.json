@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "chest"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on a flat bench with a dumbbell on each hand resting on top of your thighs. The palms of your hand will be facing each other.",
     "Then using your thighs to help raise the dumbbells, lift the dumbbells one at a time so you can hold them in front of you at shoulder width with the palms of your hands facing each other. Raise the dumbbells up like you're pressing them, but stop and hold just before you lock out. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Dumbbell_Flyes/0.jpg",
     "Dumbbell_Flyes/1.jpg"
   ],
-  "id": "Dumbbell_Flyes"
+  "id": "Dumbbell_Flyes",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat avec un haltère dans chaque main, reposant sur le dessus de vos cuisses. Les paumes de vos mains seront tournées l'une vers l'autre.",
+    "Ensuite, utilisez vos cuisses pour aider à soulever les haltères, soulevez les haltères un par un de sorte que vous puissiez les tenir devant vous à la largeur des épaules avec les paumes de vos mains face à face. Soulevez les haltères comme si vous les pressiez, mais arrêtez-vous et maintenez-les juste avant de verrouiller. Cette position sera votre position de départ.",
+    "En gardant un léger angle au niveau des coudes pour prévenir toute tension au niveau du tendon du biceps, abaissez les bras sur les côtés en décrivant une large arc de cercle jusqu'à ce que vous ressentiez une étirement au niveau de la poitrine. Inspirez pendant cette partie du mouvement. Conseils : Gardez à l'esprit que tout au long du mouvement, les bras doivent rester immobiles ; le mouvement ne doit s'effectuer qu'au niveau de l'épaule.",
+    "Ramenez vos bras en arrière vers la position de départ en contractant les muscles de votre poitrine et en respirant. Conseils : Assurez-vous d'utiliser le même arc de mouvement utilisé pour baisser les poids.",
+    "Maintenez la position contractée pendant une seconde et répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

@@ -24,5 +24,12 @@
     "Bodyweight_Flyes/0.jpg",
     "Bodyweight_Flyes/1.jpg"
   ],
-  "id": "Bodyweight_Flyes"
+  "id": "Bodyweight_Flyes",
+  "instructions_fr": [
+    "Placez deux barres EZ chargées de manière égale sur le sol à côté l'une de l'autre. Assurez-vous qu'elles peuvent rouler.",
+    "Prenez une position de pompes au-dessus des barres, en supportant votre poids sur vos orteils et vos mains, avec les bras tendus et le corps droit.",
+    "Placez vos mains sur les barres. Cette position sera votre position de départ.",
+    "En utilisant un mouvement lent et contrôlé, éloignez vos mains de la ligne médiane de votre corps, en enroulant les barres l'une de l'autre. Inspirez pendant cette partie du mouvement.",
+    "Après avoir éloigné les barres le plus possible, revenez à la position de départ en les ramenant ensemble. Expirez pendant que vous effectuez ce mouvement."
+  ]
 }

@@ -21,5 +21,11 @@
     "Barbell_Incline_Shoulder_Raise/0.jpg",
     "Barbell_Incline_Shoulder_Raise/1.jpg"
   ],
-  "id": "Barbell_Incline_Shoulder_Raise"
+  "id": "Barbell_Incline_Shoulder_Raise",
+  "instructions_fr": [
+    "Allongez-vous sur un banc incliné. Avec une prise de largeur moyenne (une prise légèrement plus large que la largeur des épaules), soulevez la barre du support et tenez-la droite au-dessus de vous avec les bras tendus. Il s'agit de votre position de départ.",
+    "En gardant les bras droits, soulevez la barre en protractant vos omoplates, en relevant les épaules du banc pendant que vous expirez.",
+    "Ramenez la barre à la position de départ pendant que vous respirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

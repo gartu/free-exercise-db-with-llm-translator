@@ -21,5 +21,10 @@
     "Knee_Circles/0.jpg",
     "Knee_Circles/1.jpg"
   ],
-  "id": "Knee_Circles"
+  "id": "Knee_Circles",
+  "instructions_fr": [
+    "Debout, les jambes jointes et les mains le long du corps.",
+    "Maintenant, déplacez vos genoux en mouvement circulaire tout en respirant normalement.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

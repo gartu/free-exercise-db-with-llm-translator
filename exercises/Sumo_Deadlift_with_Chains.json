@@ -29,5 +29,12 @@
     "Sumo_Deadlift_with_Chains/0.jpg",
     "Sumo_Deadlift_with_Chains/1.jpg"
   ],
-  "id": "Sumo_Deadlift_with_Chains"
+  "id": "Sumo_Deadlift_with_Chains",
+  "instructions_fr": [
+    "Vous pouvez attacher les chaînes aux manches de la barre, ou simplement poser le milieu sur la barre pour augmenter la charge lors de la remontée. Essayez de garder les extrémités des chaînes à l'écart des disques afin de ne pas les toucher lorsque vous abaissez la charge.",
+    "Commencez avec une barre chargée au sol. Approchez-vous de la barre de sorte qu'elle intersecte le milieu des pieds. Les pieds doivent être très écartés, près des colliers. Pliez les hanches pour saisir la barre. Les bras doivent être directement sous les épaules, à l'intérieur des jambes, et vous pouvez utiliser une poignée prononnée, une poignée mixte ou une poignée en crochet. Décontractez vos épaules, ce qui a pour effet de allonger vos bras.",
+    "Respirez, puis baissez les hanches en gardant la tête et le torse vers l'avant et le haut. Poussez sur le sol en écartant les pieds, en posant votre poids sur la moitié arrière de vos pieds. Étirez vos hanches et vos genoux.",
+    "En passant la barre au niveau des genoux, penchez-vous en arrière et poussez les hanches vers la barre, en rapprochant les omoplates.",
+    "Ramenez le poids au sol en fléchissant les hanches et en contrôlant le poids à la descente."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on an exercise ball with your left side of the torso (waist, hips and shoulder) pressed against the ball.",
     "Your feet should be on the floor while your legs are crossed and hanging from the ball. Hold a weighted plate with your right hand directly to the right side of your head. Tip: Make sure the smooth side of the plate is resting against your head.",
@@ -24,5 +22,14 @@
     "Weighted_Ball_Side_Bend/0.jpg",
     "Weighted_Ball_Side_Bend/1.jpg"
   ],
-  "id": "Weighted_Ball_Side_Bend"
+  "id": "Weighted_Ball_Side_Bend",
+  "instructions_fr": [
+    "Pour commencer, allongez-vous sur une balle d'exercice en appuyant votre côté gauche du torse (taille, hanches et épaule) contre la balle.",
+    "Les pieds doivent être posés sur le sol tandis que les jambes sont croisées et pendent de la balle. Tenez une plaque lestée de votre main droite directement du côté droit de votre tête. Astuce : Assurez-vous que le côté lisse de la plaque repose contre votre tête.",
+    "Placez votre bras gauche sur votre torse de sorte que votre paume se trouve sur vos obliques. Il devrait y avoir un angle droit entre votre avant-bras et votre bras supérieur gauches. C'est la position de départ.",
+    "Soulevez le côté de votre torse en fléchissant latéralement à la taille tout en expirant.",
+    "Maintenez la contraction pendant une seconde, puis redescendez lentement à la position de départ tout en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé.",
+    "Changez de côté et répétez l'exercice."
+  ]
 }

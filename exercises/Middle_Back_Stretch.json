@@ -21,5 +21,9 @@
     "Middle_Back_Stretch/0.jpg",
     "Middle_Back_Stretch/1.jpg"
   ],
-  "id": "Middle_Back_Stretch"
+  "id": "Middle_Back_Stretch",
+  "instructions_fr": [
+    "Tenez-vous debout, les pieds à la largeur des épaules, les mains sur les hanches.",
+    "Tournez votre taille jusqu'à ce que vous ressentiez une étirement. Maintenez la position pendant 10 à 15 secondes, puis tournez de l'autre côté."
+  ]
 }

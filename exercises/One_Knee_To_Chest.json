@@ -22,5 +22,11 @@
     "One_Knee_To_Chest/0.jpg",
     "One_Knee_To_Chest/1.jpg"
   ],
-  "id": "One_Knee_To_Chest"
+  "id": "One_Knee_To_Chest",
+  "instructions_fr": [
+    "Commencez par vous allonger sur le sol.",
+    "Étendez une jambe droite et ramenez l'autre genou à votre poitrine. Tenez-vous sous le genou pour protéger la rotule.",
+    "Tirez doucement ce genou vers votre nez.",
+    "Changez de côté. Cela étire les fessiers et le bas du dos de la jambe fléchie, ainsi que le flexeur de l'hanche de la jambe tendue."
+  ]
 }

@@ -22,5 +22,10 @@
     "Heavy_Bag_Thrust/0.jpg",
     "Heavy_Bag_Thrust/1.jpg"
   ],
-  "id": "Heavy_Bag_Thrust"
+  "id": "Heavy_Bag_Thrust",
+  "instructions_fr": [
+    "Utilisez un sac lourd pour cet exercice. Prenez une posture droite à côté du sac, les pieds écarés, plutôt larges. Placez votre main sur le sac à environ la hauteur de la poitrine. \tCeci sera votre position de départ.",
+    "Commencez par tourner à la taille, en poussant le sac vers l'avant aussi fort que possible. Exécutez rapidement ce mouvement en repoussant le sac loin de votre corps.",
+    "Recevez le sac lors de son retour en inversant ces étapes."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand next to a chair, which you may hold onto as a support. Stand on one leg. This will be your starting position.",
     "Keeping your leg straight, raise it as far out to the side as possible, and swing it back down, allowing it to cross the opposite leg.",
@@ -20,5 +18,10 @@
     "Side_Leg_Raises/0.jpg",
     "Side_Leg_Raises/1.jpg"
   ],
-  "id": "Side_Leg_Raises"
+  "id": "Side_Leg_Raises",
+  "instructions_fr": [
+    "Debout à côté d'une chaise, que vous pourrez utiliser comme support. Debout sur une seule jambe. C'est votre position de départ.",
+    "En gardant la jambe tendue, levez-la le plus loin possible sur les côtés, puis ramenez-la vers vous en la laissant traverser l'autre jambe.",
+    "Répétez ce mouvement de balançoement 5 à 10 fois, en augmentant la gamme de mouvement à chaque fois."
+  ]
 }

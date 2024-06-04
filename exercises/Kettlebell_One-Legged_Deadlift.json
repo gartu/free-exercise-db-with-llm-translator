@@ -21,5 +21,10 @@
     "Kettlebell_One-Legged_Deadlift/0.jpg",
     "Kettlebell_One-Legged_Deadlift/1.jpg"
   ],
-  "id": "Kettlebell_One-Legged_Deadlift"
+  "id": "Kettlebell_One-Legged_Deadlift",
+  "instructions_fr": [
+    "Tenez une kettlebell par la poignée d'une seule main. Debout sur une seule jambe, du même côté que vous tenez la kettlebell.",
+    "En gardant ce genou légèrement plié, effectuez un deadlift à jambe raide en vous penchant au niveau des hanches, en étendant votre jambe libre derrière vous pour l'équilibre.",
+    "Continuez à descendre la kettlebell jusqu'à ce que vous soyez parallèle au sol, puis revenez à la position debout."
+  ]
 }

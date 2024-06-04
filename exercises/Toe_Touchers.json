@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, lie down on the floor or an exercise mat with your back pressed against the floor. Your arms should be lying across your sides with the palms facing down.",
     "Your legs should be touching each other. Slowly elevate your legs up in the air until they are almost perpendicular to the floor with a slight bend at the knees. Your feet should be parallel to the floor.",
@@ -23,5 +21,13 @@
     "Toe_Touchers/0.jpg",
     "Toe_Touchers/1.jpg"
   ],
-  "id": "Toe_Touchers"
+  "id": "Toe_Touchers",
+  "instructions_fr": [
+    "Pour commencer, allongez-vous sur le sol ou sur un tapis d'exercice avec le dos pressé contre le sol. Vos bras doivent être allongés de part et d'autre de votre corps, les paumes tournées vers le bas.",
+    "Vos jambes doivent être jointes. Soulevez lentement vos jambes dans les airs jusqu'à ce qu'elles soient presque perpendiculaires au sol, avec un léger angle au niveau des genoux. Vos pieds doivent être parallèles au sol.",
+    "Déplacez vos bras de manière à ce qu'ils soient complètement tendus à un angle de 45 degrés par rapport au sol. Cette position est la position de départ.",
+    "En gardant votre dos inférieur appuyer contre le sol, soulevez lentement votre torse et utilisez vos mains pour essayer de toucher vos orteils. N'oubliez pas d'expirer en exécutant cette partie de l'exercice.",
+    "Commencez lentement à baisser votre torse et vos bras jusqu'à la position de départ tout en inspirant. N'oubliez pas de garder vos bras tendus vers vos orteils.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -23,5 +23,13 @@
     "Standing_Military_Press/0.jpg",
     "Standing_Military_Press/1.jpg"
   ],
-  "id": "Standing_Military_Press"
+  "id": "Standing_Military_Press",
+  "instructions_fr": [
+    "Commencez par placer une barre sur un rack à squat à la hauteur de la poitrine. Une fois les poids sélectionnés, saisissez la barre en utilisant une poignée prononcée (les paumes face à l'avant). Assurez-vous de saisir la barre plus largement que la largeur des épaules.",
+    "Foncez légèrement les genoux et placez la barre sur votre os du cou. Soulevez la barre en la gardant posée sur votre poitrine. Faites un pas en arrière et positionnez vos pieds à la largeur des épaules l'un de l'autre.",
+    "Une fois que vous avez saisi la barre avec la longueur de prise correcte, soulevez la barre au-dessus de votre tête en verrouillant vos bras. Tenez-vous à environ hauteur des épaules et légèrement devant votre tête. C'est votre position de départ.",
+    "Abaissez lentement la barre jusqu'au niveau de la collerette pendant que vous inspirez.",
+    "Remettez la barre en position de départ en expirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

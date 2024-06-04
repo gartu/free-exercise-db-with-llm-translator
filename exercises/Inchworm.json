@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand with your feet close together. Keeping your legs straight, stretch down and put your hands on the floor directly in front of you. This will be your starting position.",
     "Begin by walking your hands forward slowly, alternating your left and your right. As you do so, bend only at the hip, keeping your legs straight.",
@@ -22,5 +20,12 @@
     "Inchworm/0.jpg",
     "Inchworm/1.jpg"
   ],
-  "id": "Inchworm"
+  "id": "Inchworm",
+  "instructions_fr": [
+    "Debout, les pieds rapprochés. En gardant les jambes tendues, penchez-vous vers l'avant et placez vos mains à plat sur le sol devant vous. Cette position sera votre point de départ.",
+    "Commencez en avançant lentement vos mains en alternant votre main gauche et votre main droite. Pendant que vous faites cela, pliez uniquement au niveau de la hanche tout en gardant les jambes droites.",
+    "Continuez jusqu'à ce que votre corps soit parallèle au sol en position de pompes.",
+    "Maintenant, gardez vos mains en place et déplacez lentement vos pieds de quelques centimètres à la fois, en prenant des pas courts et lents.",
+    "Continuez à marcher jusqu'à ce que vos pieds soient au niveau de vos mains, en gardant les jambes droites pendant que vous le faites."
+  ]
 }

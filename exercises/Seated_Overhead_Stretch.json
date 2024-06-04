@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit up straight on an exercise mat.",
     "Touch the soles of your feet together with your feet six to eight inches in front of your hips.",
@@ -21,5 +19,11 @@
     "Seated_Overhead_Stretch/0.jpg",
     "Seated_Overhead_Stretch/1.jpg"
   ],
-  "id": "Seated_Overhead_Stretch"
+  "id": "Seated_Overhead_Stretch",
+  "instructions_fr": [
+    "Asseyez-vous droit sur un tapis d'exercice.",
+    "Touchez les semelles de vos pieds ensemble, en plaçant vos pieds à environ 6 à 8 pouces devant vos hanches.",
+    "Placez une main à plat sur le sol à côté de vous et votre autre main derrière la tête.",
+    "Montez votre coude vers le plafond tout en inclinant votre torse du côté opposé. Maintenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ]
 }

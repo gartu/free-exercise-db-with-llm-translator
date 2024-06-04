@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Select the desired weight and lay down face up on the bench of a seated row machine that has a rope attached to it. Your head should be pointing towards the attachment.",
     "Grab the outside of the rope ends with your palms facing each other (neutral grip).",
@@ -23,5 +21,13 @@
     "Low_Cable_Triceps_Extension/0.jpg",
     "Low_Cable_Triceps_Extension/1.jpg"
   ],
-  "id": "Low_Cable_Triceps_Extension"
+  "id": "Low_Cable_Triceps_Extension",
+  "instructions_fr": [
+    "Choisissez le poids désiré et allongez-vous sur le dos sur le banc d'une machine à rangée assise qui a une corde attachée. Votre tête devrait être tournée vers l'attachement.",
+    "Prenez les extrémités de la corde avec le paume de vos mains face à face (prise neutre).",
+    "Positionnez vos coudes de manière à ce qu'ils forment un angle de 90 degrés et que vos bras supérieur soient perpendiculaires (angle de 90 degrés) à votre torse. Astuce : Gardez les coudes près du corps et assurez-vous que les bras supérieurs pointent vers le plafond tandis que les avant-bras pointent vers la poulie au-dessus de votre tête. Cette position sera votre position de départ.",
+    "En expirant, étendez les avant-bras jusqu'à ce qu'ils soient droits et verticaux. Les bras supérieurs et les coudes restent immobiles tout au long du mouvement. Seules les avant-bras doivent bouger. Contractez durement les triceps pendant une seconde.",
+    "En respirant lentement, revenez à la position de départ.",
+    "Répétez le mouvement pour le nombre de répétitions recommandé."
+  ]
 }

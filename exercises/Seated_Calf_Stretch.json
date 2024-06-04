@@ -22,5 +22,11 @@
     "Seated_Calf_Stretch/0.jpg",
     "Seated_Calf_Stretch/1.jpg"
   ],
-  "id": "Seated_Calf_Stretch"
+  "id": "Seated_Calf_Stretch",
+  "instructions_fr": [
+    "Asseyez-vous droit sur un tapis d'exercice.",
+    "Pliez un genou et posez ce pied sur le sol pour stabiliser le torse.",
+    "Écarinez votre autre jambe et pliez votre cheville.",
+    "En utilisant une bande, une serviette ou votre main si vous pouvez l'atteindre, tirez les orteils vers vous. Maintenez la position pendant 10 à 20 secondes, puis changez de côté."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "adductors"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Begin in a pushup position on the floor. This will be your starting position.",
     "Using both legs, jump forward landing with your feet next to your hands. Keep your head up as you do so.",
@@ -20,5 +18,10 @@
     "Groiners/0.jpg",
     "Groiners/1.jpg"
   ],
-  "id": "Groiners"
+  "id": "Groiners",
+  "instructions_fr": [
+    "Commencez en position de pompage au sol. Ce sera votre position de départ.",
+    "En utilisant les deux jambes, sautez en avant en atterrissant les pieds à côté de vos mains. Gardez la tête levée pendant que vous le faites.",
+    "Revenez à la position de départ et répétez immédiatement le mouvement, en continuant pendant 10 à 20 répétitions."
+  ]
 }

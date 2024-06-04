@@ -22,5 +22,10 @@
     "Chest_Push_from_3_point_stance/0.jpg",
     "Chest_Push_from_3_point_stance/1.jpg"
   ],
-  "id": "Chest_Push_from_3_point_stance"
+  "id": "Chest_Push_from_3_point_stance",
+  "instructions_fr": [
+    "Commencez en position à trois points, accroupi avec le dos plat et une main au sol. Placez la balle médicamenteuse directement devant vous.",
+    "Pour commencer, faites votre premier pas en ramenant le ballon à votre poitrine, en plaçant les deux mains pour vous préparer à le lancer.",
+    "Alors que vous exécutez la seconde étape, libérez explosivement la balle en avant aussi fort que possible."
+  ]
 }

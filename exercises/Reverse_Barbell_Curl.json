@@ -21,5 +21,11 @@
     "Reverse_Barbell_Curl/0.jpg",
     "Reverse_Barbell_Curl/1.jpg"
   ],
-  "id": "Reverse_Barbell_Curl"
+  "id": "Reverse_Barbell_Curl",
+  "instructions_fr": [
+    "Debout, le torse droit, tenez une barre aux larges des épaules, les coudes près du corps. La paume de vos mains doit être tournée vers le bas (prise prononnée).  C'est votre position de départ.",
+    "En maintenant les bras supérieurs fixes, effectuez des curls en soulevant les poids tout en contractant les biceps pendant que vous respirez. Seules les avant-bras devraient bouger. Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que l'haltère soit à la hauteur de vos épaules. Maintenez cette position pendant une seconde en contractant le muscle.",
+    "Ramenez lentement la barre vers sa position initiale pendant que vous respirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

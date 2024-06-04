@@ -22,5 +22,11 @@
     "One_Arm_Lat_Pulldown/0.jpg",
     "One_Arm_Lat_Pulldown/1.jpg"
   ],
-  "id": "One_Arm_Lat_Pulldown"
+  "id": "One_Arm_Lat_Pulldown",
+  "instructions_fr": [
+    "Choisissez un poids approprié et ajustez le genouillère pour vous maintenir en place. Prenez la poignée en poigne de main. Ce sera votre position de départ.",
+    "Tirez sur la poignée vers le bas, en serrant votre coude contre votre côté tout en fléchissant le coude.",
+    "Arrêtez-vous au bas du mouvement, puis ramenez lentement la poignée dans la position de départ.",
+    "Pour les multiples répétitions, évitez de ramener complètement le poids pour maintenir la tension sur les muscles travaillés."
+  ]
 }

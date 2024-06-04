@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand up with a dumbbell in each hand being held at arms length. The elbows should be close to the torso. Your legs should be at about shoulder's width apart from each other.",
     "Rotate the palms of the hands so that they are facing inward in a neutral position. This will be your starting position.",
@@ -24,5 +22,14 @@
     "Standing_Inner-Biceps_Curl/0.jpg",
     "Standing_Inner-Biceps_Curl/1.jpg"
   ],
-  "id": "Standing_Inner-Biceps_Curl"
+  "id": "Standing_Inner-Biceps_Curl",
+  "instructions_fr": [
+    "Tenez-vous debout avec un haltère dans chaque main, tenue à la longueur du bras. Les coudes doivent être proches du corps. Vos jambes doivent être à peu près à la largeur des épaules.",
+    "Faites pivoter les paumes des mains de sorte qu'elles soient tournées vers l'intérieur, dans une position neutre. Cette position sera votre point de départ.",
+    "En maintenant les bras supérieurs immobiles, soulevez les poids en contractant les biceps pendant que vous expirez. Votre poignet doit se tourner de telle sorte que lorsque les poids sont complètement levés, vous ayez une poignée prononcée (paumes vers le haut).",
+    "Seuls les avant-bras doivent bouger. Poursuivre le mouvement jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient au niveau des épaules. Astuce : Maintenir les avant-bras alignés avec les deltoïdes externes.",
+    "Maintenez la position contractée pendant une seconde en contractant les biceps.",
+    "Ramenez lentement les haltères à la position de départ pendant que vous respirez. N'oubliez pas de tourner les poignets pendant que vous abaissez la charge pour revenir à une prise neutre.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

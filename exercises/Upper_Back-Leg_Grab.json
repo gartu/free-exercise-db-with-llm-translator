@@ -20,5 +20,9 @@
     "Upper_Back-Leg_Grab/0.jpg",
     "Upper_Back-Leg_Grab/1.jpg"
   ],
-  "id": "Upper_Back-Leg_Grab"
+  "id": "Upper_Back-Leg_Grab",
+  "instructions_fr": [
+    "En position assise, penchez-vous en avant pour enlacer vos cuisses par-dessous avec les deux bras.",
+    "Gardez les genoux ensemble et les jambes étendues en ramenant la poitrine vers les genoux. Vous pouvez également étirer le milieu du dos en éloignant le dos des genoux lorsque vous les serrez contre vous."
+  ]
 }

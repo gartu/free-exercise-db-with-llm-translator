@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on a flat bench face down with one arm holding a dumbbell and the other hand on top of the bench folded so that you can rest your head on it.",
     "Bend the elbows of the arm holding the dumbbell so that it creates a 90-degree angle between the upper arm and the forearm.",
@@ -23,5 +21,13 @@
     "Dumbbell_Lying_Pronation/0.jpg",
     "Dumbbell_Lying_Pronation/1.jpg"
   ],
-  "id": "Dumbbell_Lying_Pronation"
+  "id": "Dumbbell_Lying_Pronation",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat, le visage vers le bas, avec un bras tenant un haltère et la main de l'autre bras posée sur le dessus du banc, pliée, afin que vous puissiez reposer votre tête dessus.",
+    "Pliez les coudés du bras tenant l'haltère de manière à créer un angle droit entre le bras supérieur et l'avant-bras.",
+    "Maintenant, soulevez le bras supérieur de sorte que le avant-bras soit perpendiculaire au sol et que le bras supérieur soit perpendiculaire à votre torse. Conseil : Le bras supérieur devrait être parallèle au sol et également former un angle de 90 degrés avec votre torse. Ce sera votre position de départ.",
+    "En expirant, effectuez une rotation externe de votre avant-bras de sorte que l'haltère soit soulevé vers l'avant tout en maintenant le pli de 90 degrés entre les bras supérieurs et l'avant-bras. Vous continuerez cette rotation externe jusqu'à ce que votre avant-bras soit parallèle au sol. À ce stade, vous maintiendrez la contraction pendant une seconde.",
+    "En respirant, revenez lentement à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

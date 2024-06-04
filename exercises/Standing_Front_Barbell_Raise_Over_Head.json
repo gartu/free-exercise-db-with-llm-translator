@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
     "Your feet should be shoulder width apart from each other. Your elbows should be slightly bent. This is the starting position.",
@@ -22,5 +20,12 @@
     "Standing_Front_Barbell_Raise_Over_Head/0.jpg",
     "Standing_Front_Barbell_Raise_Over_Head/1.jpg"
   ],
-  "id": "Standing_Front_Barbell_Raise_Over_Head"
+  "id": "Standing_Front_Barbell_Raise_Over_Head",
+  "instructions_fr": [
+    "Pour commencer, tenez-vous droit avec une barre en mains. Vos paumes doivent être orientées vers le bas et votre prise doit être légèrement plus étroite que la largeur des épaules.",
+    "Vos pieds doivent être à la largeur des épaules. Vos coudes doivent être légèrement pliés. Cette position est la position de départ.",
+    "Soulevez la barre jusqu'à ce qu'elle soit directement au-dessus de votre tête en expirant. Assurez-vous de garder vos coudes légèrement fléchis lors de chaque répétition.",
+    "Une fois que vous ressentez la contraction, commencez à redescendre le barreau vers la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

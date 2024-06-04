@@ -24,5 +24,11 @@
     "Cable_Deadlifts/0.jpg",
     "Cable_Deadlifts/1.jpg"
   ],
-  "id": "Cable_Deadlifts"
+  "id": "Cable_Deadlifts",
+  "instructions_fr": [
+    "Déplacez les câbles au bas des tours et sélectionnez un poids approprié. Tenez-vous droit entre les montants.",
+    "Pour commencer, accroupissez-vous en fléchissant les hanches et les genoux jusqu'à ce que vous puissiez atteindre les poignées.",
+    "Après les avoir saisies, commencez votre ascension. En vous appuyant sur vos talons, étendez vos hanches et vos genoux tout en gardant les mains le long de votre corps. Gardez la tête et la poitrine relevées pendant tout le mouvement.",
+    "Une fois la position debout complète atteinte, retournez à la position de départ et répétez l'exercice."
+  ]
 }

@@ -23,5 +23,11 @@
     "Dumbbell_Step_Ups/0.jpg",
     "Dumbbell_Step_Ups/1.jpg"
   ],
-  "id": "Dumbbell_Step_Ups"
+  "id": "Dumbbell_Step_Ups",
+  "instructions_fr": [
+    "Tenez-vous droit en tenant un haltère dans chaque main (les paumes face au côté de vos jambes).",
+    "Placez le pied droit sur la plateforme surélevée. Montez sur la plateforme en étendant l'hip et le genou de votre jambe droite. Utilisez principalement les talons pour soulever le reste de votre corps et placez le pied de la jambe gauche sur la plateforme également. Respirez en exécutant la force nécessaire pour monter.",
+    "Descendez en position en pliant la hanche et le genou de la jambe droite tout en inspirant. Revenez à la position debout en déplaçant le pied droit vers la position initiale, côte à côte avec le pied gauche.",
+    "Répétez avec la jambe droite pendant le nombre de répétitions recommandé, puis exécutez avec la jambe gauche."
+  ]
 }

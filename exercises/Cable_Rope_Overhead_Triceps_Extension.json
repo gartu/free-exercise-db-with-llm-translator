@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a rope to the bottom pulley of the pulley machine.",
     "Grasping the rope with both hands, extend your arms with your hands directly above your head using a neutral grip (palms facing each other). Your elbows should be in close to your head and the arms should be perpendicular to the floor with the knuckles aimed at the ceiling. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Cable_Rope_Overhead_Triceps_Extension/0.jpg",
     "Cable_Rope_Overhead_Triceps_Extension/1.jpg"
   ],
-  "id": "Cable_Rope_Overhead_Triceps_Extension"
+  "id": "Cable_Rope_Overhead_Triceps_Extension",
+  "instructions_fr": [
+    "Attachez une corde au poulie inférieur de la machine à poulies.",
+    "Prenez la poignée de la corde avec les deux mains, étendez vos bras au-dessus de votre tête, les paumes se faisant face (prise neutre). Les coudes doivent être rapprochés de la tête et les bras perpendiculaires au sol, les phalanges pointant vers le plafond. Telle sera votre position de départ.",
+    "Abaissez lentement la corde derrière votre tête tout en gardant les bras supérieurs immobiles. Inhalez pendant que vous exécutez ce mouvement et faites une pause lorsque vos triceps sont complètement étirés.",
+    "Revenez à la position de départ en contractant vos triceps tout en expirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

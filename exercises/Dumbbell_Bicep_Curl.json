@@ -21,5 +21,11 @@
     "Dumbbell_Bicep_Curl/0.jpg",
     "Dumbbell_Bicep_Curl/1.jpg"
   ],
-  "id": "Dumbbell_Bicep_Curl"
+  "id": "Dumbbell_Bicep_Curl",
+  "instructions_fr": [
+    "Debout, les jambes à la largeur des épaules, tenez un haltère dans chaque main, les bras tendus le long du corps. C'est la position de départ.",
+    "Maintenant, en gardant les bras supérieurs immobiles, expirez et soulevez les poids tout en contractant vos biceps. Continuez à soulever les poids jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient au niveau des épaules. Maintenez la position contractée pendant un bref instant pendant que vous contractez vos biceps.",
+    "Ensuite, inspirez et ramenez lentement les haltères vers la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

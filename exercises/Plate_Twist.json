@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on the floor or an exercise mat with your legs fully extended and your upper body upright. Grab the plate by its sides with both hands out in front of your abdominals with your arms slightly bent.",
     "Slowly cross your legs near your ankles and lift them up off the ground. Your knees should also be bent slightly. Note: Move your upper body back slightly to help keep you balanced turning this exercise. This is the starting position.",
@@ -22,5 +20,12 @@
     "Plate_Twist/0.jpg",
     "Plate_Twist/1.jpg"
   ],
-  "id": "Plate_Twist"
+  "id": "Plate_Twist",
+  "instructions_fr": [
+    "Allongez-vous par terre ou sur un tapis d'exercice avec les jambes complètement étendues et le haut du corps droit. Attrapez la plaque par ses côtés avec les deux mains devant vos abdominaux, avec vos bras légèrement fléchis.",
+    "Croisez lentement vos jambes près des chevilles et soulevez-les du sol. Vos genoux doivent également être légèrement pliés. Remarque : Éloignez légèrement votre corps vers l'arrière pour vous aider à maintenir votre équilibre en tournant pendant cet exercice. C'est la position de départ.",
+    "Déplacez la plaque vers le côté gauche et touchez le sol avec elle. Respirez pendant que vous effectuez ce mouvement.",
+    "Revenez à la position de départ en respirant, puis répétez le mouvement du côté droit du corps. Astuce : utilisez un mouvement lent et contrôlé en tout temps. Les mouvements brusques peuvent blesser le dos.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

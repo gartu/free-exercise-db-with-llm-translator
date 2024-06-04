@@ -22,5 +22,11 @@
     "Dancers_Stretch/0.jpg",
     "Dancers_Stretch/1.jpg"
   ],
-  "id": "Dancers_Stretch"
+  "id": "Dancers_Stretch",
+  "instructions_fr": [
+    "Asseyez-vous par terre.",
+    "Croisez votre jambe droite sur votre gauche en gardant le genou plié. Votre jambe gauche est tendue et à plat sur le sol.",
+    "Posez votre bras gauche sur votre jambe droite et votre main droite sur le sol.",
+    "Faites pivoter votre corps vers la droite et maintenez cette position pendant 10 à 20 secondes. Alternez les côtés."
+  ]
 }

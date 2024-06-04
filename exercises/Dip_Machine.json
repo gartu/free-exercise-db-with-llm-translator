@@ -23,5 +23,12 @@
     "Dip_Machine/0.jpg",
     "Dip_Machine/1.jpg"
   ],
-  "id": "Dip_Machine"
+  "id": "Dip_Machine",
+  "instructions_fr": [
+    "Asseyez-vous confortablement sur une machine à tractions, sélectionnez le poids souhaité et saisissez fermement les poignées.",
+    "Maintenant, gardez les coudes près de votre corps pour mettre l'accent sur les triceps. Les coudes doivent être à un angle de 90 degrés.",
+    "Alors que vous contractez les triceps, étendez vos bras vers le bas en expirant. Conseil : En bas du mouvement, concentrez-vous sur le maintien d'un léger angle dans vos bras pour maintenir la tension sur le muscle des triceps.",
+    "Maintenant, laissez lentement vos bras remonter à la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

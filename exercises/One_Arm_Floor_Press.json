@@ -25,5 +25,14 @@
     "One_Arm_Floor_Press/0.jpg",
     "One_Arm_Floor_Press/1.jpg"
   ],
-  "id": "One_Arm_Floor_Press"
+  "id": "One_Arm_Floor_Press",
+  "instructions_fr": [
+    "Allongez-vous sur une surface plane en appuyant votre dos sur le sol ou un tapis de gym. Assurez-vous que vos genoux sont fléchis.",
+    "Un partenaire vous tend la barre d'une seule main. Lors du départ, votre bras doit être presque complètement étendu, similaire à la position de départ d'un bench press avec barre, mais cette fois votre prise sera neutre (les paumes face à votre torse).",
+    "Assurez-vous que la main que vous n'utilisez pas pour soulever le poids est placée à côté de vous.",
+    "Commencez l'exercice en abaissant la barre jusqu'à ce que votre coude touche le sol. Assurez-vous de respirer pendant la partie excentrique (la partie de l'exercice qui consiste à abaisser la charge).",
+    "Ensuite, commencez à soulever la barre de nouveau jusqu'à la position de départ d'origine. N'oubliez pas de respirer pendant la phase concentrique (la partie de l'exercice où vous soulevez le poids).",
+    "Répétez jusqu'à ce que vous ayez effectué le nombre de répétitions recommandé.",
+    "Changez de bras et répétez le mouvement."
+  ]
 }

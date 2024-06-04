@@ -22,5 +22,11 @@
     "Barbell_Shrug_Behind_The_Back/0.jpg",
     "Barbell_Shrug_Behind_The_Back/1.jpg"
   ],
-  "id": "Barbell_Shrug_Behind_The_Back"
+  "id": "Barbell_Shrug_Behind_The_Back",
+  "instructions_fr": [
+    "Tenez-vous droit les pieds à la largeur des épaules en tenant une barre avec les deux mains dans le dos, paumes vers l'arrière, poignées prononcées (paumes vers l'arrière). Astuce : Vos mains doivent être un peu plus larges que la largeur des épaules. Vous pouvez utiliser des poignets pour cet exercice pour une meilleure prise. Ce sera votre position de départ.",
+    "Montez vos épaules aussi haut que vous le pouvez en expirant et maintenez la contraction pendant une seconde. Conseils : Évitez d'essayer de soulever la barrebell en utilisant vos biceps. Les bras doivent rester tendus tout le temps.",
+    "Revenez lentement à la position de départ en respirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

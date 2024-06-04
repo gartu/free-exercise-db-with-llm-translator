@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Put a bench in front of a low pulley machine that has a barbell or EZ Curl attachment on it.",
     "Move the bench far enough away so that when you bring the handle to the top of your thighs tension is created on the cable due to the weight stack being moved up.",
@@ -26,5 +24,16 @@
     "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/0.jpg",
     "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl"
+  "id": "Seated_Two-Arm_Palms-Up_Low-Pulley_Wrist_Curl",
+  "instructions_fr": [
+    "Placez un banc devant une machine à poulie basse équipée d'un barre ou d'un accessoire EZ Curl.",
+    "Déplacez le banc suffisamment loin pour que lorsque vous amenez la poignée au niveau des cuisses, une tension soit créée sur le câble en raison du mouvement de la pile de poids vers le haut.",
+    "Maintenant, tenez la poignée avec les deux mains, les paumes vers le haut, en utilisant une prise à la largeur des épaules.",
+    "Faites un pas en arrière et asseyez-vous sur le banc avec vos pieds à environ l'écart des épaules, posés fermement sur le sol.",
+    "Inclinez-vous en avant et placez les avant-bras sur vos cuisses, le dos des poignets au-dessus de vos genoux. Cette position sera votre point de départ.",
+    "Abaissez la barre le plus bas possible tout en inspirant et en gardant une prise ferme.",
+    "Maintenant, soulevez la barre le plus haut possible tout en contractant les avant-bras. Astuce : Seul le poignet doit bouger, pas l'avant-bras.",
+    "Après une seconde contraction en haut, revenez à la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

@@ -23,5 +23,11 @@
     "Kneeling_Jump_Squat/0.jpg",
     "Kneeling_Jump_Squat/1.jpg"
   ],
-  "id": "Kneeling_Jump_Squat"
+  "id": "Kneeling_Jump_Squat",
+  "instructions_fr": [
+    "Commencez en positionnant vos genoux au sol, avec une barre charged sur vos épaules, ou vous pouvez utiliser votre poids corporel pour cet exercice. Cela peut être fait à l'intérieur d'un power rack pour faciliter le déchargement.",
+    "Asseyez-vous en faisant reposer vos fesses sur vos talons jusqu'à ce que vos fessiers touchent vos pieds, en gardant la tête et la poitrine levées.",
+    "Explosez avec vos hanches, en générant assez de puissance pour atterrir avec les pieds à plat sur le sol.",
+    "Poursuivez avec le squat en poussant à travers vos talons et en étendant les genoux pour revenir à la position debout."
+  ]
 }

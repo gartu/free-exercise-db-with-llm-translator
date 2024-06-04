@@ -22,5 +22,12 @@
     "Arnold_Dumbbell_Press/0.jpg",
     "Arnold_Dumbbell_Press/1.jpg"
   ],
-  "id": "Arnold_Dumbbell_Press"
+  "id": "Arnold_Dumbbell_Press",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc d'exercice avec un dossier et tenez deux haltères devant vous au niveau de la poitrine supérieure, les paumes face à votre corps et les coudes fléchis. Astuce : vos bras doivent être collés à votre corps. La position de départ doit ressembler à la partie contractée d'un curl d'haltère.",
+    "Maintenant, pour exécuter le mouvement, soulevez les haltères tout en faisant pivoter la paume de vos mains jusqu'à ce qu'elles soient tournées vers l'avant.",
+    "Continuez à soulever les haltères jusqu'à ce que vos bras soient étendus au-dessus de vous en position de bras tendus. Respirez pendant que vous exécutez cette partie du mouvement.",
+    "Après une seconde pause en haut, commencez à baisser les haltères vers la position originale en faisant pivoter la paume de vos mains vers vous. Astuce : Le bras gauche sera tourné dans le sens inverse des aiguilles d'une montre tandis que le bras droit sera tourné dans le sens des aiguilles d'une montre. Respirez pendant que vous exécutez cette partie du mouvement.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

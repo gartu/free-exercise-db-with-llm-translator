@@ -18,5 +18,8 @@
     "Upper_Back_Stretch/0.jpg",
     "Upper_Back_Stretch/1.jpg"
   ],
-  "id": "Upper_Back_Stretch"
+  "id": "Upper_Back_Stretch",
+  "instructions_fr": [
+    "Rejoignez les doigts en pointant les pouces vers le bas, faites un mouvement circulaire avec les épaules en tendant les mains vers l'avant."
+  ]
 }

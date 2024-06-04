@@ -20,5 +20,10 @@
     "Arm_Circles/0.jpg",
     "Arm_Circles/1.jpg"
   ],
-  "id": "Arm_Circles"
+  "id": "Arm_Circles",
+  "instructions_fr": [
+    "Debout, étendez les bras vers l'extérieur et à l'horizontale. Les bras doivent être parallèles au sol et former un angle droit (90 degrés) avec votre torse. Cette position sera votre point de départ.",
+    "Commencez lentement à faire des cercles d'environ un pied de diamètre avec chaque bras tendu. Respirez normalement pendant que vous effectuez le mouvement.",
+    "Continuez le mouvement circulaire des bras tendus pendant environ dix secondes. Ensuite, inversez le mouvement en allant dans la direction opposée."
+  ]
 }

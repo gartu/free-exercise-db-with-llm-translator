@@ -21,5 +21,9 @@
     "Elliptical_Trainer/0.jpg",
     "Elliptical_Trainer/1.jpg"
   ],
-  "id": "Elliptical_Trainer"
+  "id": "Elliptical_Trainer",
+  "instructions_fr": [
+    "Pour commencer, montez sur l'elliptique et sélectionnez l'option désirée dans le menu. La plupart des elliptiques ont une réglage manuelle, ou vous pouvez sélectionner un programme à exécuter. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. L'élévation peut être ajustée pour modifier l'intensité de l'entraînement.",
+    "Les poignées peuvent être utilisées pour surveiller votre fréquence cardiaque pour vous aider à rester à une intensité appropriée."
+  ]
 }

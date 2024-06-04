@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "chest"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position a flat bench between two low pulleys so that when you are laying on it, your chest will be lined up with the cable pulleys.",
     "Lay flat on the bench and keep your feet on the ground.",
@@ -24,5 +22,14 @@
     "Flat_Bench_Cable_Flyes/0.jpg",
     "Flat_Bench_Cable_Flyes/1.jpg"
   ],
-  "id": "Flat_Bench_Cable_Flyes"
+  "id": "Flat_Bench_Cable_Flyes",
+  "instructions_fr": [
+    "Placez un banc plat entre deux poulies basses de telle sorte que lorsque vous êtes allongé dessus, votre poitrine soit alignée avec les poulies de câble.",
+    "Allongez-vous sur le banc et gardez les pieds à plat sur le sol.",
+    "Laissez quelqu'un vous remettre les poignées à chaque main. Vous allez attraper chaque attache de poignée avec une prise vers le haut.",
+    "Étendez les bras le long du corps, avec un léger fléchissement au niveau des coudes. Astuce : gardez cet angle constant tout au long du mouvement. Vos bras doivent être parallèles au sol. C'est la position de départ.",
+    "Maintenant, commencez à lever les bras selon un mouvement de demi-cercle directement devant vous en tirant les câbles ensemble jusqu'à ce que les deux mains se rencontrent au sommet du mouvement. Contractez votre poitrine pendant que vous exécutez ce mouvement et respirez pendant celui-ci. De plus, maintenez la contraction pendant une seconde au sommet. astuce : lorsque le mouvement est correctement exécuté, dans la position supérieure, vos bras devraient être perpendiculaires à votre torse et toucher le sol au-dessus de votre poitrine.",
+    "Revenez lentement à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

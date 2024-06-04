@@ -23,5 +23,11 @@
     "Standing_Long_Jump/0.jpg",
     "Standing_Long_Jump/1.jpg"
   ],
-  "id": "Standing_Long_Jump"
+  "id": "Standing_Long_Jump",
+  "instructions_fr": [
+    "Cet exercice est idéalement réalisé dans du sable ou sur une autre surface d'atterrissage souple. Assurez-vous de pouvoir mesurer la distance. Tenez-vous en position de squat partiel, les pieds à la largeur des épaules.",
+    "En utilisant un grand mouvement du bras et un contre-mouvement des jambes, sautez vers l'avant aussi loin que vous le pouvez.",
+    "Essayez d'atterrir avec les pieds devant vous, en étendant les jambes le plus possible.",
+    "Mesurez la distance entre votre point d'atterrissage et le point de départ et suivez les résultats."
+  ]
 }

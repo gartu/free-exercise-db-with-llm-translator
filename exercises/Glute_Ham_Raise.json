@@ -21,5 +21,10 @@
     "Glute_Ham_Raise/0.jpg",
     "Glute_Ham_Raise/1.jpg"
   ],
-  "id": "Glute_Ham_Raise"
+  "id": "Glute_Ham_Raise",
+  "instructions_fr": [
+    "Commencez par ajuster l'équipement à votre morphologie. Placez vos pieds contre le plateau de soutien entre les rouleaux en vous allongant sur le ventre. Vos genoux doivent se trouver juste derrière le rembourrage.",
+    "Commencez à partir de la position basse du mouvement. Gardez le dos arqué au début du mouvement en fléchissant les genoux. Appuyez vos orteils dans la plaque de pied pendant que vous le faites. Gardez votre corps supérieur droit et continuez jusqu'à ce que votre corps soit debout.",
+    "Retournez à la position de départ en contrôlant votre descente."
+  ]
 }

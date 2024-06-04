@@ -28,5 +28,12 @@
     "Kipping_Muscle_Up/0.jpg",
     "Kipping_Muscle_Up/1.jpg"
   ],
-  "id": "Kipping_Muscle_Up"
+  "id": "Kipping_Muscle_Up",
+  "instructions_fr": [
+    "Saisissez les anneaux en utilisant une prise « fausse », la base de vos paumes au-dessus des anneaux.",
+    "Commencez par un mouvement d'oscillation en arrière de vos jambes.",
+    "Contrariez ce mouvement en balançant vos jambes vers l'avant et vers le haut, en arrachant votre menton et votre poitrine vers l'arrière, en vous tirant vers le haut avec les deux bras lorsque vous faites cela. Une fois que vous atteignez la position supérieure du traction, tirez les anneaux jusqu'à vos aisselles en faisant rouler vos épaules vers l'avant, ce qui permet à vos coudes de se déplacer directement vers l'arrière. Cela vous met dans la bonne position pour continuer dans la partie de mouvement.",
+    "En maintenant le contrôle et la stabilité, étendez-vous jusqu'au coude pour compléter le mouvement.",
+    "Utilisez des précautions lorsque vous vous abaissez au sol."
+  ]
 }

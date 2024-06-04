@@ -22,5 +22,10 @@
     "Smith_Machine_Leg_Press/0.jpg",
     "Smith_Machine_Leg_Press/1.jpg"
   ],
-  "id": "Smith_Machine_Leg_Press"
+  "id": "Smith_Machine_Leg_Press",
+  "instructions_fr": [
+    "Placez une barre de machine Smith à quelques pieds du sol. Assurez-vous qu'elle repose sur les安全装置. Après avoir chargé la barre avec un poids approprié, allongez-vous sous la barre. Placez le milieu de vos pieds sur la barre, en rapprochant les genoux de votre poitrine. Telle sera votre position de départ.",
+    "Commencez le mouvement en poussant à travers vos pieds pour déplacer la barre vers le haut, en étendant les hanches et les genoux. Ne bloquez pas vos genoux.",
+    "En haut du mouvement, faites une courte pause avant de revenir à la position de départ."
+  ]
 }

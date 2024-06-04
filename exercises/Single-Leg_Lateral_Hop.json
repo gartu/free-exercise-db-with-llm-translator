@@ -24,5 +24,11 @@
     "Single-Leg_Lateral_Hop/0.jpg",
     "Single-Leg_Lateral_Hop/1.jpg"
   ],
-  "id": "Single-Leg_Lateral_Hop"
+  "id": "Single-Leg_Lateral_Hop",
+  "instructions_fr": [
+    "Debout sur le côté d'un cône ou d'une haie. Pour prendre la position de départ, reposez-vous sur une seule jambe en fléchissant légèrement le genou.",
+    "Pour commencer, exécutez un contre-saut pour sauter de côté par-dessus le cône.",
+    "Rejoignez la jambe de saut, et rebondissez immédiatement dessus en sautant pour revenir à la position de départ.",
+    "Continuez à sauter de va et vient."
+  ]
 }

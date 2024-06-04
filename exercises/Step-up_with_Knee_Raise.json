@@ -21,5 +21,10 @@
     "Step-up_with_Knee_Raise/0.jpg",
     "Step-up_with_Knee_Raise/1.jpg"
   ],
-  "id": "Step-up_with_Knee_Raise"
+  "id": "Step-up_with_Knee_Raise",
+  "instructions_fr": [
+    "Debout face à une boîte ou un banc de hauteur appropriée, les pieds joints. Cette position sera votre point de départ.",
+    "Commencez le mouvement en montant sur la banc, en posant votre pied gauche sur le dessus du banc. Étirez-vous à travers la hanche et le genou de votre jambe avant pour monter sur la boîte. Alors que vous montez sur la boîte avec votre jambe gauche, pliez votre genou et votre hanche droits, en amenant votre genou aussi haut que possible.",
+    "Inversez ce mouvement pour descendre de la boîte, puis répétez la séquence sur la jambe opposée."
+  ]
 }

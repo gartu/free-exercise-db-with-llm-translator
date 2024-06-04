@@ -20,5 +20,9 @@
     "Chair_Upper_Body_Stretch/0.jpg",
     "Chair_Upper_Body_Stretch/1.jpg"
   ],
-  "id": "Chair_Upper_Body_Stretch"
+  "id": "Chair_Upper_Body_Stretch",
+  "instructions_fr": [
+    "Asseyez-vous sur le bord d'une chaise, en agrippant son dossier.",
+    "Droits vos bras, en gardant le dos droit, et tirez votre corps vers l'avant afin de ressentir une étirement. Maintenez la position pendant 20 à 30 secondes."
+  ]
 }

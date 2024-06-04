@@ -23,5 +23,10 @@
     "Side_to_Side_Box_Shuffle/0.jpg",
     "Side_to_Side_Box_Shuffle/1.jpg"
   ],
-  "id": "Side_to_Side_Box_Shuffle"
+  "id": "Side_to_Side_Box_Shuffle",
+  "instructions_fr": [
+    "Debout sur un côté de la boîte avec votre pied gauche posé au milieu.",
+    "Commencez par sauter et passer à l'autre côté de la boîte, en posant votre pied droit sur la boîte et votre pied gauche à terre. Utilisez un balancement des bras pour vous aider dans votre mouvement.",
+    "Continuez à marcher en fuyant de côté en côté sur la boîte."
+  ]
 }

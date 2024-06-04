@@ -25,5 +25,13 @@
     "Chair_Squat/0.jpg",
     "Chair_Squat/1.jpg"
   ],
-  "id": "Chair_Squat"
+  "id": "Chair_Squat",
+  "instructions_fr": [
+    "Pour commencer, placez d'abord la barre dans une position qui correspond le mieux à votre taille. Une fois que la barre est chargée, passez-la sous vous et placez-la sur la nuque.",
+    "Prenez la barre avec vos mains face à l'avant, déverrouillez-la et soulevez-la du support en étendant vos jambes.",
+    "Déplacez vos pieds vers l'avant d'environ 50 cm devant la barre. Placez vos jambes en position de largeur de épaules avec les orteils légèrement pointés vers l'extérieur. Regardez droit devant vous et maintenez une colonne vertébrale neutre ou légèrement arquée. Telle sera votre position de départ.",
+    "Abaissez lentement la barre en fléchissant les genoux tout en maintenant une posture droite avec la tête haute. Continuez jusqu'à ce que l'angle entre les jambes supérieure et inférieure soit inférieur à 90 degrés.",
+    "Commencez à soulever la barre en expirant en poussant le sol avec les talons de vos pieds, en étendant les genoux et en revenant à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

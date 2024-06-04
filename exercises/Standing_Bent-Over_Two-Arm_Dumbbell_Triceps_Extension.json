@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "With a dumbbell in each hand and the palms facing your torso, bend your knees slightly and bring your torso forward, by bending at the waist, while keeping the back straight until it is almost parallel to the floor. Make sure that you keep the head up. The upper arms should be close to the torso and parallel to the floor while the forearms are pointing towards the floor as the hands hold the weights. Tip: There should be a 90-degree angle between the forearms and the upper arm. This is your starting position.",
     "Keeping the upper arms stationary, use the triceps to lift the weights as you exhale until the forearms are parallel to the floor and the whole arms are extended. Like many other arm exercises, only the forearm moves.",
@@ -21,5 +19,11 @@
     "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/0.jpg",
     "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension/1.jpg"
   ],
-  "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension"
+  "id": "Standing_Bent-Over_Two-Arm_Dumbbell_Triceps_Extension",
+  "instructions_fr": [
+    "En tenant une haltère dans chaque main, les paumes tournées vers votre torse, fléchissez légèrement les genoux et penchez-vous en avant, en vous inclinant à la taille tout en gardant le dos droit jusqu'à ce qu'il soit presque parallèle au sol. Assurez-vous de garder la tête levée. Les bras supérieurs doivent être proches du torse et parallèles au sol tandis que les avant-bras pointent vers le sol alors que les mains tiennent les poids. Astuce : Il devrait y avoir un angle de 90 degrés entre l'avant-bras et le bras supérieur. C'est votre position de départ.",
+    "En gardant les bras supérieurs immobiles, utilisez les triceps pour soulever les poids en expirant jusqu'à ce que les avant-bras soient parallèles au sol et que les bras entiers soient étendus. Comme de nombreux autres exercices de bras, seul l'avant-bras bouge.",
+    "Après une seconde contraction en haut, abaissez lentement les haltères jusqu'à leur position initiale tout en inspirant.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

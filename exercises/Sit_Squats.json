@@ -22,5 +22,10 @@
     "Sit_Squats/0.jpg",
     "Sit_Squats/1.jpg"
   ],
-  "id": "Sit_Squats"
+  "id": "Sit_Squats",
+  "instructions_fr": [
+    "Debout, les pieds à la largeur des épaules. Cette position sera votre position de départ.",
+    "Commencez le mouvement en fléchissant les genoux et les hanches, en reculant avec vos hanches.",
+    "Continuez jusqu'à ce que vous ayez fléchi les jambes jusqu'à mi-chemin, mais restiez au-dessus de la position parallèle, puis inversez rapidement le mouvement jusqu'à la position de départ. Répétez pendant 5 à 10 répétitions."
+  ]
 }

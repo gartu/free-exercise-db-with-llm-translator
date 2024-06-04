@@ -25,5 +25,11 @@
     "Front_Box_Jump/0.jpg",
     "Front_Box_Jump/1.jpg"
   ],
-  "id": "Front_Box_Jump"
+  "id": "Front_Box_Jump",
+  "instructions_fr": [
+    "Commencez avec une boîte d'une hauteur appropriée (30 à 60 cm) devant vous. Tenez-vous debout, les pieds écartés à la largeur des épaules. Cette position sera votre point de départ.",
+    "Effectuez un squat court en préparation du saut, en balançant vos bras derrière vous.",
+    "Rebondissez hors de cette position, en étendant les hanches, les genoux et les chevilles pour sauter aussi haut que possible. Balancer les bras vers l'avant et vers le haut.",
+    "Atterrissez sur la boîte avec les genoux fléchis, en absorbant l'impact par les jambes. Vous pouvez sauter de la boîte au sol ou, de préférence, descendre une jambe à la fois."
+  ]
 }

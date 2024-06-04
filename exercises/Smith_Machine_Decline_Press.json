@@ -23,5 +23,12 @@
     "Smith_Machine_Decline_Press/0.jpg",
     "Smith_Machine_Decline_Press/1.jpg"
   ],
-  "id": "Smith_Machine_Decline_Press"
+  "id": "Smith_Machine_Decline_Press",
+  "instructions_fr": [
+    "Placez un banc incliné dans le rack de sorte que la barre soit au-dessus de votre poitrine. Chargez un poids approprié et prenez place sur le banc.",
+    "Faites pivoter la barre pour la détacher du support et étendez complètement vos bras. Votre dos doit être légèrement arqué et vos omoplates rentrées. Cette position sera votre point de départ.",
+    "Commencez le mouvement en fléchissant les bras, en abaissant la barre vers votre poitrine.",
+    "Faites une courte pause, puis étendez les bras pour ramener la charge à sa position initiale.",
+    "Après avoir effectué le nombre de répétitions souhaité, faites pivoter la barre pour ranger la charge."
+  ]
 }

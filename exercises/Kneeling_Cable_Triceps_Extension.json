@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a bench sideways in front of a high pulley machine.",
     "Hold a straight bar attachment above your head with your hands about 6 inches apart with your palms facing down.",
@@ -24,5 +22,14 @@
     "Kneeling_Cable_Triceps_Extension/0.jpg",
     "Kneeling_Cable_Triceps_Extension/1.jpg"
   ],
-  "id": "Kneeling_Cable_Triceps_Extension"
+  "id": "Kneeling_Cable_Triceps_Extension",
+  "instructions_fr": [
+    "Placez un banc de façon latérale devant une machine à poulie haute.",
+    "Tenez une barre droite au-dessus de votre tête, vos mains étant espacées d'environ 6 pouces et vos paumes tournée vers le bas.",
+    "Tournez-vous dos à la machine et agenouillez-vous.",
+    " Placez votre tête et le dos de vos bras supérieurs sur le banc. Vos coudes doivent être fléchis et vos avant-bras pointés vers la poulie haute. Cette position sera votre position de départ.",
+    "Tout en gardant vos bras supérieurs près de votre tête en tout temps avec les coudes vers l'intérieur, pressez la barre dans un mouvement semi-circulaire jusqu'à ce que les coudes soient verrouillés et que vos bras soient parallèles au sol. Contractez durement les triceps et maintenez cette position pendant une seconde. Exhalez lorsque vous effectuez ce mouvement.",
+    "Revenez lentement à la position de départ en respirant.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

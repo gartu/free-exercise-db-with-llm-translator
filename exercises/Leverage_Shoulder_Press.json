@@ -20,5 +20,10 @@
     "Leverage_Shoulder_Press/0.jpg",
     "Leverage_Shoulder_Press/1.jpg"
   ],
-  "id": "Leverage_Shoulder_Press"
+  "id": "Leverage_Shoulder_Press",
+  "instructions_fr": [
+    "Chargez un poids approprié sur les broches et ajustez le siège à votre taille. Les poignées devraient se trouver près du haut des épaules au début du mouvement. La poitrine et la tête doivent être levées et les poignées maintenues avec une prise prononcée. Telle sera votre position de départ.",
+    "Presse les poignées vers le haut en étendant à travers le coude.",
+    "Après une courte pause en haut, ramenez le poids juste au-dessus de la position de départ, en gardant une tension sur les muscles en ne ramenant pas le poids jusqu'au sol avant que la série ne soit terminée."
+  ]
 }

@@ -22,5 +22,12 @@
     "Russian_Twist/0.jpg",
     "Russian_Twist/1.jpg"
   ],
-  "id": "Russian_Twist"
+  "id": "Russian_Twist",
+  "instructions_fr": [
+    "Allongez-vous par terre en plaçant vos pieds sous quelque chose qui ne bougera pas ou en demandant à un partenaire de les tenir. Vos jambes doivent être fléchies au niveau des genoux.",
+    "Élevez votre buste pour créer une forme de V imaginaire avec vos cuisses. Vos bras doivent être complètement tendus devant vous, perpendiculaires à votre corps et les mains jointes. Cette position est la position de départ.",
+    "Tournez votre torse sur le côté droit jusqu'à ce que vos bras soient parallèles au sol en respirant.",
+    "Maintenez la contraction pendant une seconde puis revenez à la position de départ tout en expirant. Passez maintenant au côté opposé en appliquant les mêmes techniques que pour le côté droit.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

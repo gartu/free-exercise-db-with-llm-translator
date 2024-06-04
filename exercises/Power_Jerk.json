@@ -27,5 +27,12 @@
     "Power_Jerk/0.jpg",
     "Power_Jerk/1.jpg"
   ],
-  "id": "Power_Jerk"
+  "id": "Power_Jerk",
+  "instructions_fr": [
+    "Debout avec le poids posé sur les épaules, commencez par la flexion. Avec les pieds directement sous les hanches, fléchissez les genoux sans déplacer les hanches vers l'arrière. Descendez légèrement seulement, et inversez la direction aussi puissant que possible.",
+    "En appuyant sur les talons, créez autant de vitesse et de force que possible, et assurez-vous de déplacer votre tête hors du chemin lorsque la barre quitte les épaules.",
+    "À ce moment-là, alors que les pieds quittent le sol, les pieds doivent être placés dans la position de réception le plus rapidement possible. Dans le bref instant où les pieds ne poussent pas activement contre la plateforme, l'effort de l'athlète pour pousser la barre vers le haut le fera descendre. Les pieds doivent être déplacés vers une position légèrement plus large, avec les genoux légèrement fléchis.",
+    "Recevez la barre avec les bras verrouillés au-dessus de la tête.",
+    "Revenez à la position debout."
+  ]
 }

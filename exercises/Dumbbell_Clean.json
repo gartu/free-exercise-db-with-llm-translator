@@ -28,5 +28,12 @@
     "Dumbbell_Clean/0.jpg",
     "Dumbbell_Clean/1.jpg"
   ],
-  "id": "Dumbbell_Clean"
+  "id": "Dumbbell_Clean",
+  "instructions_fr": [
+    "Commencez debout, tenant un haltère dans chaque main, avec les pieds à la largeur des épaules.",
+    "Abaissez les poids jusqu'au sol en fléchissant au niveau des hanches et des genoux, en poussant vos fesses vers l'arrière jusqu'à ce que les haltères touchent le sol. Cette position sera votre position de départ.",
+    "Pour initier le mouvement, sautez violemment vers le haut en étendant les hanches, les genoux et les chevilles pour accélérer les poids vers le haut. Gardez une poignée neutre sur les haltères et gardez les bras droits jusqu'à ce que l'extension complète soit atteinte.",
+    "Après l'extension complète, pliez à nouveau les hanches et les genoux pour recevoir le poids en position accroupie. Laissez les bras se plier, guidant les haltères vers vos épaules.",
+    "À la réception du poids dans la position accroupie, étendez les hanches et les genoux pour terminer en position debout avec les poids sur vos épaules."
+  ]
 }

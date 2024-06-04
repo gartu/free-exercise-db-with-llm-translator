@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by placing two dumbbells on the floor in front of a flat bench.",
     "Sit down on the edge of the flat bench with your legs at about shoulder width apart. Make sure to keep your feet on the floor.",
@@ -24,5 +22,14 @@
     "Seated_Dumbbell_Palms-Up_Wrist_Curl/0.jpg",
     "Seated_Dumbbell_Palms-Up_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl"
+  "id": "Seated_Dumbbell_Palms-Up_Wrist_Curl",
+  "instructions_fr": [
+    "Commencez par poser deux haltères sur le sol devant un banc plat.",
+    "Asseyez-vous sur le bord du banc plat avec vos jambes à environ la largeur des épaules. Assurez-vous de garder les pieds à plat sur le sol.",
+    "Utilisez vos bras pour attraper les deux haltères et ramenez-les vers vous de sorte que vos avant-bras reposent contre vos cuisses, les paumes des mains tournées vers le haut. Vos poignets doivent être plaqués sur le bord de vos cuisses.",
+    "Commencez par plier votre poignet vers le haut et en expirant.",
+    "Abaissez lentement vos poignets en inspirant jusqu'à la position de départ. Veuillez inhaler pendant cette partie de l'exercice. Conseil : Vos avant-bras doivent rester immobiles tandis que votre poignet est le seul mouvement nécessaire pour exécuter cet exercice.",
+    "Répétez pour le nombre de répétitions recommandé.",
+    "Une fois terminé, baissez simplement les haltères par terre."
+  ]
 }

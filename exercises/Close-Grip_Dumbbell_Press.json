@@ -23,5 +23,12 @@
     "Close-Grip_Dumbbell_Press/0.jpg",
     "Close-Grip_Dumbbell_Press/1.jpg"
   ],
-  "id": "Close-Grip_Dumbbell_Press"
+  "id": "Close-Grip_Dumbbell_Press",
+  "instructions_fr": [
+    "Placez un haltère debout sur un banc plat.",
+    "En vous assurant que l'haltère reste bien placé au sommet du banc, allongez-vous perpendiculairement au banc, de sorte que seules vos épaules reposent sur sa surface. Les hanches doivent être sous le banc et les jambes fléchies avec les pieds fermement posés sur le sol.",
+    "Prenez l'haltère avec les deux mains et tenez-le droit sur votre poitrine à la longueur du bras. Les paumes des deux mains doivent être pressées contre le dessous des côtés de l'haltère. Cette position sera votre position de départ.",
+    "Initiiez le mouvement en abaissant l'haltère jusqu'à votre poitrine.",
+    "Revenez à la position de départ en étendant les coudes."
+  ]
 }

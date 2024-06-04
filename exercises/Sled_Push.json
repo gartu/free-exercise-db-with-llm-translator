@@ -23,5 +23,9 @@
     "Sled_Push/0.jpg",
     "Sled_Push/1.jpg"
   ],
-  "id": "Sled_Push"
+  "id": "Sled_Push",
+  "instructions_fr": [
+    "Chargez votre traîneau à pousser avec le poids souhaité.",
+    "Prenez une posture athlétique, penchez-vous vers le traîneau en étendant complètement vos bras et en saisissant les poignées. Poussez le traîneau aussi vite que possible, en vous concentrant sur l'extension de vos hanches et de vos genoux pour renforcer votre chaîne postérieure."
+  ]
 }

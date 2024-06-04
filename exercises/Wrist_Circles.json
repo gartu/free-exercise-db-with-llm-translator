@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start by standing straight with your feet being shoulder width apart from each other. Elevate your arms to the side of you until they are fully extended and parallel to the floor at a height that is evenly aligned with your shoulders. Tip: Your torso and arms should form the letter \"T: Your palms should be facing down. This is the starting position.",
     "Keeping your entire body stationary except for the wrists, begin to rotate both wrists forward in a circular motion. Tip: Pretend that you are trying to draw circles by using your hands as the brush. Breathe normally as you perform this exercise.",
@@ -20,5 +18,10 @@
     "Wrist_Circles/0.jpg",
     "Wrist_Circles/1.jpg"
   ],
-  "id": "Wrist_Circles"
+  "id": "Wrist_Circles",
+  "instructions_fr": [
+    "Commencez par vous tenir droit, les pieds écartés à la largeur des épaules. Élevez vos bras sur les côtés jusqu'à ce qu'ils soient complètement tendus et parallèles au sol, à une hauteur qui est alignée de manière uniforme avec vos épaules. Astuce : votre torse et vos bras doivent former la lettre \"T\". Vos paumes devraient être tournées vers le bas. C'est la position de départ.",
+    "En gardant tout votre corps immobile à l'exception des poignets, commencez à faire tourner les deux poignets vers l'avant en mouvement circulaire. Astuce : Imaginez que vous essayez de tracer des cercles en utilisant vos mains comme pinceau. Respirez normalement pendant que vous exécutez cet exercice.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

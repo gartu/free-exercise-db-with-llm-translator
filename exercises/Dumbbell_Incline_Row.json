@@ -24,5 +24,11 @@
     "Dumbbell_Incline_Row/0.jpg",
     "Dumbbell_Incline_Row/1.jpg"
   ],
-  "id": "Dumbbell_Incline_Row"
+  "id": "Dumbbell_Incline_Row",
+  "instructions_fr": [
+    "En utilisant une prise neutre, penchez-vous sur un banc incliné.",
+    "Prenez un haltère dans chaque main avec une prise neutre, en commençant avec les bras tendus. C'est votre position de départ.",
+    "Retirez les omoplates et fléchissez les coudes pour tirer les haltères sur votre côté.",
+    "Arrêtez-vous au sommet du mouvement, puis revenez à la position de départ."
+  ]
 }

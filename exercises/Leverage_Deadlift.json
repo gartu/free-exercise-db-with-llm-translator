@@ -20,5 +20,9 @@
     "Leverage_Deadlift/0.jpg",
     "Leverage_Deadlift/1.jpg"
   ],
-  "id": "Leverage_Deadlift"
+  "id": "Leverage_Deadlift",
+  "instructions_fr": [
+    "Chargez les épingles avec un poids approprié. Placez-vous directement entre les poignées. Attrapez les poignées inférieures avec une prise confortable, puis abaissez les hanches en inspirant. Regardez devant vous la tête et maintenez la poitrine en haut. Telle sera votre position de départ.",
+    "Ramenez le poids à la position de départ."
+  ]
 }

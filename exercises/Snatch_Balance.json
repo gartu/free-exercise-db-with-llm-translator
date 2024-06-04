@@ -25,5 +25,11 @@
     "Snatch_Balance/0.jpg",
     "Snatch_Balance/1.jpg"
   ],
-  "id": "Snatch_Balance"
+  "id": "Snatch_Balance",
+  "instructions_fr": [
+    "Commencez avec les pieds en position de tirage, la barre posée sur le dos des épaules, et placez vos mains dans une prise large type \"snatch\".",
+    "Faites un mouvement explosif en fléchissant brusquement les genoux et en poussant sous la barre, puis placez-vous agressivement sous celle-ci en changeant de pied pour vous mettre en position de réception.",
+    "Recevez la barre verrouillée au-dessus de la tête près du fond de la squatt. Le torse doit rester vertical, en abaissant les hanches entre les jambes.",
+    "Continuez à descendre jusqu'à la position la plus basse et revenez à la position debout. Déposez soigneusement le poids."
+  ]
 }

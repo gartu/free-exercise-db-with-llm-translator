@@ -23,5 +23,11 @@
     "Supine_Two-Arm_Overhead_Throw/0.jpg",
     "Supine_Two-Arm_Overhead_Throw/1.jpg"
   ],
-  "id": "Supine_Two-Arm_Overhead_Throw"
+  "id": "Supine_Two-Arm_Overhead_Throw",
+  "instructions_fr": [
+    "Allongez-vous par terre sur le dos, les genoux fléchis.",
+    "Tenez la balle avec les deux mains, en étendant complètement les bras derrière votre tête. Cette position sera votre point de départ.",
+    "Initiée le mouvement à l'épaule, lancer la balle directement devant vous lorsque vous vous asseyez, en essayant d'aller pour une distance maximale.",
+    "Le ballon peut être lancé à un partenaire ou rebondir sur un mur."
+  ]
 }

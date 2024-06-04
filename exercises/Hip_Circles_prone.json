@@ -20,5 +20,10 @@
     "Hip_Circles_prone/0.jpg",
     "Hip_Circles_prone/1.jpg"
   ],
-  "id": "Hip_Circles_prone"
+  "id": "Hip_Circles_prone",
+  "instructions_fr": [
+    "Prenez une position à quatre pattes sur le sol. En maintenant une bonne posture, soulevez un genou fléchi du sol. Cette position servira de point de départ pour l'exercice.",
+    "En gardant le genou fléchi, faites pivoter le fémur en arc, en essayant de faire un grand cercle avec votre genou.",
+    "Effectuez cela lentement pendant un certain nombre de répétitions, puis répétez de l'autre côté."
+  ]
 }

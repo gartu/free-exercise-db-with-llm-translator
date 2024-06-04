@@ -20,5 +20,9 @@
     "Downward_Facing_Balance/0.jpg",
     "Downward_Facing_Balance/1.jpg"
   ],
-  "id": "Downward_Facing_Balance"
+  "id": "Downward_Facing_Balance",
+  "instructions_fr": [
+    "Allongez-vous le visage vers le bas sur le dessus d'un ballon d'exercice.",
+    "En vous reposant sur le ventre sur le ballon, marchez avec vos mains le long du sol et soulevez vos jambes, en étendant vos coudes et vos genoux."
+  ]
 }

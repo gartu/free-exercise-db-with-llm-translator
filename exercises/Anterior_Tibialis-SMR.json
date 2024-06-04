@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Begin seated on the ground with your legs bent and your feet on the floor.",
     "Using a Muscle Roller or a rolling pin, apply pressure to the muscles on the outside of your shins. Work from just below the knee to above the ankle, pausing at points of tension for 10-30 seconds. Repeat on the other leg."
@@ -19,5 +17,9 @@
     "Anterior_Tibialis-SMR/0.jpg",
     "Anterior_Tibialis-SMR/1.jpg"
   ],
-  "id": "Anterior_Tibialis-SMR"
+  "id": "Anterior_Tibialis-SMR",
+  "instructions_fr": [
+    "Commencez assis par terre avec les jambes pliées et les pieds à plat sur le sol.",
+    "À l'aide d'un rouleau musculaire ou d'un rouleau à pâtisserie, appliquez une pression sur les muscles situés à l'extérieur de vos tibias. Travaillez de juste en dessous du genou jusqu'au-dessus de la cheville, en vous arrêtant aux points de tension pendant 10 à 30 secondes. Répétez sur l'autre jambe."
+  ]
 }

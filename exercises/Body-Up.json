@@ -22,5 +22,11 @@
     "Body-Up/0.jpg",
     "Body-Up/1.jpg"
   ],
-  "id": "Body-Up"
+  "id": "Body-Up",
+  "instructions_fr": [
+    "Prenez une position de planche sur le sol. Vous devez supporter votre poids corporel sur vos orteils et vos avant-bras, en gardant votre tronc droit. Vos avant-bras doivent être à la largeur des épaules. Cette position sera votre position de départ.",
+    "En pressant fermement la paume de vos mains sur le sol, étendez les coudes pour soulever votre corps du sol. Maintenez votre torse rigide pendant que vous effectuez le mouvement.",
+    "Abaissez lentement les avant-bras vers le sol en fléchissant les coudes.",
+    "Répéter."
+  ]
 }

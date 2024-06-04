@@ -25,5 +25,15 @@
     "Standing_Cable_Wood_Chop/0.jpg",
     "Standing_Cable_Wood_Chop/1.jpg"
   ],
-  "id": "Standing_Cable_Wood_Chop"
+  "id": "Standing_Cable_Wood_Chop",
+  "instructions_fr": [
+    "Reliez une poignée standard à une tour, puis déplacez le câble vers la position de poulie la plus haute.",
+    "De côté par rapport au câble, saisissez la poignée avec une main et éloignez-vous de la tour. Vous devriez vous trouver à environ un bras de la poulie, la tension du poids s'exerçant sur le câble. Votre bras tendu doit être aligné avec le câble.",
+    "Avec les pieds écartés à la largeur des épaules, levez la main opposée et attrapez la poignée avec les deux mains. Vos bras doivent rester tendus.",
+    "En une seule motion, tirez la poignée vers le bas et à travers votre corps jusqu'à votre genou frontal tout en faisant pivoter votre torse.",
+    "Gardez le dos et les bras droits, et le tronc contracté pendant que vous pivoter votre pied arrière et plier vos genoux pour obtenir une amplitude de mouvement complète.",
+    "Maintenez votre posture et vos bras droits. Revenez à la position neutre d'une manière lente et contrôlée.",
+    "Répétez jusqu'à l'échec.",
+    "Ensuite, repositionnez-vous et répétez la même série de mouvements de l'autre côté."
+  ]
 }

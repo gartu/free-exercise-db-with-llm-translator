@@ -21,5 +21,11 @@
     "Straight_Raises_on_Incline_Bench/0.jpg",
     "Straight_Raises_on_Incline_Bench/1.jpg"
   ],
-  "id": "Straight_Raises_on_Incline_Bench"
+  "id": "Straight_Raises_on_Incline_Bench",
+  "instructions_fr": [
+    "Placer une barre sur le sol derrière la tête d'un banc incliné.",
+    "Allongez-vous sur le banc, le visage tourné vers le sol. Avec une poignée en pronation, soulevez la barre depuis le sol, en gardant les bras droits. Laissez la barre pendre droit vers le bas. Cette position sera votre point de départ.",
+    "Pour commencer, soulevez la barre au-dessus de votre tête en gardant les bras tendus.",
+    "Revenez à la position de départ."
+  ]
 }

@@ -28,5 +28,10 @@
     "Tire_Flip/0.jpg",
     "Tire_Flip/1.jpg"
   ],
-  "id": "Tire_Flip"
+  "id": "Tire_Flip",
+  "instructions_fr": [
+    "Commencez en saisissant le bas du pneu sur la bande de roulement, et placez vos pieds un peu à l'arrière. Votre poitrine devrait être dirigée vers le pneu.",
+    "Pour soulever le pneu, étendez-vous par les hanches, les genoux et les chevilles, en poussant dans le pneu et vers le haut.",
+    "Lorsque le pneu atteint un angle de 45 degrés, avancez et frappez-le avec un genou tout en ajustant votre prise sur sa partie supérieure, puis poussez-le vers l'avant aussi fort que possible pour terminer la rotation. Répétez l'opération si nécessaire."
+  ]
 }

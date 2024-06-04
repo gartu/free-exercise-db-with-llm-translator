@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect a rope attachment to a tower, and move the cable to the lowest pulley position. Stand with your side to the cable with a wide stance, and grab the rope with both hands.",
     "Twist your body away from the pulley as you bring the rope over your shoulder like you're performing a judo flip.",
@@ -22,5 +20,12 @@
     "Cable_Judo_Flip/0.jpg",
     "Cable_Judo_Flip/1.jpg"
   ],
-  "id": "Cable_Judo_Flip"
+  "id": "Cable_Judo_Flip",
+  "instructions_fr": [
+    "Attachez un cordon d'attachement à une tour, et déplacez le câble vers la position de poulie la plus basse. Tenez-vous avec votre côté sur le câble, en adoptant une large posture, et saisissez le corde avec les deux mains.",
+    "Tournez votre corps loin du poulie lorsque vous amenez la corde par-dessus votre épaule comme si vous exécutiez une manœuvre de judo.",
+    "Déplacez votre poids entre vos pieds lorsque vous tournez et contractez vers l'avant, en tirant le câble vers le bas.",
+    "Retournez à la position de départ et répétez jusqu'à l'échec.",
+    "Ensuite, repositionnez-vous et répétez la même série de mouvements sur le côté opposé."
+  ]
 }

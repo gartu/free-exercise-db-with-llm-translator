@@ -22,5 +22,11 @@
     "One-Arm_Medicine_Ball_Slam/0.jpg",
     "One-Arm_Medicine_Ball_Slam/1.jpg"
   ],
-  "id": "One-Arm_Medicine_Ball_Slam"
+  "id": "One-Arm_Medicine_Ball_Slam",
+  "instructions_fr": [
+    "Commencez en position debout avec une posture échelonnée et athlétique. Tenez une médecine-ball dans une main, du même côté que votre jambe arrière. Cette position sera votre point de départ.",
+    "Commencez par enrouler le bras, en levant la medicine ball au-dessus de votre tête. Pendant que vous faites cela, étendez-vous à travers les hanches, les genoux et les chevilles pour vous préparer pour le slam.",
+    "À l'extension maximale, fléchissez les épaules, la colonne vertébrale et les hanches pour lancer la balle fort sur le sol directement devant vous.",
+    "Attrapez la balle au rebond et continuez pour le nombre de répétitions souhaité."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the machine lever to fit your height and lie face down on the leg curl machine with the pad of the lever on the back of your legs (just a few inches under the calves). Tip: Preferably use a leg curl machine that is angled as opposed to flat since an angled position is more favorable for hamstrings recruitment.",
     "Keeping the torso flat on the bench, ensure your legs are fully stretched and grab the side handles of the machine. Position your toes straight (or you can also use any of the other two stances described on the foot positioning section). This will be your starting position.",
@@ -21,5 +19,11 @@
     "Lying_Leg_Curls/0.jpg",
     "Lying_Leg_Curls/1.jpg"
   ],
-  "id": "Lying_Leg_Curls"
+  "id": "Lying_Leg_Curls",
+  "instructions_fr": [
+    "Ajustez le levier de la machine à votre taille et allongez-vous le visage vers le sol sur la machine de curl pour les jambes avec le rembourrage du levier sur l'arrière de vos jambes (à quelques pouces seulement sous les mollets). Astuce : Préférez une machine à leg curl inclinée plutôt que plate, car une position inclinée favorise l'engagement des ischio-jambiers.",
+    "En gardant le torse plat sur le banc, assurez-vous que vos jambes sont complètement étendues et attrapez les poignées latérales de la machine. Positionnez vos orteils droit (ou vous pouvez également utiliser l'une des deux autres positions décrites dans la section positionnement des pieds).  Cela sera votre position de départ.",
+    "En expirant, soulevez vos jambes le plus possible sans décoller les cuisses du support. Une fois que vous avez atteint la position complètement contractée, maintenez-la pendant une seconde.",
+    "En inspirant, ramenez les jambes dans la position initiale. Répétez l'exercice selon le nombre de répétitions recommandé."
+  ]
 }

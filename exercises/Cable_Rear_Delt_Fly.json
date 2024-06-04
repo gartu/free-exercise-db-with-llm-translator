@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the pulleys to the appropriate height and adjust the weight. The pulleys should be above your head.",
     "Grab the left pulley with your right hand and the right pulley with your left hand, crossing them in front of you. This will be your starting position.",
@@ -21,5 +19,11 @@
     "Cable_Rear_Delt_Fly/0.jpg",
     "Cable_Rear_Delt_Fly/1.jpg"
   ],
-  "id": "Cable_Rear_Delt_Fly"
+  "id": "Cable_Rear_Delt_Fly",
+  "instructions_fr": [
+    "Ajustez les poulies à la hauteur appropriée et ajustez le poids. Les poulies doivent être au-dessus de votre tête.",
+    "Prenez la poignée gauche avec votre main droite et la poignée droite avec votre main gauche, en les croisant devant vous. Cette position sera votre position de départ.",
+    "Commencez le mouvement en ramenant vos bras en arrière et en les poussant vers l'extérieur, en gardant vos bras droits pendant que vous exécutez le mouvement.",
+    "Arrêtez-vous à la fin du mouvement avant de ramener les poignées à la position de départ."
+  ]
 }

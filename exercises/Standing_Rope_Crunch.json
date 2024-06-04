@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a rope to a high pulley and select an appropriate weight.",
     "Stand with your back to the cable tower. Take the rope with both hands over your shoulders, holding it to your upper chest. This will be your starting position.",
@@ -21,5 +19,11 @@
     "Standing_Rope_Crunch/0.jpg",
     "Standing_Rope_Crunch/1.jpg"
   ],
-  "id": "Standing_Rope_Crunch"
+  "id": "Standing_Rope_Crunch",
+  "instructions_fr": [
+    "Attachez une corde à un poulie haute et sélectionnez un poids approprié.",
+    "Debout, le dos tourné vers la tour à câbles. Prenez la corde avec les deux mains au-dessus de vos épaules, en la maintenant contre votre poitrine supérieure. Telle sera votre position de départ.",
+    "Exécutez le mouvement en fléchissant la colonne vertébrale, en écrasant le poids aussi bas que possible.",
+    "Maintenez la contraction maximale un instant avant de revenir à la position de départ."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Choke the band around a post. The band should be at the same height as your elbow. Stand with your left side to the band a couple of feet away.",
     "Grasp the end of the band with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.",
@@ -22,5 +20,12 @@
     "External_Rotation_with_Band/0.jpg",
     "External_Rotation_with_Band/1.jpg"
   ],
-  "id": "External_Rotation_with_Band"
+  "id": "External_Rotation_with_Band",
+  "instructions_fr": [
+    "Enroulez l'élastique autour d'un poteau. L'élastique doit se trouver à la même hauteur que votre coude. Tenez-vous à côté du poteau, du côté gauche, à quelques pas de distance.",
+    "Prenez l'extrémité de la bande avec votre main droite et maintenez votre coude fermement contre votre côté. Nous vous recommandons de tenir une poignée ou un rouleau en mousse à la place avec votre coude pour le maintenir fermement en place.",
+    "Avec votre bras supérieur en position, votre coude doit être fléchi à 90 degrés et votre main doit atteindre la partie centrale de votre torse. Cette position sera votre point de départ.",
+    "Exécutez le mouvement en faisant pivoter votre bras dans un mouvement inverse, en gardant votre coude en place.",
+    "Continuez aussi loin que vous le pouvez, pausez, puis revenez à la position de départ."
+  ]
 }

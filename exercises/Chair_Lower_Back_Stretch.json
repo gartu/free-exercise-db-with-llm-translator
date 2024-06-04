@@ -20,5 +20,10 @@
     "Chair_Lower_Back_Stretch/0.jpg",
     "Chair_Lower_Back_Stretch/1.jpg"
   ],
-  "id": "Chair_Lower_Back_Stretch"
+  "id": "Chair_Lower_Back_Stretch",
+  "instructions_fr": [
+    "Asseyez-vous droit sur une chaise.",
+    "Inclinez-vous d'un côté en plaçant votre bras au-dessus de votre tête. Vous pouvez vous appuyer sur la chaise avec votre main libre.",
+    "Maintenez la position pendant 10 secondes, puis répétez l'exercice pour l'autre côté."
+  ]
 }

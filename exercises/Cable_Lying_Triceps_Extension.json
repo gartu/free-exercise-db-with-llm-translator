@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on a flat bench and grasp the straight bar attachment of a low pulley with a narrow overhand grip. Tip: The easiest way to do this is to have someone hand you the bar as you lay down.",
     "With your arms extended, position the bar over your torso. Your arms and your torso should create a 90-degree angle. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Cable_Lying_Triceps_Extension/0.jpg",
     "Cable_Lying_Triceps_Extension/1.jpg"
   ],
-  "id": "Cable_Lying_Triceps_Extension"
+  "id": "Cable_Lying_Triceps_Extension",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat et saisissez la poignée droite d'un poulie basse avec une prise en main inversée étroite. Astuce : le moyen le plus simple de faire cela est de demander à quelqu'un de vous tendre la barre pendant que vous vous allongez.",
+    "Avec les bras tendus, placez la barre sur votre torse. Vos bras et votre torse doivent former un angle de 90 degrés. Cette position sera votre point de départ.",
+    "Abaissez la barre en fléchissant le coude tout en gardant les bras supérieurs immobiles et les coudes rentrés. Descendez jusqu'à ce que la barre touche légèrement votre front. Respirez pendant que vous exécutez cette partie du mouvement.",
+    "Contractez les triceps en ramenant la barre à sa position initiale. Expirez pendant cette partie du mouvement.",
+    "Maintenez la position contractée pendant une seconde et répétez le nombre de répétitions recommandé."
+  ]
 }

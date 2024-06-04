@@ -24,5 +24,12 @@
     "Bench_Jump/0.jpg",
     "Bench_Jump/1.jpg"
   ],
-  "id": "Bench_Jump"
+  "id": "Bench_Jump",
+  "instructions_fr": [
+    "Commencez avec une boîte ou un banc à 1 à 2 pieds devant vous. Debout, les pieds à la largeur des épaules. C'est votre position de départ.",
+    "Effectuez un squat court en préparation pour le saut ; balancer vos bras derrière vous.",
+    "Rebondissez dans cette position, en étendant les hanches, les genoux et les chevilles pour sauter aussi haut que possible. Balancer vos bras vers l'avant et vers le haut.",
+    "Sautez par-dessus le banc, en atterrissant avec les genoux fléchis, en absorbant l'impact par les jambes.",
+    "Tournez-vous et faites face à la direction opposée, puis sautez à nouveau par-dessus le banc."
+  ]
 }

@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a flat bench in front of a high pulley or lat pulldown machine.",
     "Hold the straight bar attachment using an underhand grip (palms up) that is about shoulder width.",
@@ -24,5 +22,14 @@
     "Lying_Close-Grip_Bar_Curl_On_High_Pulley/0.jpg",
     "Lying_Close-Grip_Bar_Curl_On_High_Pulley/1.jpg"
   ],
-  "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley"
+  "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley",
+  "instructions_fr": [
+    "Placez un banc plat devant un poulie haut ou un appareil de tirage vertical.",
+    "Tenez la barre droite à l'aide d'une poignée en position sous (paumes vers le haut), à environ la largeur des épaules.",
+    "Allongez-vous sur le dos, la tête au bout du banc.",
+    "Maintenant, étendez les bras directement au-dessus de vos épaules. Le torse et les bras doivent former un angle de 90 degrés et les coudes doivent être rentrés. Cette position sera votre point de départ.",
+    "En expirant, soulevez la barre selon un arc de cercle jusqu'à ce qu'elle touche votre menton. Contractez vos biceps pendant une seconde en haut de la position contractée. Astuce : Seul le avant-bras doit se déplacer pendant l'exécution de cet exercice. Les bras supérieurs ne doivent pas bouger, ils doivent rester perpendiculaires tout au long du mouvement.",
+    "Retournez lentement à la position de départ.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

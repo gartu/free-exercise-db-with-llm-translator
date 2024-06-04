@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Grab two wide-rimmed plates and put them together with the smooth sides facing outward",
     "Use your fingers to grip the outside part of the plate and your thumb for the other side thus holding both plates together. This is the starting position.",
@@ -22,5 +20,12 @@
     "Plate_Pinch/0.jpg",
     "Plate_Pinch/1.jpg"
   ],
-  "id": "Plate_Pinch"
+  "id": "Plate_Pinch",
+  "instructions_fr": [
+    "Prenez deux assiettes à bords larges et assemblez-les avec les côtés lisses tournés vers l'extérieur.",
+    "Utilisez vos doigts pour saisir la partie extérieure de la plaque et votre pouce pour l'autre côté, tenant ainsi les deux plaques ensemble. C'est la position de départ.",
+    "Serrer la plaque avec vos doigts et votre pouce. Maintenir cette position aussi longtemps que possible.",
+    "Répétez pour le nombre de séries recommandé prescrit dans votre programme.",
+    "Changez de bras et répétez les mouvements."
+  ]
 }

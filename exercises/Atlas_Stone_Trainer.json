@@ -25,5 +25,11 @@
     "Atlas_Stone_Trainer/0.jpg",
     "Atlas_Stone_Trainer/1.jpg"
   ],
-  "id": "Atlas_Stone_Trainer"
+  "id": "Atlas_Stone_Trainer",
+  "instructions_fr": [
+    "Cet entraîneur est efficace pour développer la force de la pierre d'Atlas pour ceux qui n'ont pas accès à des pierres, et sont généralement fabriqués à partir de extrémités de barres ou de tuyaux lourds.",
+    "Commencez par charger le poids souhaité sur la barre. Écartez les jambes en entourant l'implément avec vos bras, en vous penchant au niveau des hanches.",
+    "Commencez par tirer le poids au-dessus des genoux, en étendant à travers les hanches. Alors que le poids dépasse les genoux, il peut être posé en le reposant sur vos cuisses et en vous asseyant, en l'enveloppant étroitement contre votre poitrine.",
+    "Terminez le mouvement en étendant les hanches et les genoux pour soulever la charge aussi haut que possible. La charge peut être retournée sur les genoux ou sur le sol pour des répétitions successives."
+  ]
 }

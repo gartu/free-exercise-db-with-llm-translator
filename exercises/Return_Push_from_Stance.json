@@ -23,5 +23,12 @@
     "Return_Push_from_Stance/0.jpg",
     "Return_Push_from_Stance/1.jpg"
   ],
-  "id": "Return_Push_from_Stance"
+  "id": "Return_Push_from_Stance",
+  "instructions_fr": [
+    "Vous aurez besoin d'un partenaire pour cet exercice.",
+    "Commencez dans une position athlétique en appui sur deux ou trois points.",
+    "Au signal, déplacez-vous pour recevoir la passe de votre partenaire.",
+    "Attrapez la médecine avec les deux mains et jetez-la immédiatement à votre partenaire.",
+    "Vous pouvez modifier cet exercice en courant sur des itinéraires différents."
+  ]
 }

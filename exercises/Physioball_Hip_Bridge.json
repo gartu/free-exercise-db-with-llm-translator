@@ -20,5 +20,10 @@
     "Physioball_Hip_Bridge/0.jpg",
     "Physioball_Hip_Bridge/1.jpg"
   ],
-  "id": "Physioball_Hip_Bridge"
+  "id": "Physioball_Hip_Bridge",
+  "instructions_fr": [
+    "Allongez-vous sur une balle de façon à ce que votre dos supérieur repose sur la balle, les hanches non supportées. Les deux pieds doivent être à plat sur le sol, à la largeur des hanches ou plus. C'est votre position de départ.",
+    "Commencez par étendre les hanches en utilisant vos fessiers et ischio-jambiers, en soulevant vos hanches vers le haut en faisant un pont.",
+    "Arrêtez-vous au sommet du mouvement et revenez à la position de départ."
+  ]
 }

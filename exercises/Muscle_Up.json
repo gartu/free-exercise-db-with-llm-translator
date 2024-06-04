@@ -27,5 +27,11 @@
     "Muscle_Up/0.jpg",
     "Muscle_Up/1.jpg"
   ],
-  "id": "Muscle_Up"
+  "id": "Muscle_Up",
+  "instructions_fr": [
+    "Saisissez les anneaux en utilisant une poignée fausse, la base de vos paumes sur le dessus des anneaux. Initiez un tirage vertical en tirant les coudes vers le bas, en fléchissant les coudes.",
+    "Une fois que vous atteignez la position supérieure du tractions, tirez les anneaux vers vos aisselles en faisant rouler vos épaules vers l'avant, ce qui permet à vos coudes de se déplacer directement vers l'arrière. Cela vous place dans la bonne position pour passer à la partie dip du mouvement.",
+    "En maintenant le contrôle et la stabilité, étendez-vous au niveau du coude pour compléter le mouvement.",
+    "Faites attention lorsque vous vous abaissez au sol."
+  ]
 }

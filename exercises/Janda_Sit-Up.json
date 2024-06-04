@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Position your body on the floor in the basic sit-up position; knees to a ninety degree angle with feet flat on the floor and arms either crossed over your chest or to the sides. This will be your starting position.",
     "As you strongly tighten your glutes and hamstrings, fill your lungs with air and in a slow (three to six second count) ascent, slowly exhale. Tip: It is important to tighten the glutes and hamstrings as this will cause the hip flexors to be inactivated in a process called reciprocal inhibition, which basically means that opposite muscles to the contracted ones will relax.",
@@ -21,5 +19,11 @@
     "Janda_Sit-Up/0.jpg",
     "Janda_Sit-Up/1.jpg"
   ],
-  "id": "Janda_Sit-Up"
+  "id": "Janda_Sit-Up",
+  "instructions_fr": [
+    "Placez votre corps sur le sol dans la position de base du gainage ; genoux à un angle de quatre-vingt-dix degrés avec les pieds à plat sur le sol et les bras soit croisés sur votre poitrine, soit sur les côtés. Cette position sera votre position de départ.",
+    "En serrant fermement les fessiers et les ischio-jambiers, remplissez vos poumons d'air et en remontant lentement (comptez trois à six secondes) en expirant lentement. Astuce : Il est important de contracter les fessiers et les ischio-jambiers car cela aura pour effet d'inactiver les flexeurs de hanche dans un processus appelé inhibition réciproque, ce qui signifie essentiellement que les muscles opposés aux muscles contractés se détendront.",
+    "En inspirant, revenez lentement à la position de départ de manière contrôlée.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

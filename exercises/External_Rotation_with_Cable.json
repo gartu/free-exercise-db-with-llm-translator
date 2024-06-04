@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the cable to the same height as your elbow. Stand with your left side to the band a couple of feet away.",
     "Grasp the handle with your right hand, and keep your elbow pressed firmly to your side. We recommend you hold a pad or foam roll in place with your elbow to keep it firmly in position.",
@@ -21,5 +19,11 @@
     "External_Rotation_with_Cable/0.jpg",
     "External_Rotation_with_Cable/1.jpg"
   ],
-  "id": "External_Rotation_with_Cable"
+  "id": "External_Rotation_with_Cable",
+  "instructions_fr": [
+    "Ajustez le câble à la même hauteur que votre coude. Tenez-vous debout, face à la bande, à quelques pieds de distance, côté gauche.",
+    "Prenez la poignée avec votre main droite et maintenez votre coude fermement contre votre côté. Nous vous recommandons de maintenir une housse ou un rouleau en mousse en place avec votre coude pour le maintenir fermement en place.",
+    "Avec votre bras supérieur en position, votre coude doit être fléchi à 90 degrés et votre main devez atteindre la partie avant de votre torse. Cette position sera votre point de départ.",
+    "Exécutez le mouvement en faisant pivoter votre bras dans un mouvement vers l'arrière, en gardant votre coude en place."
+  ]
 }

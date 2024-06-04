@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the seat to the appropriate height and make your weight selection. Place your upper arms against the pads and grasp the handles. This will be your starting position.",
     "Perform the movement by extending the elbow, pulling your lower arm away from your upper arm.",
@@ -21,5 +19,11 @@
     "Machine_Triceps_Extension/0.jpg",
     "Machine_Triceps_Extension/1.jpg"
   ],
-  "id": "Machine_Triceps_Extension"
+  "id": "Machine_Triceps_Extension",
+  "instructions_fr": [
+    "Ajustez le siège à la hauteur appropriée et choisissez votre poids. Placez vos bras supérieurs contre les coussins et saisissez les poignées. Ce sera votre position de départ.",
+    "Exécutez le mouvement en étendant le coude, en éloignant votre avant-bras de votre bras supérieur.",
+    "Arrêtez-vous à la fin du mouvement, puis ramenez lentement le poids à la position de départ.",
+    "Évitez de ramener la charge jusqu'au bout à chaque répétition pour maintenir la tension sur les muscles ciblés tout au long de la série."
+  ]
 }

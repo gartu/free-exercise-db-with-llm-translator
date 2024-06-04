@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the handles so that they are fully to the rear. Make an appropriate weight selection and adjust the seat height so the handles are at shoulder level. Grasp the handles with your hands facing inwards. This will be your starting position.",
     "In a semicircular motion, pull your hands out to your side and back, contracting your rear delts.",
@@ -21,5 +19,11 @@
     "Reverse_Machine_Flyes/0.jpg",
     "Reverse_Machine_Flyes/1.jpg"
   ],
-  "id": "Reverse_Machine_Flyes"
+  "id": "Reverse_Machine_Flyes",
+  "instructions_fr": [
+    "Ajustez les poignées pour qu'elles soient complètement à l'arrière. Choisissez un poids approprié et ajustez la hauteur du siège de sorte que les poignées se trouvent au niveau des épaules. Prenez les poignées avec vos mains tournées vers l'intérieur. Cette position sera votre position de départ.",
+    "Dans un mouvement semi-circulaire, éloignez vos mains vers les côtés et vers l'arrière, en contractant vos deltoïdes postérieurs.",
+    "Gardez vos bras légèrement fléchis tout au long du mouvement, toute la mobilité se situant au niveau de l'articulation de l'épaule.",
+    "Arrêtez-vous à l'arrière du mouvement et ramenez lentement le poids à la position de départ."
+  ]
 }

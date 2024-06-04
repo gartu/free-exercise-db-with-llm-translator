@@ -22,5 +22,12 @@
     "Dumbbell_Alternate_Bicep_Curl/0.jpg",
     "Dumbbell_Alternate_Bicep_Curl/1.jpg"
   ],
-  "id": "Dumbbell_Alternate_Bicep_Curl"
+  "id": "Dumbbell_Alternate_Bicep_Curl",
+  "instructions_fr": [
+    "Debout (torse droit) avec un haltère dans chaque main tenu à la longueur des bras. Les coudes doivent être près du torse et les paumes de vos mains doivent être tournées vers vos cuisses.",
+    "En maintenant le bras supérieur stationnaire, effectuez un curl avec le poids à droite en faisant pivoter la paume des mains jusqu'à ce qu'elles soient orientées vers l'avant. À ce stade, continuez de contracter les biceps en expirant jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient au niveau des épaules. Maintenez la position contractée pendant une seconde en serrant les biceps. Astuce : Seul le avant-bras doit bouger.",
+    "Ramenez lentement l'haltère à la position de départ en respirant. Conseils : N'oubliez pas de tourner les paumes vers la position de départ (en direction des cuisses) lorsque vous redescendez.",
+    "Répétez le mouvement avec la main gauche. Cela équivaut à une répétition.",
+    "Continuez à alterner de cette manière pour le nombre de répétitions recommandé."
+  ]
 }

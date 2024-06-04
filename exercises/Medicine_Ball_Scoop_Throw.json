@@ -22,5 +22,10 @@
     "Medicine_Ball_Scoop_Throw/0.jpg",
     "Medicine_Ball_Scoop_Throw/1.jpg"
   ],
-  "id": "Medicine_Ball_Scoop_Throw"
+  "id": "Medicine_Ball_Scoop_Throw",
+  "instructions_fr": [
+    "Prenez une position semi-foulée avec une balle médicale dans vos mains. Vos bras doivent être pendus de sorte que la balle soit près de vos pieds.",
+    "Commencez par pousser les hanches en avant tout en tendant les jambes, puis sautez.",
+    "Alors que vous le faites, balancez vos bras vers le haut et au-dessus de votre tête, en les gardant étendus, relâchez la balle au sommet de votre mouvement. L'objectif est de lancer la balle à la plus grande distance derrière vous."
+  ]
 }

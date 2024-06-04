@@ -25,5 +25,11 @@
     "One-Arm_Open_Palm_Kettlebell_Clean/0.jpg",
     "One-Arm_Open_Palm_Kettlebell_Clean/1.jpg"
   ],
-  "id": "One-Arm_Open_Palm_Kettlebell_Clean"
+  "id": "One-Arm_Open_Palm_Kettlebell_Clean",
+  "instructions_fr": [
+    "Placez une kettlebell entre vos pieds.",
+    "Attrapez la poignée d'une main et soulevez rapidement la kettlebell, laissez-la se retourner de sorte que le ballon de la kettlebell atterrisse dans la paume de votre main.",
+    "Jetez la kettlebell devant vous et attrapez la poignée d'une seule main.",
+    "Prenez la kettlebell par terre et répétez l'exercice. Assurez-vous d'exercer les deux bras."
+  ]
 }

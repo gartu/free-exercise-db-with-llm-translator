@@ -23,5 +23,12 @@
     "Dumbbell_One-Arm_Upright_Row/0.jpg",
     "Dumbbell_One-Arm_Upright_Row/1.jpg"
   ],
-  "id": "Dumbbell_One-Arm_Upright_Row"
+  "id": "Dumbbell_One-Arm_Upright_Row",
+  "instructions_fr": [
+    "Prenez un haltère et tenez-vous droit avec le bras tendu devant vous, avec un léger angle au niveau des coudes et le dos droit. Cette position sera votre position de départ. Conseil : L'haltère doit reposer sur votre cuisse, la paume de vos mains tournée vers vos cuisses.",
+    "Gardez l'autre main complètement tendue sur le côté, au niveau de la taille ou en saisissant une surface fixe. Cette position sera votre position de départ.",
+    "Utilisez vos épaules latérales pour soulever l'haltère pendant que vous expirez. L'haltère doit être proche du corps lors de son élévation. Continuez à le soulever jusqu'à ce que l'haltère soit presque aligné avec votre menton.\n\nConseils : Ce sont vos coudés qui doivent diriger le mouvement. Lorsque vous soulevez l'haltère, votre coude doit toujours être plus haut que votre avant-bras. De plus, maintenez votre torse immobile et faites une pause de quelques secondes au sommet du mouvement.",
+    "Abaissez lentement l'haltère jusqu'à la position de départ. Inspirez pendant cette partie du mouvement.",
+    "Répétez pour le nombre de répétitions recommandé et changez de bras."
+  ]
 }

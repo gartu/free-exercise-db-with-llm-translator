@@ -22,5 +22,10 @@
     "Good_Morning/0.jpg",
     "Good_Morning/1.jpg"
   ],
-  "id": "Good_Morning"
+  "id": "Good_Morning",
+  "instructions_fr": [
+    "Commencez avec une barre sur un support à la hauteur des épaules. Placez la barre à l'arrière de vos épaules comme pour un squat de puissance, et non sur le dessus de vos épaules. Gardez le dos tendu, les omoplates rapprochées et les genoux légèrement fléchis. Éloignez-vous du support.",
+    "Commencez par vous pencher au niveau des hanches, en les déplaçant vers l'arrière lorsque vous vous penchez jusqu'à une position presque parallèle. Maintenez votre dos arqué et votre colonne cervicale dans un alignement correct.",
+    "Inverser le mouvement en vous étendant au niveau des hanches avec vos fessiers et ischio-jambiers. Continuez jusqu'à ce que vous soyez revenu à la position de départ."
+  ]
 }

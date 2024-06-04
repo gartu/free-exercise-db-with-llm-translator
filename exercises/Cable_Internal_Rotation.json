@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit next to a low pulley sideways (with legs stretched in front of you or crossed) and grasp the single hand cable attachment with the arm nearest to the cable. Tip: If you can adjust the pulley's height, you can use a flat bench to sit on instead.",
     "Position the elbow against your side with the elbow bent at 90° and the arm pointing towards the pulley. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Cable_Internal_Rotation/0.jpg",
     "Cable_Internal_Rotation/1.jpg"
   ],
-  "id": "Cable_Internal_Rotation"
+  "id": "Cable_Internal_Rotation",
+  "instructions_fr": [
+    "Asseyez-vous à côté d'un câble à manivelle basse (avec les jambes tendues devant vous ou croisées) et saisissez l'accessoire de câble à une main avec le bras le plus proche du câble. Astuce : si vous pouvez ajuster la hauteur de la manivelle, vous pouvez utiliser un banc plat plutôt que le sol.",
+    "Placez le coude contre votre côté, le coude plié à 90 degrés et le bras pointant vers la poulie. Cette position sera votre position de départ.",
+    "Tirez la poignée de câble vers votre corps en effectuant une rotation interne de l'épaule jusqu'à ce que votre avant-bras se trouve à travers vos abdominaux. Vous allez créer un demi-cercle imaginaire. astuce : L'avant-bras doit rester perpendiculaire à votre torse en tout temps.",
+    "Revenez lentement à la position initiale.",
+    "Répétez pour le nombre de répétitions recommandé, puis répétez le mouvement avec l'autre bras."
+  ]
 }

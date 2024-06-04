@@ -22,5 +22,12 @@
     "Close-Grip_Standing_Barbell_Curl/0.jpg",
     "Close-Grip_Standing_Barbell_Curl/1.jpg"
   ],
-  "id": "Close-Grip_Standing_Barbell_Curl"
+  "id": "Close-Grip_Standing_Barbell_Curl",
+  "instructions_fr": [
+    "Tenez une barre avec les deux mains, les paumes vers le haut et à quelques centimètres d'écart.",
+    "Debout, le torse droit et la tête levée. Vos pieds doivent être à la largeur des épaules et vos coudes près du corps. Cette position sera votre point de départ.\n\nAstuce : Tout au long du mouvement, gardez vos bras supérieurs et vos coudes immobiles.",
+    "Curl la barre vers le haut dans un mouvement semi-circulaire jusqu'à ce que les avant-bras touchent vos biceps. Exhalez pendant cette partie du mouvement et contractez fermement vos biceps pendant une seconde au sommet. Conseil : Évitez de cambrer le dos ou d'utiliser des mouvements de balançoire lors de la levée de poids. Seul les avant-bras doivent bouger.",
+    "Revenez lentement à la position de départ en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

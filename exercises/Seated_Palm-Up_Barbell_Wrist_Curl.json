@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Hold a barbell with both hands and your palms facing up; hands spaced about shoulder width.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
@@ -22,5 +20,12 @@
     "Seated_Palm-Up_Barbell_Wrist_Curl/0.jpg",
     "Seated_Palm-Up_Barbell_Wrist_Curl/1.jpg"
   ],
-  "id": "Seated_Palm-Up_Barbell_Wrist_Curl"
+  "id": "Seated_Palm-Up_Barbell_Wrist_Curl",
+  "instructions_fr": [
+    "Tenez une barre avec les deux mains, les paumes vers le haut, les mains espacées d'environ la largeur des épaules.",
+    "Placez vos pieds à plat sur le sol, à une distance légèrement plus large que la largeur des épaules.",
+    "Inclinerson corps en avant et posez vos avant-bras sur le dessus de vos cuisses, paumes vers le haut. Conseil : Assurez-vous que l'avant de vos poignets repose sur vos genoux. \tCeci sera votre position de départ.",
+    "Descendez la barre le plus bas possible tout en inspirant et en gardant une prise ferme.",
+    "Maintenant, soulevez la barre aussi haut que possible en contractant les avant-bras et en expirant. Maintenez la contraction en haut pendant une seconde et astuce : seul le poignet devrait bouger."
+  ]
 }

@@ -21,5 +21,10 @@
     "Incline_Cable_Chest_Press/0.jpg",
     "Incline_Cable_Chest_Press/1.jpg"
   ],
-  "id": "Incline_Cable_Chest_Press"
+  "id": "Incline_Cable_Chest_Press",
+  "instructions_fr": [
+    "Ajustez le poids à une quantité appropriée et asseyez-vous, en saisissant les poignées. Vos bras supérieurs devraient former un angle d'environ 45 degrés avec votre corps, la tête et la poitrine levées. Les coudes doivent être fléchis d'environ 90 degrés. Telle sera votre position de départ.",
+    "Commencez par une extension au niveau du coude, en pressant les poignées ensemble devant vous. Maintenez vos omoplates rentrées pendant l'exécution du mouvement.",
+    "Après une pause en extension complète, revenez à la position de départ tout en gardant la tension sur les câbles."
+  ]
 }

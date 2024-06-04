@@ -20,5 +20,9 @@
     "Standing_Biceps_Stretch/0.jpg",
     "Standing_Biceps_Stretch/1.jpg"
   ],
-  "id": "Standing_Biceps_Stretch"
+  "id": "Standing_Biceps_Stretch",
+  "instructions_fr": [
+    "Joignez vos mains derrière votre dos, paumes contre paumes, redressez les bras puis faites-les pivoter afin que vos paumes soient tournées vers le bas.",
+    "Levez les bras vers le haut et maintenez jusqu'à ce que vous sentiez une étirement dans vos biceps."
+  ]
 }

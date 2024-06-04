@@ -25,5 +25,14 @@
     "Machine_Bench_Press/0.jpg",
     "Machine_Bench_Press/1.jpg"
   ],
-  "id": "Machine_Bench_Press"
+  "id": "Machine_Bench_Press",
+  "instructions_fr": [
+    "Asseyez-vous sur la machine de press à poitrine et sélectionnez le poids.",
+    "Montez sur le levier fourni par la machine, car il vous aidera à ramener les poignées vers l'avant afin que vous puissiez attraper les poignées et étendre pleinement les bras.",
+    "Attrapez les poignées avec une prise en supination et soulevez vos coudes de sorte que vos bras soient parallèles au sol et le long de votre torse. astuce : Vos avant-bras seront tournés vers l'avant car vous attrapez les poignées. Une fois que vous avez ramené les poignées vers l'avant et étendu les bras, vous êtes en position de départ.",
+    "Maintenant, ramenez les poignées vers vous pendant que vous inspirez.",
+    "Poussez les poignées loin de vous en contractant vos pectoraux et en respirant. Maintenez la contraction pendant une seconde avant de revenir à la position de départ.",
+    "Répétez le nombre de répétitions recommandé.",
+    "Lorsque vous avez terminé, montez à nouveau sur le levier et remettez lentement les poignées à leur place d'origine."
+  ]
 }

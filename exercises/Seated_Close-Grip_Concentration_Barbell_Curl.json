@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit down on a flat bench with a barbell or E-Z Bar in front of you in between your legs. Your legs should be spread with the knees bent and the feet on the floor.",
     "Use your arms to pick the barbell up and place the back of your upper arms on top of your inner thighs (around three and a half inches away from the front of the knee). A supinated grip closer than shoulder width is needed to perform this exercise. Tip: Your arm should be extended at arms length and the barbell should be above the floor. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Seated_Close-Grip_Concentration_Barbell_Curl/0.jpg",
     "Seated_Close-Grip_Concentration_Barbell_Curl/1.jpg"
   ],
-  "id": "Seated_Close-Grip_Concentration_Barbell_Curl"
+  "id": "Seated_Close-Grip_Concentration_Barbell_Curl",
+  "instructions_fr": [
+    "Asseyez-vous sur un banc plat avec une barre ou une barre E-Z devant vous entre vos jambes. Vos jambes doivent être écartées, les genoux pliés et les pieds à plat sur le sol.",
+    "Utilisez vos bras pour soulever la barre et placez-les sur le dos de votre cuisse (à environ 3,5 pouces devant le genou). Une poignée prononchée plus étroite que la largeur des épaules est nécessaire pour effectuer cet exercice. Astuce : Votre bras doit être étendu à bras tendu et la barre doit être au-dessus du sol. Ce sera votre position de départ.",
+    "En maintenant les bras supérieurs immobiles, soulevez les poids en les pliant vers l'avant tout en contractant les biceps pendant que vous expirez. Seules les avant-bras doivent bouger. Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que les haltères soient à la hauteur des épaules. Maintenez cette position contractée pendant une seconde en contractant les biceps.",
+    "Ramenez lentement la barre vers sa position initiale tout en respirant. Conseils : Évitez les mouvements de balançoement à tout moment.",
+    "Répétez le mouvement pendant le nombre de répétitions recommandé."
+  ]
 }

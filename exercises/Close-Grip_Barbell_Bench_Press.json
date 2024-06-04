@@ -23,5 +23,12 @@
     "Close-Grip_Barbell_Bench_Press/0.jpg",
     "Close-Grip_Barbell_Bench_Press/1.jpg"
   ],
-  "id": "Close-Grip_Barbell_Bench_Press"
+  "id": "Close-Grip_Barbell_Bench_Press",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat. En utilisant une prise étroite (environ à la largeur des épaules), soulevez la barre de l'étagère et tenez-la droite au-dessus de vous avec vos bras verrouillés. Cette position sera votre position de départ.",
+    "En inspirant, descendez lentement jusqu'à ce que vous sentiez la barre sur votre poitrine moyenne. Astuce : Assurez-vous, contrairement à une presse à banc régulière, de garder les coudes près du torse en tout temps afin d'impliquer au maximum les triceps.",
+    "Après une seconde pause, ramenez la barre à sa position de départ en expirant et en poussant la barre à l'aide des muscles des triceps. Verrouillez vos bras en position contractée, maintenez pendant une seconde puis recommencez à descendre lentement. Astuce : Il faut au moins deux fois plus de temps pour descendre que pour monter.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit.",
+    "Une fois que vous avez terminé, replacez la barre dans le porte-barre."
+  ]
 }

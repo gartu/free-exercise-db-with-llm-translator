@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "shoulders"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Select the weight on a low pulley machine and grasp the single hand cable attachment that is attached to the low pulley with your left hand.",
     "Face away from the pulley and put your arm straight down with the hand cable attachment in front of your thighs at arms' length with the palms of the hand facing your thighs. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Front_Cable_Raise/0.jpg",
     "Front_Cable_Raise/1.jpg"
   ],
-  "id": "Front_Cable_Raise"
+  "id": "Front_Cable_Raise",
+  "instructions_fr": [
+    "Choisissez le poids sur une machine à poulie basse et saisissez l'accessoire de câble à une main qui est attaché à la poulie basse avec votre main gauche.",
+    "Vous vous tenez face au poulie, le bras tendu vers le bas avec l'attache de câble de la main devant les cuisses à la longueur du bras, la paume de la main face aux cuisses. Telle sera votre position de départ.",
+    "En gardant le tronc immobile (pas de balancement), soulevez le bras gauche vers l'avant avec un léger pli au niveau du coude et la paume de la main toujours tournée vers le bas. Continuez à monter jusqu'à ce que votre bras soit légèrement au-dessus de parallèle au sol. Inhalez pendant que vous exécutez cette partie du mouvement et faites une pause d'une seconde en haut.",
+    "Maintenant, comme vous inspirez, baissez lentement le bras jusqu'à la position de départ.",
+    "Une fois que vous avez effectué toutes les répétitions recommandées pour ce bras, passez au bras opposé et exécutez l'exercice avec le bras droit."
+  ]
 }

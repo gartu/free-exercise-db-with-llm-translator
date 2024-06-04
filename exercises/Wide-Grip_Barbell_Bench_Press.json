@@ -22,5 +22,11 @@
     "Wide-Grip_Barbell_Bench_Press/0.jpg",
     "Wide-Grip_Barbell_Bench_Press/1.jpg"
   ],
-  "id": "Wide-Grip_Barbell_Bench_Press"
+  "id": "Wide-Grip_Barbell_Bench_Press",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat les pieds bien à plat sur le sol. En utilisant une poignée prononnée (paumes vers l'avant) et un espacement d'environ 3 pouces de la largeur des épaules (pour chaque main), soulevez la barre du support et tenez-la droite au-dessus de vous avec les bras verrouillés. La barre sera perpendiculaire à la taille et au sol. Cette position sera votre position de départ.",
+    "En inspirant, descendez lentement jusqu'à ce que vous sentiez la barre sur votre poitrine centrale.",
+    "Après une seconde pause, ramenez la barre à la position de départ en expirant et en poussant la barre à l'aide de vos muscles de la poitrine. Verrouillez vos bras et contractez votre poitrine dans la position contractée, maintenez pendant une seconde puis recommencez lentement à descendre. Astuce : Il faut au moins deux fois plus de temps pour descendre que pour monter.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit."
+  ]
 }

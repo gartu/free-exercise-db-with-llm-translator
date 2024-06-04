@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "To begin, set a weight that is comfortable on each side of the pulley machine. Note: Make sure that the amount of weight selected is the same on each side.",
     "Now adjust the height of the pulleys on each side and make sure that they are positioned at a height higher than that of your shoulders.",
@@ -23,5 +21,13 @@
     "Overhead_Cable_Curl/0.jpg",
     "Overhead_Cable_Curl/1.jpg"
   ],
-  "id": "Overhead_Cable_Curl"
+  "id": "Overhead_Cable_Curl",
+  "instructions_fr": [
+    "Pour commencer, placez une charge que vous jugez confortable sur chaque côté du système de poulie. Note : Assurez-vous que le poids sélectionné est le même sur chaque côté.",
+    "Ajustez maintenant la hauteur des poulies de chaque côté et assurez-vous qu'elles sont positionnées à une hauteur supérieure à celle de vos épaules.",
+    "Debout au milieu des deux côtés, prenez chaque poignée en poigne sous la main (les paumes face au plafond) . Vos bras doivent être complètement tendus et parallèles au sol, vos pieds étant espacés de l'épaisseur d'une épaule. Votre corps doit être aligné uniformément avec les poignées. C'est la position de départ.",
+    "En expirant, contractez lentement les biceps de chaque côté jusqu'à ce que vos avant-bras et vos biceps se touchent.",
+    "Pendant l'inspiration, ramenez vos avant-bras à la position de départ. Remarque : votre corps entier reste immobile pendant cet exercice, à l'exception de vos avant-bras.",
+    "Répétez pour le nombre de répétitions recommandé prescrit dans votre programme."
+  ]
 }

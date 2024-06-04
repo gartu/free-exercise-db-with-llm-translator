@@ -22,5 +22,10 @@
     "Side_Standing_Long_Jump/0.jpg",
     "Side_Standing_Long_Jump/1.jpg"
   ],
-  "id": "Side_Standing_Long_Jump"
+  "id": "Side_Standing_Long_Jump",
+  "instructions_fr": [
+    "Commencez debout, les pieds à la largeur des hanches, en position athlétique. La tête et le torse doivent être relevés, les genoux et les hanches légèrement fléchis. Cette position sera votre position de départ.",
+    "Inclinaison sur votre droite, extension au niveau des hanches, des genoux et des chevilles pour sauter dans l'air. Blocage avec les bras pour diriger le mouvement, sautez aussi loin que vous pouvez vers votre droite.",
+    "Atterrissez face à la même direction, les pieds à la largeur du bassin, en absorbant l'impact par votre bas du corps."
+  ]
 }

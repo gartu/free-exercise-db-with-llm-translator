@@ -24,5 +24,10 @@
     "Fast_Skipping/0.jpg",
     "Fast_Skipping/1.jpg"
   ],
-  "id": "Fast_Skipping"
+  "id": "Fast_Skipping",
+  "instructions_fr": [
+    "Commencez en position détendue avec une jambe légèrement avancée. Cette position sera votre point de départ.",
+    "Sautez en exécutant un modèle pas-saut de droite à gauche, et ainsi de suite, en alternant de côté en côté.",
+    "Exécutez des sauts rapides en maintenant un contact étroit avec le sol et réduisez le temps en l'air, en vous déplaçant aussi rapidement que possible."
+  ]
 }

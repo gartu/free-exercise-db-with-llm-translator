@@ -21,5 +21,10 @@
     "Barbell_Hip_Thrust/0.jpg",
     "Barbell_Hip_Thrust/1.jpg"
   ],
-  "id": "Barbell_Hip_Thrust"
+  "id": "Barbell_Hip_Thrust",
+  "instructions_fr": [
+    "Commencez assis par terre avec un banc directement derrière vous. Avoir une barre chargée sur vos jambes. Utiliser une barre épaisse ou avoir une plaque sur la barre peut réduire considérablement le inconfort causé par cet exercice.",
+    "Faites rouler la barre de sorte qu'elle se trouve directement au-dessus de vos hanches, et penchez-vous en arrière sur le banc de sorte que vos omoplates se trouvent près du haut de celui-ci.",
+    "Commencez le mouvement en appuyant sur vos pieds et en étendant vos hanches verticalement à travers la barre. Votre poids doit être soutenu par vos omoplates et vos pieds. Étendez-vous autant que possible, puis inversez le mouvement pour revenir à la position de départ."
+  ]
 }

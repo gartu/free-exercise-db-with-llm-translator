@@ -21,5 +21,10 @@
     "Barbell_Glute_Bridge/0.jpg",
     "Barbell_Glute_Bridge/1.jpg"
   ],
-  "id": "Barbell_Glute_Bridge"
+  "id": "Barbell_Glute_Bridge",
+  "instructions_fr": [
+    "Commencez assis par terre avec une barre chargée sur vos jambes. Utiliser une barre épaisse ou mettre une bande de protection sur la barre peut réduire considérablement le inconfort causé par cet exercice. Faites rouler la barre de sorte qu'elle soit directement au-dessus de vos hanches, et étendez-vous à plat sur le sol.",
+    "Commencez le mouvement en poussant avec vos talons, en étendant vos hanches verticalement à travers la barre. Votre poids doit être soutenu par votre dos supérieur et les talons de vos pieds.",
+    "Étendez-vous autant que possible, puis inversez le mouvement pour revenir à la position de départ."
+  ]
 }

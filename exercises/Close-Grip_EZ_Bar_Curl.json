@@ -22,5 +22,12 @@
     "Close-Grip_EZ_Bar_Curl/0.jpg",
     "Close-Grip_EZ_Bar_Curl/1.jpg"
   ],
-  "id": "Close-Grip_EZ_Bar_Curl"
+  "id": "Close-Grip_EZ_Bar_Curl",
+  "instructions_fr": [
+    "Debout, le torse droit, tenez une barre E-Z Curl à la poignée intérieure la plus proche. La paume de vos mains doit être tournée vers l'avant et inclinée légèrement vers l'intérieur en raison de la forme de la barre. Les coudes doivent être proches du corps. Telle sera votre position de départ.",
+    "En maintenant les bras supérieurs fixes, faites pivoter les poids vers l'avant en contractant les biceps pendant que vous expirez. Astuce : Seules les avant-bras devraient bouger.",
+    "Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et que la barre soit au niveau des épaules. Maintenez la position contractée pendant une seconde et contractez fermement les biceps.",
+    "Ramenez lentement la barre vers sa position initiale pendant que vous inspirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

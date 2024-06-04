@@ -21,5 +21,9 @@
     "Bicycling_Stationary/0.jpg",
     "Bicycling_Stationary/1.jpg"
   ],
-  "id": "Bicycling_Stationary"
+  "id": "Bicycling_Stationary",
+  "instructions_fr": [
+    "Pour commencer, installez-vous sur le vélo et ajustez la selle à votre taille.",
+    "Sélectionnez l'option souhaitée dans le menu. Vous devrez peut-être commencer à pédaler pour l'allumer. Vous pouvez utiliser le réglage manuel ou sélectionner un programme à utiliser. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. Le niveau de résistance peut être modifié tout au long de l'entraînement. Les poignées peuvent être utilisées pour surveiller votre fréquence cardiaque pour vous aider à maintenir une intensité appropriée."
+  ]
 }

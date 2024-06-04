@@ -26,5 +26,12 @@
     "Lateral_Box_Jump/0.jpg",
     "Lateral_Box_Jump/1.jpg"
   ],
-  "id": "Lateral_Box_Jump"
+  "id": "Lateral_Box_Jump",
+  "instructions_fr": [
+    "Prenez une position debout confortable, avec un petit banc placé à côté de vous. C'est votre position de départ.",
+    "Plongez rapidement dans un squat quart pour initier le reflet étiré, et inversez immédiatement la direction pour sauter vers le haut et sur le côté.",
+    "Amenez vos genoux suffisamment haut pour vous assurer que vos pieds ont une bonne marge de manœuvre au-dessus de la boîte.",
+    "Atterrissez au centre de la boîte, en utilisant vos jambes pour absorber l'impact.",
+    "Sauter soigneusement vers l'autre côté de la boîte, et continuer aller-retour pendant plusieurs répétitions."
+  ]
 }

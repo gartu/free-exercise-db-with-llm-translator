@@ -21,5 +21,10 @@
     "Bodyweight_Squat/0.jpg",
     "Bodyweight_Squat/1.jpg"
   ],
-  "id": "Bodyweight_Squat"
+  "id": "Bodyweight_Squat",
+  "instructions_fr": [
+    "Debout, les pieds à la largeur des épaules. Vous pouvez placer vos mains derrière votre tête. Ce sera votre position de départ.",
+    "Commencez le mouvement en fléchissant les genoux et les hanches, en revenant en arrière avec vos hanches.",
+    "Descendez jusqu'à la profondeur maximale si vous le pouvez, et inversez rapidement le mouvement jusqu'à retourner à la position de départ. Lors de votre squat, gardez la tête et la poitrine relevées et poussez les genoux vers l'extérieur."
+  ]
 }

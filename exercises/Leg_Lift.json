@@ -22,5 +22,12 @@
     "Leg_Lift/0.jpg",
     "Leg_Lift/1.jpg"
   ],
-  "id": "Leg_Lift"
+  "id": "Leg_Lift",
+  "instructions_fr": [
+    "Tout en restant debout et les pieds à côté l'un de l'autre, à environ la largeur des épaules, attrapez une surface solide comme les côtés d'une cage à squat ou le haut d'une chaise pour vous maintenir et garder votre équilibre.",
+    "Avec ou sans poids de cheville, levez une jambe derrière vous comme si vous faisiez un leg curl mais debout tout en gardant l'autre jambe tendue. Respirez pendant que vous effectuez ce mouvement.",
+    "Ramenez lentement la jambe levée vers le sol en inspirant.",
+    "Répétez pour le nombre de répétitions recommandé.",
+    "Répétez le mouvement avec la jambe opposée."
+  ]
 }

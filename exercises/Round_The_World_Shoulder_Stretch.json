@@ -21,5 +21,10 @@
     "Round_The_World_Shoulder_Stretch/0.jpg",
     "Round_The_World_Shoulder_Stretch/1.jpg"
   ],
-  "id": "Round_The_World_Shoulder_Stretch"
+  "id": "Round_The_World_Shoulder_Stretch",
+  "instructions_fr": [
+    "Tenez-vous droit les jambes jointes, en tenant une barre de corps ou un manche de balai.",
+    "Tenez la barre derrière vos hanches avec une prise plus large que la largeur des épaules. Vos paumes doivent être dirigées vers le bas et vos pouces vers l'extérieur.",
+    "Soulevez lentement les bras derrière votre tête. Ne forcez pas si cela devient difficile à soulever."
+  ]
 }

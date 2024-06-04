@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on your back and bend your knees about 60 degrees.",
     "Keep your feet flat on the floor and place your hands loosely behind your head. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Cross-Body_Crunch/0.jpg",
     "Cross-Body_Crunch/1.jpg"
   ],
-  "id": "Cross-Body_Crunch"
+  "id": "Cross-Body_Crunch",
+  "instructions_fr": [
+    "Allongez-vous à plat sur le dos et pliez les genoux d'environ 60 degrés.",
+    "Gardez les pieds à plat sur le sol et placez vos mains librement derrière votre tête. Cette position sera votre point de départ.",
+    "Maintenant, faites un mouvement de curling et amenez votre coude droit et votre épaule à travers votre corps tout en amenant votre genou gauche vers votre épaule gauche en même temps. Étendez votre coude et essayez d'atteindre votre genou. Exhalez pendant que vous effectuez ce mouvement. Astuce : Essayez d'amener votre épaule vers votre genou plutôt que simplement votre coude et n'oubliez pas que la clé consiste à contracter vos abdominaux pendant que vous effectuez le mouvement, et non à simplement déplacer votre coude.",
+    "Revenez maintenant à la position de départ en inspirant et répétez l'exercice avec le coude gauche et le genou droit.",
+    "Continuez à alterner de cette manière jusqu'à ce que toutes les répétitions prescrites soient effectuées."
+  ]
 }

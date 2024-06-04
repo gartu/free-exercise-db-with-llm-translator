@@ -21,5 +21,10 @@
     "Bodyweight_Mid_Row/0.jpg",
     "Bodyweight_Mid_Row/1.jpg"
   ],
-  "id": "Bodyweight_Mid_Row"
+  "id": "Bodyweight_Mid_Row",
+  "instructions_fr": [
+    "Commencez en prenant une poignée moyenne à large sur un appareil de traction avec vos paumes face à vous. À partir d'une position suspendue, rentrez les genoux jusqu'à la poitrine, penchez-vous vers l'arrière et placez vos jambes de votre côté de l'appareil de traction. Cette position sera votre position de départ.",
+    "Commencez avec les bras tendus, pliez les coudes et rentrez les omoplates pour soulever votre corps jusqu'à ce que vos jambes entrent en contact avec l'appareil de traction.",
+    "Après une courte pause, revenez à la position de départ."
+  ]
 }

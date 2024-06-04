@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand between a couple of high pulleys and grab a handle in each arm. Position your upper arms in a way that they are parallel to the floor with the palms of your hands facing you. This will be your starting position.",
     "Curl the handles towards you until they are next to your ears. Make sure that as you do so you flex your biceps and exhale. The upper arms should remain stationary and only the forearms should move. Hold for a second in the contracted position as you squeeze the biceps.",
@@ -21,5 +19,11 @@
     "High_Cable_Curls/0.jpg",
     "High_Cable_Curls/1.jpg"
   ],
-  "id": "High_Cable_Curls"
+  "id": "High_Cable_Curls",
+  "instructions_fr": [
+    "Debout entre deux poulies hautes, saisissez une poignée dans chaque bras. Positionnez vos bras supérieurs de manière à ce qu'ils soient parallèles au sol, la paume de vos mains vous faisant face. Telle sera votre position de départ.",
+    "Enroulez les poignées vers vous jusqu'à ce qu'elles soient à côté de vos oreilles. Assurez-vous que, alors que vous le faites, vous contractez vos biceps et que vous exhalez. Les bras supérieurs doivent rester fixes et seuls les avant-bras doivent bouger. Maintenez la position contractée pendant une seconde en contractant les biceps.",
+    "Ramenez lentement les bras à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

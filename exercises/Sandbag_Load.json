@@ -30,5 +30,11 @@
     "Sandbag_Load/0.jpg",
     "Sandbag_Load/1.jpg"
   ],
-  "id": "Sandbag_Load"
+  "id": "Sandbag_Load",
+  "instructions_fr": [
+    "Pour charger des sacs de sable ou d'autres objets, commencez par placer les outils à une certaine distance de la plateforme de chargement, généralement à 50 pieds.",
+    "Commencez en soulevant le sac de sable. Les sacs de sable sont extrêmement maladroits et la manière de les soulever peut varier en fonction du sac de sable particulier utilisé. Étendez-vous aussi loin que possible autour de lui, en étirant les hanches et les genoux pour le tirer haut. Le portage à l'épaule est généralement interdit.",
+    "Déplacez-vous aussi rapidement que possible vers la plateforme et chargez-la en étendant vos hanches, vos genoux et vos chevilles pour l'amener aussi haut que possible. Posez-le sur la plateforme en veillant à ce qu'il ne tombe pas.",
+    "Retournez à la position de départ pour récupérer le prochain sac de sable et répétez jusqu'à ce que l'événement soit terminé."
+  ]
 }

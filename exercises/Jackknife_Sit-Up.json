@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie flat on the floor (or exercise mat) on your back with your arms extended straight back behind your head and your legs extended also. This will be your starting position.",
     "As you exhale, bend at the waist while simultaneously raising your legs and arms to meet in a jackknife position. Tip: The legs should be extended and lifted at approximately a 35-45 degree angle from the floor and the arms should be extended and parallel to your legs. The upper torso should be off the floor.",
@@ -21,5 +19,11 @@
     "Jackknife_Sit-Up/0.jpg",
     "Jackknife_Sit-Up/1.jpg"
   ],
-  "id": "Jackknife_Sit-Up"
+  "id": "Jackknife_Sit-Up",
+  "instructions_fr": [
+    "Allongez-vous sur le dos (ou sur un tapis de sport) les jambes et les bras tendus vers l'arrière, les paumes face au sol. C'est votre position de départ.",
+    "En expirant, fléchissez-vous à la taille tout en levant simultanément les jambes et les bras pour former une position de ciseaux. Astuce : Les jambes doivent être tendues et levées à un angle d'environ 35 à 45 degrés du sol, et les bras doivent être tendus et parallèles aux jambes. La partie supérieure du torse doit être hors du sol.",
+    "Pendant que vous inspirez, abaissez vos bras et vos jambes jusqu'à la position de départ.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

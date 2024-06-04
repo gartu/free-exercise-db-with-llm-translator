@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Attach a rope attachment to a high pulley and grab with a neutral grip (palms facing each other).",
     "Standing upright with the torso straight and a very small inclination forward, bring the upper arms close to your body and perpendicular to the floor. The forearms should be pointing up towards the pulley as they hold the rope with the palms facing each other. This is your starting position.",
@@ -22,5 +20,12 @@
     "Triceps_Pushdown_-_Rope_Attachment/0.jpg",
     "Triceps_Pushdown_-_Rope_Attachment/1.jpg"
   ],
-  "id": "Triceps_Pushdown_-_Rope_Attachment"
+  "id": "Triceps_Pushdown_-_Rope_Attachment",
+  "instructions_fr": [
+    "Attachez un accessoire en corde à un poulie haute et saisissez-le avec une prise neutre (les paumes se faisant face).",
+    "Debout, le torse droit et avec une très légère inclinaison vers l'avant, amenez les bras supérieurs près du corps et perpendiculaires au sol. Les avant-bras doivent être orientés vers le haut vers la poignée de la corde, les paumes se faisant face. C'est votre position de départ.",
+    "En utilisant les triceps, abaissez la corde en amenant chaque côté de la corde sur les côtés de vos cuisses. À la fin du mouvement, les bras sont complètement étendus et perpendiculaires au sol. Les bras supérieurs doivent toujours rester stationnaires près de votre torse et seuls les avant-bras doivent bouger. Respirez pendant que vous exécutez ce mouvement.",
+    "Après avoir maintenu la position pendant une seconde, ramenez lentement la corde jusqu'à la position de départ en contractant vos abdominaux. Inspirez pendant que vous effectuez cette étape.",
+    "Répétez le nombre de répétitions recommandé."
+  ]
 }

@@ -21,5 +21,10 @@
     "Childs_Pose/0.jpg",
     "Childs_Pose/1.jpg"
   ],
-  "id": "Childs_Pose"
+  "id": "Childs_Pose",
+  "instructions_fr": [
+    "Mettez-vous à quatre pattes, puis déplacez vos mains devant vous.",
+    "Baissez vos fesses pour vous asseoir sur vos talons. Laissez vos bras se balader le long du sol lorsque vous vous asseyez pour étirer votre colonne vertébrale.",
+    "Une fois que vous êtes bien installé sur vos talons, amenez vos mains près de vos pieds et détendez-vous. \"Respirez\" dans votre dos. Posez votre front contre le sol. Évitez cette position si vous avez des problèmes de genou."
+  ]
 }

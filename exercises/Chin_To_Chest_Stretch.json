@@ -19,5 +19,9 @@
     "Chin_To_Chest_Stretch/0.jpg",
     "Chin_To_Chest_Stretch/1.jpg"
   ],
-  "id": "Chin_To_Chest_Stretch"
+  "id": "Chin_To_Chest_Stretch",
+  "instructions_fr": [
+    "Prenez une position assise à même le sol.",
+    "Placez les deux mains à l'arrière de votre tête, doigts entrelacés, pouces vers le bas et coudes pointant droit devant vous. Ramenez lentement la tête vers la poitrine. Maintenez la position pendant 20 à 30 secondes."
+  ]
 }

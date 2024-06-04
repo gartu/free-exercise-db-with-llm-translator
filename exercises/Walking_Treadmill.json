@@ -21,5 +21,9 @@
     "Walking_Treadmill/0.jpg",
     "Walking_Treadmill/1.jpg"
   ],
-  "id": "Walking_Treadmill"
+  "id": "Walking_Treadmill",
+  "instructions_fr": [
+    "Pour commencer, montez sur le tapis de course et sélectionnez l'option souhaitée dans le menu. La plupart des tapis de course ont une option manuelle, ou vous pouvez sélectionner un programme à suivre. En général, vous pouvez entrer votre âge et votre poids pour estimer le nombre de calories brûlées pendant l'exercice. L'élévation peut être ajustée pour modifier l'intensité de l'entraînement.",
+    "Les tapis roulants offrent la commodité, des avantages cardiovasculaires et ont généralement un impact moins important que la marche en extérieur. Lors de la marche, vous devez maintenir un rythme modéré à rapide, et non pas lent. Étant une activité d'intensité plus faible, la marche ne brûle pas autant de calories que certaines autres activités, mais elle offre néanmoins de grands avantages. Une personne de 150 livres brûlera environ 175 calories en marchant à 4 miles par heure pendant 30 minutes, comparativement à 450 calories en courant deux fois plus vite. Maintenez une posture correcte lors de la marche et ne tenez les poignées que lorsque c'est nécessaire, comme lors du débarquement ou pour vérifier votre fréquence cardiaque."
+  ]
 }

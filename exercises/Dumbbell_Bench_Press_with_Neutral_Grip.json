@@ -22,5 +22,11 @@
     "Dumbbell_Bench_Press_with_Neutral_Grip/0.jpg",
     "Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
   ],
-  "id": "Dumbbell_Bench_Press_with_Neutral_Grip"
+  "id": "Dumbbell_Bench_Press_with_Neutral_Grip",
+  "instructions_fr": [
+    "Prenez un haltère dans chaque main et allongez-vous sur une banc plat. Vos pieds doivent être à plat sur le sol et vos omoplates rentrées.",
+    "En maintenant une prise neutre, les paumes face à face, commencez avec vos bras tendus directement au-dessus de vous, perpendiculairement au sol. Cette position sera votre point de départ.",
+    "Commencez le mouvement en fléchissant le coude et en abaissant les bras supérieurs sur le côté. Descendez jusqu'à ce que les haltères soient à votre torse.",
+    "Pausez, puis étendez le coude et revenez à la position de départ."
+  ]
 }

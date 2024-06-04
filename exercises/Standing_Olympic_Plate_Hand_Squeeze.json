@@ -21,5 +21,11 @@
     "Standing_Olympic_Plate_Hand_Squeeze/0.jpg",
     "Standing_Olympic_Plate_Hand_Squeeze/1.jpg"
   ],
-  "id": "Standing_Olympic_Plate_Hand_Squeeze"
+  "id": "Standing_Olympic_Plate_Hand_Squeeze",
+  "instructions_fr": [
+    "Pour commencer, tenez-vous droit en tenant une plaque de poids par le bord à la longueur du bras dans chaque main, en utilisant une prise neutre (paumes vers l'intérieur). Vos pieds doivent être à la largeur des épaules. C'est votre position de départ.",
+    "Baissez les poids jusqu'à ce que les doigts soient presque tendus mais puissent encore tenir les poids. Inspirez en baissant les poids.",
+    "Maintenant, ramenez les plaques en position de départ en expirant et en fermant vos mains.",
+    "Répétez pour le nombre de répétitions recommandé prescrit dans votre programme."
+  ]
 }

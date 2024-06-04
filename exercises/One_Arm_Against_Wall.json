@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "lats"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "From a standing position, place a bent arm against a wall or doorway.",
     "Slowly lean toward your arm until you feel a stretch in your lats."
@@ -19,5 +17,9 @@
     "One_Arm_Against_Wall/0.jpg",
     "One_Arm_Against_Wall/1.jpg"
   ],
-  "id": "One_Arm_Against_Wall"
+  "id": "One_Arm_Against_Wall",
+  "instructions_fr": [
+    "À partir d'une position debout, placez un bras plié contre un mur ou une porte.",
+    "Inclinaison lente vers votre bras jusqu'à ce que vous sentiez une étirement dans vos grands dorsaux."
+  ]
 }

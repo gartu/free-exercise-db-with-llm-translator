@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "glutes"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "From a lying position, bend your knees and keep your feet on the floor.",
     "Place your ankle of one foot on your opposite knee.",
@@ -20,5 +18,10 @@
     "Ankle_On_The_Knee/0.jpg",
     "Ankle_On_The_Knee/1.jpg"
   ],
-  "id": "Ankle_On_The_Knee"
+  "id": "Ankle_On_The_Knee",
+  "instructions_fr": [
+    "À partir d'une position couchée, pliez les genoux et gardez les pieds à plat sur le sol.",
+    "Placez votre cheville d'un pied sur le genou opposé.",
+    "Saisissez la cuisse ou le genou de la jambe inférieure et ramenez les deux jambes vers la poitrine. Détendez votre cou et vos épaules. Maintenez cette position pendant 10 à 20 secondes, puis changez de côté."
+  ]
 }

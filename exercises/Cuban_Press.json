@@ -22,5 +22,12 @@
     "Cuban_Press/0.jpg",
     "Cuban_Press/1.jpg"
   ],
-  "id": "Cuban_Press"
+  "id": "Cuban_Press",
+  "instructions_fr": [
+    "Prenez un haltère dans chaque main avec une poignée prononcée en position debout. Montez vos bras jusqu'à ce qu'ils soient parallèles au sol, laissant vos avant-bras pendre dans la position de \"chaîne à scarecrow\".  C'est votre position de départ.",
+    "Pour initier le mouvement, rotatez les épaules vers l'extérieur pour déplacer le bras supérieur de 180 degrés. Maintenez les bras supérieurs en place, en faisant tourner les bras supérieurs jusqu'à ce que les poignets se trouvent directement au-dessus des coudes, les avant-bras perpendiculaires au sol.",
+    "Maintenant, appuyez sur les haltères en les étendant au niveau des coudes, en redressant vos bras au-dessus de votre tête.",
+    "Revenez à la position de départ en respirant en inversant les étapes.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

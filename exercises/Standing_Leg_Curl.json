@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "hamstrings"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Adjust the machine lever to fit your height and lie with your torso bent at the waist facing forward around 30-45 degrees (since an angled position is more favorable for hamstrings recruitment) with the pad of the lever on the back of your right leg (just a few inches under the calves) and the front of the right leg on top of the machine pad.",
     "Keeping the torso bent forward, ensure your leg is fully stretched and grab the side handles of the machine. Position your toes straight. This will be your starting position.",
@@ -22,5 +20,12 @@
     "Standing_Leg_Curl/0.jpg",
     "Standing_Leg_Curl/1.jpg"
   ],
-  "id": "Standing_Leg_Curl"
+  "id": "Standing_Leg_Curl",
+  "instructions_fr": [
+    "Ajustez le levier de la machine à votre taille et allongez-vous avec le torse plié à la taille, penché vers l'avant d'environ 30 à 45 degrés (car une position inclinée est plus favorable pour la sollicitation des ischio-jambiers) avec le rembourrage du levier sur l'arrière de la jambe droite (à quelques centimètres sous les mollets) et l'avant de la jambe droite sur le rembourrage de la machine.",
+    "En gardant le torse penché en avant, assurez-vous que votre jambe est complètement tendue et saisissez les poignées latérales de la machine. Positionnez vos orteils droit.  C'est votre position de départ.",
+    "En expirant, ramenez votre jambe droite le plus haut possible sans décoller la cuisse du coussin. Une fois que vous avez atteint la position de contraction maximale, maintenez-la pendant une seconde.",
+    "En inspirant, ramenez les jambes dans la position initiale. Répétez l'exercice selon le nombre de répétitions recommandé.",
+    "Exécutez le même exercice maintenant pour la jambe gauche."
+  ]
 }

@@ -25,5 +25,14 @@
     "Incline_Dumbbell_Press/0.jpg",
     "Incline_Dumbbell_Press/1.jpg"
   ],
-  "id": "Incline_Dumbbell_Press"
+  "id": "Incline_Dumbbell_Press",
+  "instructions_fr": [
+    "Allongez-vous sur un banc incliné, avec un haltère dans chaque main posée sur vos cuisses. Les paumes de vos mains se feront face l'une à l'autre.",
+    "Ensuite, utilisez vos cuisses pour aider à pousser les haltères vers le haut, puis soulevez les haltères un à la fois jusqu'à ce que vous puissiez les tenir à la largeur des épaules.",
+    "Une fois que vous avez élevé les haltères jusqu'à la largeur des épaules, faites pivoter vos poignets vers l'avant de sorte que les paumes de vos mains se trouvent face à vous.  Cela constituera votre position de départ.",
+    "Assurez-vous de garder le contrôle total des haltères en tout temps. Puis respirez et poussez les haltères avec votre poitrine.",
+    "Verrouillez vos bras en haut, maintenez-les pendant une seconde, puis commencez à lentement baisser le poids. Astuce : idéalement, la descente des poids devrait prendre environ deux fois plus de temps que leur remontée.",
+    "Répétez le mouvement pour le nombre de répétitions prescrit.",
+    "Une fois que vous avez terminé, posez les haltères sur vos cuisses puis par terre. C'est la manière la plus sûre de déposer les haltères."
+  ]
 }

@@ -22,5 +22,12 @@
     "Barbell_Curl/0.jpg",
     "Barbell_Curl/1.jpg"
   ],
-  "id": "Barbell_Curl"
+  "id": "Barbell_Curl",
+  "instructions_fr": [
+    "Debout, le torse droit, en tenant une barre à l'épaule, les mains en face de vous et les coudes près du corps.  C'est la position de départ.",
+    "En maintenant les bras supérieurs immobiles, faites pivoter les poids vers l'avant en contractant les biceps pendant que vous expirez. Astuce : Seules les avant-bras doivent bouger.",
+    "Continuez le mouvement jusqu'à ce que vos biceps soient complètement contractés et la barre au niveau des épaules. Maintenez la position contractée pendant une seconde et contractez fortement les biceps.",
+    "Ramenez lentement la barre vers sa position initiale pendant que vous respirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

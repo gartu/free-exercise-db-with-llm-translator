@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie down on a flat bench holding two dumbbells directly above your shoulders. Your arms should be fully extended and form a 90 degree angle from your torso and the floor.",
     "The palms of your hands should be facing forward, and your elbows should be tucked in. This will be your starting position.",
@@ -21,5 +19,11 @@
     "Dumbbell_Tricep_Extension_-Pronated_Grip/0.jpg",
     "Dumbbell_Tricep_Extension_-Pronated_Grip/1.jpg"
   ],
-  "id": "Dumbbell_Tricep_Extension_-Pronated_Grip"
+  "id": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat en tenant deux haltères directement au-dessus de vos épaules. Vos bras doivent être complètement tendus et former un angle de 90 degrés par rapport à votre torse et au sol.",
+    "Les paumes de vos mains doivent être orientées vers l'avant, et vos coudes doivent être rentrés. Cette position sera votre point de départ.",
+    "Maintenant, inspirez et abaissez lentement les haltères jusqu'à ce qu'ils soient près de vos oreilles. Assurez-vous de garder vos bras supérieurs immobiles et vos coudes rentrés.",
+    "Ensuite, expirez et utilisez vos triceps pour ramener le poids à la position de départ."
+  ]
 }

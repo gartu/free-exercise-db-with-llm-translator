@@ -22,5 +22,11 @@
     "Lying_Dumbbell_Tricep_Extension/0.jpg",
     "Lying_Dumbbell_Tricep_Extension/1.jpg"
   ],
-  "id": "Lying_Dumbbell_Tricep_Extension"
+  "id": "Lying_Dumbbell_Tricep_Extension",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat tout en tenant deux haltères directement devant vous. Vos bras doivent être complètement étendus à un angle de 90 degrés par rapport à votre torse et au sol. Les paumes doivent être tournées vers l'intérieur et les coudes doivent être rentrés. Cette position est la position de départ.",
+    "En respirant, gardez les bras supérieurs immobiles avec les coudes rentrants, puis baissez lentement la charge jusqu'à ce que les haltères se rapprochent de vos oreilles.",
+    "À ce stade, tout en gardant les coudes près du corps et les bras supérieurs fixes, utilisez les triceps pour ramener le poids à la position de départ pendant que vous expirez.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

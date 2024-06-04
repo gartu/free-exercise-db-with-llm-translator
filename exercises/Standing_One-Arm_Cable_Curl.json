@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Start out by grabbing single handle next to the low pulley machine. Make sure you are far enough from the machine so that your arm is supporting the weight.",
     "Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. Your non lifting arm should be grabbing your waist. This will allow you to keep your balance.",
@@ -23,5 +21,13 @@
     "Standing_One-Arm_Cable_Curl/0.jpg",
     "Standing_One-Arm_Cable_Curl/1.jpg"
   ],
-  "id": "Standing_One-Arm_Cable_Curl"
+  "id": "Standing_One-Arm_Cable_Curl",
+  "instructions_fr": [
+    "Commencez en saisissant la poignée unique à côté de la machine à poulie basse. Assurez-vous d'être suffisamment éloigné de la machine afin que votre bras supporte le poids.",
+    "Assurez-vous que votre bras supérieur soit immobile, perpendiculaire au sol avec des coudes rentrés et les paumes face à l'avant. Votre bras qui ne soulève pas devrait saisir votre taille. Cela vous permettra de garder votre équilibre.",
+    "Commencez lentement à courber la poignée unique vers le haut tout en gardant le bras supérieur immobile jusqu'à ce que votre avant-bras touche votre biceps tout en expirant. Astuce : Seul l'avant-bras doit bouger.",
+    "Maintenez la position de contraction en contractant le biceps, puis remettez la poignée unique dans la position de départ pendant que vous inspirez.",
+    "Répétez pour le nombre de répétitions recommandé.",
+    "Changez de bras pendant l'exécution de cet exercice."
+  ]
 }

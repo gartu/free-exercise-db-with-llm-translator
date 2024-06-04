@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "calves"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Stand with your torso upright holding two dumbbells in your hands by your sides. Place the ball of the foot on a sturdy and stable wooden board (that is around 2-3 inches tall) while your heels extend off and touch the floor. This will be your starting position.",
     "With the toes pointing either straight (to hit all parts equally), inwards (for emphasis on the outer head) or outwards (for emphasis on the inner head), raise the heels off the floor as you exhale by contracting the calves. Hold the top contraction for a second.",
@@ -21,5 +19,11 @@
     "Standing_Dumbbell_Calf_Raise/0.jpg",
     "Standing_Dumbbell_Calf_Raise/1.jpg"
   ],
-  "id": "Standing_Dumbbell_Calf_Raise"
+  "id": "Standing_Dumbbell_Calf_Raise",
+  "instructions_fr": [
+    "Debout, le torse droit, tenez deux haltères dans vos mains au niveau de vos hanches. Posez la pointe de votre pied sur une planche en bois solide et stable (d'une hauteur d'environ 5 à 7 cm), tandis que vos talons dépassent et touchent le sol. Cette position sera votre point de départ.",
+    "En pointant les orteils soit directement (pour toucher toutes les parties de façon égale), vers l'intérieur (pour mettre l'accent sur la tête externe) ou vers l'extérieur (pour mettre l'accent sur la tête interne), levez les talons du sol en expirant en contractant les mollets. Maintenez la contraction pendant une seconde.",
+    "En inspirant, revenez à la position de départ en posant lentement les talons au sol.",
+    "Répétez le nombre de fois recommandé."
+  ]
 }

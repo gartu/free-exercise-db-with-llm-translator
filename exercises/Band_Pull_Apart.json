@@ -22,5 +22,11 @@
     "Band_Pull_Apart/0.jpg",
     "Band_Pull_Apart/1.jpg"
   ],
-  "id": "Band_Pull_Apart"
+  "id": "Band_Pull_Apart",
+  "instructions_fr": [
+    "Commencez avec les bras tendus devant vous, en tenant la bande avec les deux mains.",
+    "Initiez le mouvement en effectuant un vol inversé, en déplaçant vos mains latéralement vers vos côtés.",
+    "Gardez vos coudes rentrés pendant que vous exécutez le mouvement, en ramenant la bande vers votre poitrine. Assurez-vous de garder les épaules en arrière pendant l'exercice.",
+    "Arrêtez-vous lorsque vous avez terminé le mouvement, en retournant à la position de départ de manière contrôlée."
+  ]
 }

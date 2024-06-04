@@ -7,9 +7,7 @@
   "primaryMuscles": [
     "triceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Lie on a flat bench with either an e-z bar (my preference) or a straight bar placed on the floor behind your head and your feet on the floor.",
     "Grab the bar behind you, using a medium overhand (pronated) grip, and raise the bar in front of you at arms length. Tip: The arms should be perpendicular to the torso and the floor. The elbows should be tucked in. This is the starting position.",
@@ -22,5 +20,12 @@
     "Lying_Triceps_Press/0.jpg",
     "Lying_Triceps_Press/1.jpg"
   ],
-  "id": "Lying_Triceps_Press"
+  "id": "Lying_Triceps_Press",
+  "instructions_fr": [
+    "Allongez-vous sur un banc plat avec soit une barre e-z (ma préférence) ou une barre droite placée sur le sol derrière votre tête et vos pieds sur le sol.",
+    "Attrapez la barre derrière vous, en utilisant une poignée moyenne à l'envers (prononnée), et soulevez la barre devant vous à la longueur des bras. Astuce : Les bras doivent être perpendiculaires au torse et au sol. Les coudées doivent être rentrées. C'est la position de départ.",
+    "En respirant, abaissez lentement la charge jusqu'à ce que la barre touche légèrement votre front tout en gardant les bras supérieurs et les coudes immobiles.",
+    "À ce moment-là, utilisez les triceps pour ramener le poids à la position de départ en expirant.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }

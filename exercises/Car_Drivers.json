@@ -21,5 +21,11 @@
     "Car_Drivers/0.jpg",
     "Car_Drivers/1.jpg"
   ],
-  "id": "Car_Drivers"
+  "id": "Car_Drivers",
+  "instructions_fr": [
+    "En vous tenant droit, tenez une plaque d'haltère avec les deux mains aux positions 3 et 9 heures. Vos paumes doivent être tournées l'une vers l'autre et vos bras doivent être tendus devant vous. Cette position sera votre position de départ.",
+    "Initiez le mouvement en faisant pivoter la poignée vers une côté aussi loin que possible. Utilisez le même type de mouvement que vous utiliseriez pour tourner un volant d'un côté.",
+    "Inversez le mouvement, en l'orientant complètement vers le côté opposé.",
+    "Répétez pour le nombre de répétitions recommandé."
+  ]
 }
