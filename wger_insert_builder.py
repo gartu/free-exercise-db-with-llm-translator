@@ -15,17 +15,17 @@ exercise_folder = './exercises/'
 img_output = './media/exercise-images/'
 
 # Initialize those id counters to MAX(id) of your current table
-exercise_base_id = 1216
-exercise_id = 2183
-exercise_base_equipment_id = 276
-exercise_base_muscle_id = 448
-exercise_base_muscle_secondary_id = 449
-exercise_image_id = 1
-easy_thumbnails_source_id = 1
-easy_thumbnails_thumbnail_id = 1
-historicalexercise_id = 6
-historicalexercisebase_id = 2
-historicalexerciseimage_id = 1
+exercise_base_id = 0
+exercise_id = 0
+exercise_base_equipment_id = 0
+exercise_base_muscle_id = 0
+exercise_base_muscle_secondary_id = 0
+exercise_image_id = 0
+easy_thumbnails_source_id = 0
+easy_thumbnails_thumbnail_id = 0
+historicalexercise_id = 0
+historicalexercisebase_id = 0
+historicalexerciseimage_id = 0
 
 #####################################################################################################
 
@@ -190,14 +190,16 @@ for filename in os.listdir(exercise_folder):
         sql_statements.append(f"INSERT INTO public.exercises_exercisebase_equipment (id, exercisebase_id, equipment_id) VALUES ({exercise_base_equipment_id}, {exercise_base_id}, {equipment_table[equipment]});")
 
         # exercises_exercisebase_muscles
-        for muscle in data['primaryMuscles']:
+        muscle_ids = set([muscle_table[muscle] for muscle in data['primaryMuscles']])
+        for muscle_id in muscle_ids:
             exercise_base_muscle_id = exercise_base_muscle_id + 1
-            sql_statements.append(f"INSERT INTO public.exercises_exercisebase_muscles (id, exercisebase_id, muscle_id) VALUES ({exercise_base_muscle_id}, {exercise_base_id}, {muscle_table[muscle]});")
+            sql_statements.append(f"INSERT INTO public.exercises_exercisebase_muscles (id, exercisebase_id, muscle_id) VALUES ({exercise_base_muscle_id}, {exercise_base_id}, {muscle_id});")
 
         # exercises_exercisebase_muscles_secondary
-        for muscle in data['secondaryMuscles']:
+        muscle_ids = set([muscle_table[muscle] for muscle in data['secondaryMuscles']])
+        for muscle_id in muscle_ids:
             exercise_base_muscle_secondary_id = exercise_base_muscle_secondary_id + 1
-            sql_statements.append(f"INSERT INTO public.exercises_exercisebase_muscles_secondary (id, exercisebase_id, muscle_id) VALUES ({exercise_base_muscle_secondary_id}, {exercise_base_id}, {muscle_table[muscle]});")
+            sql_statements.append(f"INSERT INTO public.exercises_exercisebase_muscles_secondary (id, exercisebase_id, muscle_id) VALUES ({exercise_base_muscle_secondary_id}, {exercise_base_id}, {muscle_id});")
 
         exercise_image_uuid = uuid.uuid4()
         img_folder = data['images'][0].split("/")[0]

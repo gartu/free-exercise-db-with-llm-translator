@@ -7,18 +7,11 @@ from PIL import Image
 ###################################### Configuration ######################################
 ###########################################################################################
 
-duration=800
+duration=1200
 output_format = 'WEBP' # or GIF
 output_name='exercise.' + output_format.lower()
 
-
 ###########################################################################################
-
-root_folder = 'exercises'
-
-duration = 800
-output_format = 'WEBP'  # or GIF
-output_name = 'exercise.' + output_format.lower()
 
 root_folder = 'exercises'
 
